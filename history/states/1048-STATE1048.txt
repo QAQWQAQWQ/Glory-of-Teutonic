@@ -1,0 +1,30 @@
+state = {
+	id = 1048
+	name = "STATE_1048"
+	resources = {
+		steel=1
+	}
+	
+	state_category = town
+	
+	history = {
+		owner = HAB
+		add_core_of = HAB
+
+		victory_points = { #Verona
+			603 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+
+	}
+
+	provinces = {
+        603 11568
+	}
+	manpower = 263151
+
+	local_supplies = 0.0 
+}

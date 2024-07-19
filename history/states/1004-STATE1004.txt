@@ -1,0 +1,25 @@
+state={
+	id=1004
+	name="STATE_1004"
+	manpower = 280000
+	
+	state_category = rural
+	resources={
+		steel=1
+		aluminium=1
+	}
+	
+	history={
+		owner = BRG
+		add_core_of = BRG
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+        3402 3447 11549
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,25 @@
+state={
+	id=1020
+	name="STATE_1020"
+	resources={
+		aluminium=2
+	}
+
+	state_category = town
+	history={
+		owner = ING
+		add_core_of = ING
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+        6540 3705
+	}
+	manpower=386854
+
+	local_supplies=0.0 
+}

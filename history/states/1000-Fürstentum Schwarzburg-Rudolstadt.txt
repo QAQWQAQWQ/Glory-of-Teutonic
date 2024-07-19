@@ -1,0 +1,24 @@
+
+state={
+	id=1000
+	name="STATE_1000"
+	manpower = 205214
+	resources={
+		steel=1
+	}
+	state_category = pastoral
+
+	history={
+		owner = SAE
+		add_core_of = SAE
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+        9497
+	}
+
+	local_supplies=0.0 
+}

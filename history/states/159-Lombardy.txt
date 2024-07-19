@@ -1,0 +1,31 @@
+
+state = {
+	id = 159
+	name = "STATE_159"
+	manpower = 5097704
+	state_category = metropolis
+
+	history = {
+		owner = HAB
+		add_core_of = HAB
+		victory_points = { #Milano
+			3780 15 
+		}
+		victory_points = { #Brescia
+			773 3
+		}
+		buildings = {
+			infrastructure = 4 #was: 8
+			arms_factory = 7
+			industrial_complex = 3
+			air_base = 10
+
+		}
+	}
+
+	provinces = {
+		607 773 969  3780 6661 9584 11587
+	}
+
+	local_supplies = 0.0 
+}

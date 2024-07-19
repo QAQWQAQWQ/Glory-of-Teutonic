@@ -1,0 +1,27 @@
+
+state={
+	id=1033
+	name="STATE_1033"
+	manpower = 698235
+
+	state_category = large_town
+
+	history={
+		owner = MAI
+		add_core_of = MAI
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		victory_points = {
+			11560 10.0 
+		}
+	}
+
+	provinces={
+         11560 
+	}
+
+	local_supplies=0.0 
+}

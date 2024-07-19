@@ -1,0 +1,27 @@
+state=
+{
+	id=1043
+	name="STATE_1043"
+	manpower = 830000
+	
+	state_category = town
+	
+	resources={
+		steel=4
+	}
+	
+	history={
+		owner = HAB
+		add_core_of = HAB
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+	}
+	provinces=
+	{
+        543 5283 7857 557 11525	}
+
+	local_supplies=0.0 
+}

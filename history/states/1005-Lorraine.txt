@@ -1,0 +1,28 @@
+
+state={
+	id=1005
+	name="STATE_1005" # ALorraine
+	manpower = 815600
+	
+	state_category = town
+	resources={
+		steel=10 #was 100 # was: 236
+	}
+
+	history={
+		owner = LOR
+		victory_points = { 9559 10 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = LOR
+	}
+
+	provinces={
+        3629 9559 11502 
+	}
+
+	local_supplies=14.0 
+}

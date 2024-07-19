@@ -1,0 +1,31 @@
+state={
+	id=1038
+	name="STATE_1038"
+	manpower = 1896017
+	resources={
+		oil=2
+	}
+	
+	buildings_max_level_factor=2.000
+	state_category=megalopolis
+	
+	history={
+		owner = HAB
+		add_core_of = HAB
+		victory_points = {
+			11666 40.0 
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 3
+			industrial_complex = 8
+			air_base = 6
+		}
+	}
+
+	provinces={
+		11666
+	}
+
+	local_supplies=10.0 
+}

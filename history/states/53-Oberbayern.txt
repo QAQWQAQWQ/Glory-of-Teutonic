@@ -1,0 +1,25 @@
+
+state={
+	id=53
+	name="STATE_53"
+	manpower = 1453365
+	
+	state_category = city
+
+	history={
+		owner = LAN
+		add_core_of = LAN
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			9515 3
+		}
+	}
+
+	provinces={
+		532 6725 9515 9681 
+	}
+
+	local_supplies=7.0 
+}

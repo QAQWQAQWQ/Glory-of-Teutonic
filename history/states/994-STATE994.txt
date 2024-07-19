@@ -1,0 +1,26 @@
+
+state={
+	id=994
+	name="STATE_994"
+	manpower = 592576
+	resources={
+		steel=5
+	}
+
+	state_category = town
+
+	history={
+		owner = SAX
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = SAX
+	}
+
+	provinces={
+        6441 11545
+	}
+
+	local_supplies=0.0 
+}

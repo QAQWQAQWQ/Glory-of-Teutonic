@@ -1,0 +1,23 @@
+state = {
+	id = 981
+	name = "STATE_981"
+	manpower = 295630 
+	state_category = town
+	
+	history = {
+		victory_points = {
+			9320 3 
+		}
+		owner = HAS
+		add_core_of = HAS
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		 9320
+ 	}
+
+	local_supplies = 0.0 
+}

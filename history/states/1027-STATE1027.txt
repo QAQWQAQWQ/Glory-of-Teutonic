@@ -1,0 +1,21 @@
+state={
+	id=1027
+	name="STATE_1027"
+	manpower = 218467
+	
+	state_category = pastoral
+
+	history={
+		owner = PAD
+		add_core_of = PAD
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+        3355 
+	}
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=1054
+	name="STATE_1054"
+	manpower =610200
+	
+	
+	state_category = rural
+	
+	resources={
+		aluminium=7 # was: 10
+	}
+
+	history={
+		owner = PHU
+		add_core_of = PHU
+		victory_points = {
+			6983 3
+		}
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		3985 6957 9586 6983 6614 6619 9588
+	}
+
+	local_supplies=7.0 
+}

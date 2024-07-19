@@ -1,0 +1,24 @@
+
+state={
+	id=1007
+	name="STATE_1007"
+	manpower = 181300
+	
+	state_category = town
+
+	history={
+		owner = LUX
+		add_core_of = LUX
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+        11407 9418
+	}
+
+	local_supplies=14.0 
+}

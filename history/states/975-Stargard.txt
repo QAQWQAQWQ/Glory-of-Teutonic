@@ -1,0 +1,24 @@
+
+state={
+	id=975
+	name="STATE_975"
+	manpower = 86221
+	
+	
+	state_category = rural
+
+	history={
+		owner = MES
+		add_core_of = MES
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+        3258
+	}
+
+	local_supplies=3.0 
+}

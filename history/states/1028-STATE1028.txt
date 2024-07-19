@@ -1,0 +1,21 @@
+state={
+	id=1028
+	name="STATE_1028"
+	manpower = 188467
+	
+	state_category = pastoral
+
+	history={
+		owner = WAL
+		add_core_of = WAL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+        11431
+	}
+}

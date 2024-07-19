@@ -1,0 +1,22 @@
+
+state={
+	id=1008
+	name="STATE_1008"
+	manpower = 91300
+	
+	state_category = rural
+
+	history={
+		owner = TRE
+		add_core_of = TRE
+		buildings = {
+			infrastructure = 3
+
+		}
+	}
+
+	provinces={
+        3488
+	}
+
+}

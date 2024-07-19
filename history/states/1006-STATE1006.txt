@@ -1,0 +1,35 @@
+
+state={
+	id=1006
+	name="STATE_1006"
+	manpower = 217500
+	
+	state_category = rural
+	
+	resources={
+		steel=5
+	}
+
+	history={
+		owner = LOR
+		add_core_of = LOR
+		victory_points = {
+			9642 5 
+		}
+		victory_points = {
+			11516 5 
+		}
+		victory_points = {
+			3560 1
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+        3560 5291 521 11516 
+	}
+
+	local_supplies=0.0 
+}

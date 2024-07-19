@@ -1,0 +1,26 @@
+
+state = {
+	id = 973
+	name = "STATE_973"
+	manpower = 1065476
+	
+	state_category = town
+	resources = {
+		steel = 4
+		aluminium = 2
+	}
+
+	history = {
+		owner = HAB
+		add_core_of = HAB
+		buildings = {
+			infrastructure = 4 
+		}
+	}
+
+	provinces = {
+        776 6635 11570 
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,39 @@
+state = {
+	id = 163
+	name = "STATE_163"
+	manpower = 1244400
+	
+	state_category = town
+	
+	history = {
+		owner = HAB
+		add_core_of = HAB
+		victory_points = { #Zara/Zadar
+			3943 5 
+		}
+		victory_points = { #Dubrovnik
+			6889 3 
+		}
+		victory_points = { #Split
+			3924 3
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 2
+			3943 = {
+				naval_base = 1
+			}
+			3924 = {
+				naval_base = 3
+			}
+			6889 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces = {	
+		3924 3974 3943 6889 11816 3868 
+	}
+
+	local_supplies = 0.0 
+}

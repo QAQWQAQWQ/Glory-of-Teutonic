@@ -1,0 +1,18 @@
+state = {
+	id = 1044
+	name = "STATE_1044"
+
+	state_category = rural
+
+	history = {
+		owner = PRO
+		add_core_of = PRO
+	}
+
+	provinces = {
+         6975 9736
+	}
+	manpower = 207500
+
+	local_supplies = 0.0 
+}

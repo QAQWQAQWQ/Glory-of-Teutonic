@@ -1,0 +1,28 @@
+
+state={
+	id=63
+	name="STATE_63"
+	manpower = 624417
+	resources={
+		steel=7 #was 8  #was 16 was: 23 # was: 36
+		aluminium=6 # was: 8 was: 12
+	}
+	
+	state_category = town
+
+	history={
+		owner = POM
+		add_core_of = POM
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 3
+		}
+	}
+
+	provinces={
+		6309 6334 6390 9277 9334 9361
+	}
+
+	local_supplies=7.0 
+}

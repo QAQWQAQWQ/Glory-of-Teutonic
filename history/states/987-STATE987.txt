@@ -1,0 +1,27 @@
+
+state={
+	id = 987
+	name="STATE_987"
+	manpower = 608286
+	resources={
+		oil=1
+	}
+	
+	state_category = town
+
+	history={
+		owner = HAS
+		add_core_of = HAS
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+		374 6349 
+	}
+
+	local_supplies=0.0 
+}

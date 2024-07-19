@@ -1,0 +1,26 @@
+
+state={
+	id=1010
+	name="STATE_1010"
+	manpower = 92576
+	resources={
+		steel=1
+	}
+
+	state_category = rural
+
+	history={
+		owner = ANH
+		add_core_of = ANH
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+        3499 9560
+	}
+
+	local_supplies=0.0 
+}

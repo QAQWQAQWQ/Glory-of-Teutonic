@@ -1,0 +1,26 @@
+
+state={
+	id=1011
+	name="STATE_1011"
+	manpower = 691145
+	resources={
+		steel=1
+	}
+
+	state_category = rural
+
+	history={
+		owner = MAG
+		add_core_of = MAG
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+         11359 9238
+	}
+
+	local_supplies=0.0 
+}

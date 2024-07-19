@@ -1,0 +1,32 @@
+
+state = {
+	id = 1052
+	name = "STATE_1052"
+	manpower = 2484933
+	
+	state_category = city
+
+	history = {
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 2
+			11833 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			11833 2
+		}
+	}
+
+	provinces = {
+        910 6875 9750 11833
+	}
+
+	local_supplies = 0.0 
+}

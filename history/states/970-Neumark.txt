@@ -1,0 +1,26 @@
+
+state={
+	id=970
+	name="STATE_970"
+	manpower = 750840
+	resources={
+		aluminium=8 # was: 24
+	}
+
+	state_category = city
+
+	history={
+		owner = TEU
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = TEU
+	}
+
+	provinces={
+         537 6236 9306 9252 9387 
+	}
+
+	local_supplies=0.0 
+}

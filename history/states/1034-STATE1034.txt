@@ -1,0 +1,23 @@
+
+state={
+	id=1034
+	name="STATE_1034"
+	manpower = 208159
+
+	state_category = town
+
+	history={
+		owner = MAI
+		add_core_of = MAI
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+		6594
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,40 @@
+
+state={
+	id=189
+	name="STATE_189"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = TEU
+		add_core_of = TEU
+		victory_points = {
+			9483 3
+		}
+		victory_points = {
+			6314 1
+		}
+		victory_points = {
+			6229 1 #Panevezys
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+			6314 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		6360 3337 3354 6314 9483 9499 9731 6229 6376 530 9374 
+	}
+
+	local_supplies=0.0 
+	manpower=997100
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

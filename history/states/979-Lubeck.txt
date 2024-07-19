@@ -1,0 +1,29 @@
+state = {
+	id = 979
+	name = "STATE_979"
+	manpower = 1095630 
+	state_category = large_city
+	
+	history = {
+		victory_points = {
+			11331 20.0 
+		}
+		owner = HAS
+		add_core_of = HAS
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			dockyard = 4
+			air_base = 5
+			11331  = {
+				naval_base = 8
+			}
+		}
+	}
+
+	provinces = {
+		 11331 
+ 	}
+
+	local_supplies = 0.0 
+}

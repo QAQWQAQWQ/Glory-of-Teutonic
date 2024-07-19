@@ -1,0 +1,20 @@
+state={
+	id=971
+	name="STATE_971"
+	manpower = 632000
+	
+	state_category = rural
+	history={
+		owner = PHU
+		add_core_of = PHU
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		493 3482 9508
+	}
+
+	local_supplies=0.0 
+}

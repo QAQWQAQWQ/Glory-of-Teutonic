@@ -1,0 +1,24 @@
+
+state={
+	id=997
+	name="STATE_997"
+	manpower = 105214
+	resources={
+		steel=1
+	}
+	state_category = pastoral
+
+	history={
+		owner = SAB
+		add_core_of = SAB
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+        3474
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=1040
+	name="STATE_1040"
+	manpower = 1795983
+	resources={
+		oil=1
+	}
+	
+	state_category = large_city
+	
+	history={
+		owner = HAB
+		add_core_of = HAB
+		buildings = {
+			infrastructure = 4
+			arms_factory = 3
+			industrial_complex = 4
+		}
+	}
+
+	provinces={
+        6687 9650 9679 653 9646 9648
+	}
+
+	local_supplies=0.0 
+}

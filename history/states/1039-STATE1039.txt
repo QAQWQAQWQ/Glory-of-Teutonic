@@ -1,0 +1,25 @@
+
+state={
+	id=1039
+	name="STATE_1039"
+	manpower = 395983
+	resources={
+		oil=2
+	}
+	
+	state_category = town
+	
+	history={
+		owner = HAB
+		add_core_of = HAB
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+        3700 9661 11630
+	}
+
+	local_supplies=0.0 
+}

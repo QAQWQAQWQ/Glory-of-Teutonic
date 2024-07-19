@@ -1,0 +1,21 @@
+state={
+	id=1026
+	name="STATE_1026"
+	manpower = 358467
+	
+	state_category = rural
+
+	history={
+		owner = CLE
+		add_core_of = CLE
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+        3512 
+	}
+}

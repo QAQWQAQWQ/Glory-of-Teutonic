@@ -1,0 +1,22 @@
+
+state={
+	id=984
+	name="STATE_984"
+	manpower = 48108
+	state_category = town
+
+	history={
+		owner = TEU
+		add_core_of = TEU
+		
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+        266 9327 11386
+	}
+
+	local_supplies=12.0 
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=28
+	name="STATE_28" # Alsace-Lorraine
+	manpower = 1215600
+	
+	state_category = city
+	resources={
+		steel=30 #was 100 # was: 236
+	}
+
+	history={
+		owner = ALC
+		add_core_of = ALC
+		victory_points = { 678 5 }
+		victory_points = { 9503 5 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			anti_air_building = 5
+			air_base = 5
+
+		}
+	}
+
+	provinces={
+		549 678 1346 6529 9503
+	}
+
+	local_supplies=14.0 
+}

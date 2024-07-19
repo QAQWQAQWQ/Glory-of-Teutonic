@@ -1,0 +1,23 @@
+
+state={
+	id=1022
+	name="STATE_1022"
+	manpower = 508159
+
+	state_category = town
+
+	history={
+		owner = BAM
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = BAM
+	}
+
+	provinces={
+        586 11404 9416 
+	}
+
+	local_supplies=0.0 
+}

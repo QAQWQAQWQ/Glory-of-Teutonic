@@ -1,0 +1,30 @@
+state={
+	id=980
+	name="STATE_980"
+	manpower = 236353
+
+
+	state_category = town
+
+	history={
+		owner = HAS
+		add_core_of = HAS
+		victory_points = {
+			11305 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			11305 = {
+				naval_base = 6
+
+			}
+		}
+	}
+
+	provinces={
+		11305 
+	}
+
+	local_supplies=3.0 
+}

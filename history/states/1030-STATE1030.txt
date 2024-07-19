@@ -1,0 +1,30 @@
+
+state={
+	id=1030
+	name="STATE_1030"
+	manpower = 727739
+	resources={
+		steel=10
+		aluminium=2
+	}
+	
+	state_category = city
+
+	history={
+		owner = PFA
+		add_core_of = PFA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+        563 3558 11547 
+	}
+	
+	
+
+	local_supplies=0.0 
+}

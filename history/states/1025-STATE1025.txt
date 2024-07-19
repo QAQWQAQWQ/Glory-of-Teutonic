@@ -1,0 +1,31 @@
+state={
+	id=1025
+	name="STATE_1025"
+	manpower = 4258467
+	
+	state_category = large_city
+
+	history={
+		owner = MUN
+		add_core_of = MUN
+		victory_points = {
+			11388 5
+		}
+		victory_points = {
+			9509 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 3
+
+		}
+	}
+
+	provinces={
+		6535 9509 6622 11388 9281 11264 11346 
+	}
+
+	local_supplies=14.0 
+}

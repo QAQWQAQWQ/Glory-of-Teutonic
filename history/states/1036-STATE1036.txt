@@ -1,0 +1,22 @@
+
+state={
+	id=1036
+	name="STATE_1036"
+	manpower = 198235
+
+	state_category = rural
+
+	history={
+		owner = HED
+		add_core_of = HED
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		6549 3524
+	}
+
+	local_supplies=0.0 
+}

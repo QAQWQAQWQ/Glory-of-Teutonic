@@ -1,0 +1,26 @@
+
+state={
+	id=990
+	name="STATE_990"
+	manpower = 665029
+
+	state_category = rural
+
+
+	history={
+		owner = MAG
+		victory_points = {
+			3522 5 
+		}
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = MAG
+	}
+
+	provinces={
+         3522
+	}
+
+	local_supplies=0.0 
+}

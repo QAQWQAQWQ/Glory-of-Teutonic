@@ -1,0 +1,27 @@
+state = {
+	id = 1045
+	name = "STATE_1045"
+
+	state_category = city
+
+	history = {
+		owner = SPM
+		add_core_of = SPM
+		victory_points = {
+			9909 5 
+		}
+		buildings = {
+			infrastructure = 3
+			9909 = {
+				naval_base = 2
+			}		
+		}
+	}
+
+	provinces = {
+		9909 3959
+	}
+	manpower = 307500
+
+	local_supplies = 0.0 
+}

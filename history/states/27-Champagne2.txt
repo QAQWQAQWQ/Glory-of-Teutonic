@@ -1,0 +1,31 @@
+
+state={
+	id=27
+	name="STATE_27" # Bourgogne
+	manpower = 1070800
+	
+	state_category = large_city
+	
+	resources={
+		aluminium=11 # was: 18
+	}
+
+	history={
+		owner = BRG
+		add_core_of = BRG
+		victory_points = {
+			9490 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			air_base = 2
+		}
+	}
+
+	provinces={
+		9490 6613 11593 11794 648 667 3506 3669 3681 9625 9644 11628 
+	}
+
+	local_supplies=0.0 
+}

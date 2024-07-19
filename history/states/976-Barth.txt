@@ -1,0 +1,27 @@
+
+state={
+	id=976
+	name="STATE_976"
+	manpower = 126221
+	
+	
+	state_category = town
+
+	history={
+		victory_points = {
+			9388 1
+		}
+		owner = HAS
+		add_core_of = HAS
+		add_core_of = POM
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={ 
+        9388 13257
+	}
+
+	local_supplies=3.0 
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 1050
+	name = "STATE_1050"
+	resources = {
+		aluminium=1
+	}
+	
+	state_category = town
+	
+	history = {
+		owner = PAM
+		add_core_of = PAM
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+
+	}
+
+	provinces = {
+        6790 3773
+	}
+	manpower = 253151
+
+	local_supplies = 0.0 
+}

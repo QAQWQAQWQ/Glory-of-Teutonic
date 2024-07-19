@@ -1,0 +1,24 @@
+state={
+	id=1016
+	name="STATE_1016"
+	resources={
+		aluminium=1
+	}
+
+	state_category = rural
+	history={
+		owner = BRN
+		add_core_of = BRN
+		buildings = {
+			infrastructure = 4
+
+		}
+	}
+
+	provinces={
+        694 
+	}
+	manpower=86854
+
+	local_supplies=0.0 
+}

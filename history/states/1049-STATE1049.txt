@@ -1,0 +1,26 @@
+state = {
+	id = 1049
+	name = "STATE_1049"
+	resources = {
+		steel=1
+	}
+	
+	state_category = town
+	
+	history = {
+		owner = MAT
+		add_core_of = MAT
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+
+	}
+
+	provinces = {
+        3776 11734
+	}
+	manpower = 233151
+
+	local_supplies = 0.0 
+}

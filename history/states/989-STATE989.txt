@@ -1,0 +1,28 @@
+state={
+	id=989
+	name="STATE_989"
+	manpower = 458467
+	
+	state_category = town
+
+	history={
+		owner = OLD
+		victory_points = {
+			241 5 
+		}
+		buildings = {
+			infrastructure = 3
+			241 = {
+				naval_base = 8
+
+			}
+			dockyard = 2
+
+		}
+		add_core_of = OLD
+	}
+
+	provinces={
+        241 309 336
+	}
+}

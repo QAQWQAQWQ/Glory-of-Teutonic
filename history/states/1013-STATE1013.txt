@@ -1,0 +1,27 @@
+
+state={
+	id=1013
+	name="STATE_1013"
+	manpower = 138286
+	resources={
+		oil=1
+	}
+	
+	state_category = rural
+
+	history={
+		owner = BSC
+		add_core_of = BSC
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+        9375 11493 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,28 @@
+
+state={
+	id=103
+	name="STATE_103" # Dalmatia
+	manpower = 1431700 #TODO_Manu: Check if pop need to go down after Fiume split
+
+	state_category = large_town
+
+
+	history={
+		owner = PHU
+		add_core_of = PHU
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			industrial_complex = 3
+			591 = {
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces={
+		591 984 3601 6611 13252
+	}
+
+	local_supplies=4.0 
+}

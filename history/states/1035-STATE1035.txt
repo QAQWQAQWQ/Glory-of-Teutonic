@@ -1,0 +1,23 @@
+
+state={
+	id=1035
+	name="STATE_1035"
+	manpower = 398235
+
+	state_category = town
+
+	history={
+		owner = NAS
+		add_core_of = NAS
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+        9547 9486 6444
+	}
+
+	local_supplies=0.0 
+}

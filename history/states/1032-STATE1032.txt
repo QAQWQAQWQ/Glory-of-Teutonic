@@ -1,0 +1,27 @@
+
+state={
+	id=1032
+	name="STATE_1032"
+	manpower = 1298235
+
+	state_category = large_city
+
+	history={
+		owner = FRN
+		add_core_of = FRN
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		victory_points = {
+			6488 25.0 
+		}
+	}
+
+	provinces={
+		6488
+	}
+
+	local_supplies=0.0 
+}
