@@ -16,8 +16,8 @@ state = {
 		#	11313 1 # Salihorsk was not founded until 1958 earliest
 		#}
 
-		owner = LIT
-		add_core_of = LIT
+		owner = TEU
+		add_core_of = TEU
 
 		buildings = {
 			infrastructure = 3 #was: 5

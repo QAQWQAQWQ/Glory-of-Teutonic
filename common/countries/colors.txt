@@ -1,4 +1,8 @@
 #reload countrycolors
+REB = {
+	color = rgb { 194 198 215 }
+	color_ui = rgb { 224  228  255 }
+}
 ENL = {
 	color = rgb { 181 26 73 }
 	color_ui = rgb { 255 73 121 }
@@ -206,6 +210,14 @@ HAS = {
 POM = {
 	color = rgb { 0 204 102 }
 	color_ui = rgb { 0 204 102 }
+}
+REH = {
+	color = rgb { 86 113 143 }
+	color_ui = rgb { 86 113 143 }
+}
+REH = {
+	color = rgb { 86 113 143 }
+	color_ui = rgb { 86 113 143 }
 }
 TEU = {
 	color = rgb { 86 113 143 }
