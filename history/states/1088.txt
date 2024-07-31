@@ -1,0 +1,20 @@
+
+state={
+	id=1088
+	name="STATE_1088"
+	manpower = 98429
+	resources={
+	}
+	state_category = pastoral
+	history={
+		owner = HAB
+		add_core_of = HAB
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+        9587 13370
+	}
+	local_supplies=0.0 
+}

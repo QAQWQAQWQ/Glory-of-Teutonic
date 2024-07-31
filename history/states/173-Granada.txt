@@ -6,7 +6,9 @@ state={
 	}
 
 	history={
-		owner = SPR
+		
+		owner = IBF
+		add_core_of = IBF
 		victory_points = {
 			9979 5
 		}
@@ -30,7 +32,7 @@ state={
 			}
 
 		}
-		add_core_of = SPR
+
 
 	}
 

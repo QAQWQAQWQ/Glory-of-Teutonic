@@ -1,0 +1,29 @@
+
+state={
+	id=1067
+	name="STATE_1067"
+	manpower = 227739
+	resources={
+		steel=2
+	}
+	
+	state_category = town
+
+	history={
+		owner = TRE
+		add_core_of = TRE
+		victory_points = { 11470 1 }
+		buildings = {
+			infrastructure = 4
+
+		}
+	}
+
+	provinces={
+		 11470
+	}
+	
+	
+
+	local_supplies=0.0 
+}

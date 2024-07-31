@@ -7,8 +7,8 @@ state=
 	state_category = small_island
 	
 	history = {
-		owner = SWE
-		add_core_of = SWE
+		owner = SEE
+		add_core_of = SEE
 		add_core_of = FIN
 		
 		victory_points = { #Mariehman

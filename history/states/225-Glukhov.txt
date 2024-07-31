@@ -10,18 +10,15 @@ state={
 		victory_points = {
 			3520 3
 		}
-		victory_points = {
-			9566 1
-		}
-		owner = LIT
-		add_core_of = LIT
+		owner = MNS
+		add_core_of = MNS
 		buildings = {
 			infrastructure = 3 #was: 5
 		}
 	}
 
 	provinces={
-		463 501 522 3225 3455 3520 6565 9477 9566 11462 11553 
+		6481 3492 9449 463 501 522 3455 3520 6565 9477 11462 
 	}
 
 	local_supplies=0.0 

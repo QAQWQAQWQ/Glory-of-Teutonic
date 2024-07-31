@@ -1,0 +1,25 @@
+state={
+	id=1075
+	name="STATE_1075"
+	manpower = 68467
+	
+	state_category = rural
+
+	history={
+		owner = MUN
+		add_core_of = MUN
+		victory_points = {
+			13365 1
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+	}
+
+	provinces={
+        13365
+	}
+
+	local_supplies=14.0 
+}

@@ -7,7 +7,8 @@ state = {
 	
 	
 	history = {
-		owner = ICE
+		owner = DNU
+		add_core_of = DNU
 		victory_points = { 12674 1 }
 		buildings = {
 			infrastructure = 1
@@ -17,7 +18,6 @@ state = {
 			}
 			industrial_complex = 1
 		}
-		# add_core_of = DEN
 		add_core_of = ICE
 	}
 	provinces = {

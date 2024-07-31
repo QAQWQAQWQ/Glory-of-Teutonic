@@ -10,7 +10,8 @@ state={
 	state_category = town
 
 	history={
-		owner = TUR
+		owner = BYZ
+		add_core_of = BYZ
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -18,16 +19,18 @@ state={
 		}
 		
 		victory_points = {
+			11811 1 
+		}
+		victory_points = {
 			947 10
 		}
 		victory_points = {
 			9799 5
 		}
-		add_core_of = TUR
 	}
 
 	provinces={
-		785 947 3786 3851 6864 6912 9799 9887 11778 11867 
+		856 981 11811 785 947 3786 3851 6864 6912 9799 9887 11778 11867 
 	}
 
 	local_supplies=0.0 

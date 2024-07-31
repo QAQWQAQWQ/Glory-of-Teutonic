@@ -2,7 +2,7 @@
 state={
 	id=152
 	name="STATE_152"
-	manpower = 2275377
+	manpower = 1875377
 	
 	state_category = large_city
 	
@@ -22,13 +22,10 @@ state={
 		victory_points = {
 			9665 3
 		}
-		victory_points = {
-			732 10
-		}
 	}
 
 	provinces={
-		732 3684 3703 6691 6708 9665
+		 3684 3703 6691 6708 9665
 	}
 
 	local_supplies=0.0 

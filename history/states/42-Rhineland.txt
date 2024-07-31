@@ -2,21 +2,18 @@
 state={
 	id=42
 	name="STATE_42"
-	manpower = 2027739
+	manpower = 1827739
 	resources={
 		steel=50 #was 21 #was 35 was 59 # was: 100
 		aluminium=14 # was: 24
 	}
 	
-	state_category = megalopolis
+	state_category = metropolis
 
 	history={
 		owner = TRE
 		add_core_of = TRE
-		victory_points = { 11435 1 }
-		victory_points = { 3423 3 }
-		victory_points = { 9575 3 }
-		victory_points = { 11531 5 }
+		victory_points = { 9575 15 }
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 3
@@ -25,7 +22,7 @@ state={
 	}
 
 	provinces={
-		529 3423 9575 11435 11470 11494
+		9575 
 	}
 	
 	

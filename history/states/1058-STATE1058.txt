@@ -1,0 +1,33 @@
+
+state={
+	id=1058
+	name="STATE_1058"
+	manpower = 261400
+	resources={
+		oil=10
+	}
+
+	state_category = rural
+
+	history={
+		owner = BUL
+		add_core_of = BUL
+		victory_points = { 657 3 }
+		buildings = {
+			infrastructure = 3
+			657 = {
+				naval_base = 8
+			}
+			687 = {
+				naval_base = 1
+			}
+			dockyard = 1
+		}
+	}
+
+	provinces={
+		657 687 3076 9635
+	}
+
+	local_supplies=0.0 
+}

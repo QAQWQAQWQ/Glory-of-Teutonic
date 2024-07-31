@@ -7,8 +7,8 @@ state = {
 	state_category = city
 
 	history = {
-		owner = LIT
-		add_core_of = LIT
+		owner = KIE
+		add_core_of = KIE
 		victory_points = {
 			11670 10 
 		}
@@ -24,7 +24,7 @@ state = {
 	}
 
 	provinces = {
-		  3575 3738 9698 9714 11670 11703 
+		  3575 3738 9698 11670 11703 
 	}
 
 	local_supplies = 6.0 

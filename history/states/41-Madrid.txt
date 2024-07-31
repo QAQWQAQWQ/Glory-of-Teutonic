@@ -2,11 +2,12 @@ state={
 	id=41
 	name="STATE_41"
 	resources={
-		aluminium=1.000
+		aluminium=3.000
 	}
 
 	history={
-		owner = SPR
+		owner = IBF
+		add_core_of = IBF
 		victory_points = {
 			3938 30 
 		}
@@ -15,21 +16,21 @@ state={
 		}
 		buildings = {
 			infrastructure = 3
-			arms_factory = 2
-			industrial_complex = 2
+			arms_factory = 6
+			industrial_complex = 6
 			air_base = 6
 
 		}
-		add_core_of = SPR
 
 	}
 
 	provinces={
 		858 896 939 977 3794 3845 3938 3986 6914 9767 9800 11820 13224 
 	}
-	manpower=2064659
+	manpower=2464659
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=megalopolis
+	add_extra_state_shared_building_slots = 2
 
 	local_supplies=0.0 
 }

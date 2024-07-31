@@ -1,4 +1,76 @@
 #reload countrycolors
+RYL = {
+	color = rgb { 44 45 40 }
+	color_ui = rgb { 44 45 40 }
+}
+MNS = {
+	color = rgb { 54 35 40 }
+	color_ui = rgb { 54 35 40 }
+}
+JAG = {
+	color = rgb { 74 35 40 }
+	color_ui = rgb { 74 35 40 }
+}
+ODO = {
+	color = rgb { 144 205 209 }
+	color_ui = rgb { 144 205 209 }
+}
+RYA = {
+	color = rgb { 102 102 0 }
+	color_ui = rgb { 102 102 0 }
+}
+KOK = {
+	color = rgb { 0 102 51 }
+	color_ui = rgb { 0 102 51 }
+}
+DCR = {
+	color = rgb { 204 204 0 }
+	color_ui = rgb { 204 204 0 }
+}
+POD = {
+	color = rgb { 255 152 109 }
+	color_ui = rgb { 255 152 109 }
+}
+CER = {
+	color = rgb { 53 58 77 }
+	color_ui = rgb { 53 58 77 }
+}
+AEG = {
+	color = rgb { 5 42 51}
+	color_ui = rgb { 224  228  255 }
+}
+KOJ = {
+	color = rgb { 163 160 153 }
+	color_ui = rgb { 224  228  255 }
+}
+POA = {
+	color = rgb { 51 51 205 }
+	color_ui = rgb { 224  228  255 }
+}
+TRP = {
+	color = rgb {205 51 51}
+	color_ui = rgb { 224  228  255 }
+}
+EDE = {
+	color = rgb { 255 255 103 }
+	color_ui = rgb { 224  228  255 }
+}
+MDA = {
+	color = rgb { 115 224 49 }
+	color_ui = rgb { 115 174 49 }
+}
+WLL = {
+	color = rgb { 98 76 67 }
+	color_ui = rgb { 98 76 67 }
+}
+SAO = {
+	color = rgb { 180 210 250 }
+	color_ui = rgb { 224  228  255 }
+}
+ODT = {
+	color = rgb { 210 198 180 }
+	color_ui = rgb { 224  228  255 }
+}
 REB = {
 	color = rgb { 194 198 215 }
 	color_ui = rgb { 224  228  255 }
@@ -215,7 +287,15 @@ REH = {
 	color = rgb { 86 113 143 }
 	color_ui = rgb { 86 113 143 }
 }
-REH = {
+RER = {
+	color = rgb { 86 113 143 }
+	color_ui = rgb { 86 113 143 }
+}
+RES = {
+	color = rgb { 86 113 143 }
+	color_ui = rgb { 86 113 143 }
+}
+SCH = {
 	color = rgb { 86 113 143 }
 	color_ui = rgb { 86 113 143 }
 }
@@ -238,6 +318,10 @@ ENG = {
 SOV = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 163 17 31 }
+}
+SEE = {
+	color = rgb { 6 52 255 }
+	color_ui = rgb { 47 172 255 }
 }
 SWE = {
 	color = rgb { 36 132 247 }
@@ -280,6 +364,10 @@ LAT = {
 	color = rgb { 75 77 186 }
 	color_ui = rgb { 124 125 184 }
 }
+IBF = {
+	color = rgb { 255 188 0 }
+	color_ui = rgb { 255 255 122 }
+}
 SPR = {
 	color = rgb { 242 205 94 }
 	color_ui = rgb { 255 255 122 }
@@ -301,7 +389,7 @@ SWI = {
 	color_ui = rgb { 193 81 81 }
 }
 TUR = {
-	color = rgb { 171 190 152 }
+	color = rgb {161 205 157}
 	color_ui = rgb { 222 247 198 }
 }
 GRE = {
@@ -315,6 +403,10 @@ ALB = {
 NOR = {
 	color = rgb { 111 71 71 }
 	color_ui = rgb { 144 92 92 }
+}
+DNU = {
+	color = rgb { 173 136 93 }
+	color_ui = rgb { 199 151 121 }
 }
 DEN = {
 	color = rgb { 153 116 93 }
@@ -594,7 +686,10 @@ ICE = {
 	color = rgb { 100  125  175 }
 	color_ui = rgb { 100  125  175 }
 }
-
+KIE = {
+	color = rgb { 0  80  230 }
+	color_ui = rgb { 0  80  230 }	
+}
 UKR = {
 	color = rgb { 0  80  230 }
 	color_ui = rgb { 0  80  230 }	
@@ -608,6 +703,10 @@ AZR = {
 GEO = {
 	color = rgb { 255  150  150 }
 	color_ui = rgb { 255  204  204 }
+}
+ARE = {
+	color = rgb { 176  102  180 }
+	color_ui = rgb { 176  102  180 }
 }
 
 ARM = {
@@ -943,7 +1042,7 @@ KAR = {
 	color_ui = rgb { 0 128 43 }
 }
 CRI = {
-	color = rgb { 255 80 80 }
+	color = rgb { 0 204 152 }
 	color_ui = rgb { 204 0 0 }
 }
 TAT = {
@@ -1085,6 +1184,10 @@ AOI = {
 LBV = {
 	color = rgb { 179 11 0 }
 	color_ui = rgb { 102 0 0 }
+}
+SMO = {
+	color = rgb { 205 255 204 }
+	color_ui = rgb { 255 255 26 }
 }
 PAP = {
 	color = rgb { 255 255 204 }

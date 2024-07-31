@@ -7,7 +7,8 @@ state={
 	state_category = rural
 
 	history={
-		owner = FRA
+		owner = KOJ
+		add_core_of = KOJ
 		victory_points = {
 			4111 5
 		}
@@ -15,13 +16,12 @@ state={
 			infrastructure = 2
 			air_base = 1
 		}
-		add_core_of = SYR	
 
 	}
 
 
 	provinces={
-		1074 4111 4486 4550 7184 
+		1074 4111 4486 4550 7184 10383 12442 12316 
 	}
 
 	local_supplies=2.0 

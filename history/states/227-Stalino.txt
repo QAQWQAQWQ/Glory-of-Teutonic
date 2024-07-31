@@ -7,8 +7,8 @@ state={
 	state_category = city
 
 	history={
-		owner = LIT
-		add_core_of = LIT
+		owner = KIE
+		add_core_of = KIE
 		buildings = {
 			infrastructure = 3 #was: 5
 		}
@@ -18,7 +18,7 @@ state={
 	}
 
 	provinces={
-		502 3421 3449 3466 3479 3491 6420 6474 6493 6776 
+		502 3421 3449 3466 3479 3491 6474 6493 6776 472 486  
 	}
 
 	local_supplies=10.0 

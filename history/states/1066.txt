@@ -1,0 +1,29 @@
+
+state={
+	id=1066
+	name="STATE_1066"
+	manpower = 227739
+	resources={
+		steel=2
+	}
+	
+	state_category = large_town
+
+	history={
+		owner = TRE
+		add_core_of = TRE
+		victory_points = { 11494 3 }
+		buildings = {
+			infrastructure = 4
+
+		}
+	}
+
+	provinces={
+		 11494
+	}
+	
+	
+
+	local_supplies=0.0 
+}

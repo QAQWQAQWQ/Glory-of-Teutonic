@@ -1,0 +1,29 @@
+
+state={
+	id=1064
+	name="STATE_1064"
+	manpower = 127739
+	resources={
+		steel=1
+	}
+	
+	state_category = rural
+
+	history={
+		owner = TRE
+		add_core_of = TRE
+		victory_points = { 529 1 }
+		buildings = {
+			infrastructure = 4
+
+		}
+	}
+
+	provinces={
+        529
+	}
+	
+	
+
+	local_supplies=0.0 
+}

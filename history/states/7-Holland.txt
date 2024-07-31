@@ -2,14 +2,14 @@ state={
 	id=7
 	name="STATE_7"
 	resources={
-		steel=4.000
+		steel=6.000
 	}
 
 	history={
 		owner = BRG
 		add_core_of = BRG
 		victory_points = {
-			391 40 
+			391 35
 		}
 		victory_points = {
 			3211 10 

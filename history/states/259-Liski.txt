@@ -2,23 +2,23 @@
 state={
 	id=259
 	name="STATE_259" # Poltava
-	manpower = 1442584
+	manpower = 2542584
 	
-	state_category = rural
+	state_category = city
 
 	history={
 		victory_points = {
 			11504 3
 		}
-		owner = LIT
-		add_core_of = LIT
+		owner = KIE
+		add_core_of = KIE
 		buildings = {
 			infrastructure = 3 #was: 5
 		}
 	}
 
 	provinces={
-		511 559 3557 6495 6507 6578 6605 9413 9519 11504 
+		489 582 9543 11557 3584 511 559 3557 6495 6507 6605 9413 9519 11504 11530 9491
 	}
 
 	local_supplies=10.0 

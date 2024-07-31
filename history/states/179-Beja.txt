@@ -3,7 +3,8 @@ state={
 	name="STATE_179"
 
 	history={
-		owner = POR
+		owner = IBF
+		add_core_of = IBF
 		victory_points = {
 			3790 1
 		}
@@ -24,7 +25,6 @@ state={
 
 			}
 		}
-		add_core_of = POR
 		add_extra_state_shared_building_slots = 1 
 
 	}

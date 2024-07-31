@@ -10,12 +10,12 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = DCR
+		add_core_of = DCR
 		buildings = {
 			infrastructure = 2
 			air_base = 2
 		}
-		add_core_of = SOV
 		victory_points = {
 			11696 3
 		}

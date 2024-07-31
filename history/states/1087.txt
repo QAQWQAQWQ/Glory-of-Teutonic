@@ -1,0 +1,24 @@
+
+state={
+	id=1087
+	name="STATE_1087"
+	manpower = 1127296
+	resources={
+		steel=4
+		aluminium=1
+	}
+	state_category = city
+	history={
+		owner = HAB
+		add_core_of = HAB
+		victory_points = { 732 10 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+	}
+	provinces={
+        732
+	}
+	local_supplies=0.0 
+}

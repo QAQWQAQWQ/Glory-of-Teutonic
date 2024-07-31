@@ -1,0 +1,24 @@
+
+state={
+	id=1083
+	name="STATE_1083"
+	manpower = 407296
+	resources={
+		aluminium=4
+	}
+	state_category = rural
+	history={
+		owner = BRG
+		add_core_of = BRG
+		victory_points = { 6666 5 }
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		6666
+	}
+	local_supplies=0.0 
+}

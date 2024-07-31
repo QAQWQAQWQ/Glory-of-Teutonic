@@ -1,0 +1,23 @@
+state={
+	id=1072
+	name="STATE_1072"
+	manpower = 158467
+	
+	state_category = town
+
+	history={
+		owner = JUL
+		add_core_of = JUL
+		victory_points = {
+			6469 1 
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+	}
+
+	provinces={
+        6469 
+	}
+}

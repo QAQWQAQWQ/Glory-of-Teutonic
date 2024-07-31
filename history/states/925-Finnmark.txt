@@ -16,8 +16,8 @@ state = {
 			9116 1
 		}
 		
-		owner = DEN
-		add_core_of = DEN
+		owner = DNU
+		add_core_of = DNU
 		add_core_of = NOR
 		if = {
 			limit = {

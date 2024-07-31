@@ -1,0 +1,32 @@
+state = {
+	id = 1061
+	name = "STATE_1061"
+	resources = {
+		steel=5
+		aluminium=5
+	}
+	
+	state_category = large_town
+
+	history = {
+		owner = HAB
+		add_core_of = HAB
+		victory_points = { #Padova
+			3604 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+		}
+
+	}
+
+	provinces = {
+        3657 9613 6656 628 
+	}
+	manpower = 1563151
+	buildings_max_level_factor = 0.000
+
+	local_supplies = 0.0 
+}

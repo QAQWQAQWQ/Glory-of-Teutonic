@@ -6,16 +6,13 @@ state = {
 		aluminium=11 # was: 18.000
 	}
 	
-	state_category = large_city
+	state_category = metropolis
 
 	history = {
 		owner = HAB
 		add_core_of = HAB
 		victory_points = { #Venezia
 			11584 10 
-		}
-		victory_points = { #Padova
-			3604 3 
 		}
 
 		buildings = {
@@ -32,7 +29,7 @@ state = {
 	}
 
 	provinces = {
-		 628 3604 3657 6656 9613 11584 
+		3604 11584 
 	}
 	manpower = 3963151
 	buildings_max_level_factor = 1.000

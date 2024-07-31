@@ -10,20 +10,15 @@ state={
 		victory_points = {
 			9449 1
 		}
-		owner = SOV
+		owner = JAG
+		add_core_of = JAG
 		buildings = {
 			infrastructure = 3 #was: 5
-		}
-		add_core_of = SOV
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 1
-			}
 		}
 	}
 
 	provinces={
-		473 534 3492 6432 6481 6517 6577 9424 9449 9489 9518 11439 11500 
+		 6543 558 6603 473 534 6432 6517 6577 9424 9489 9518 11439 11500 
 	}
 
 	local_supplies=0.0 

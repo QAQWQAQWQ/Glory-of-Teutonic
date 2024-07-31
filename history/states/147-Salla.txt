@@ -7,8 +7,8 @@ state=
 	state_category = enclave
 	
 	history = {	
-		owner = SWE
-		add_core_of = SWE
+		owner = SEE
+		add_core_of = SEE
 		buildings = {
 			infrastructure = 1 #TODO_Manu: Was 2
 		}

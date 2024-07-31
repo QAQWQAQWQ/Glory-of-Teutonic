@@ -1,0 +1,27 @@
+
+state={
+	id=1059
+	name="STATE_1059"
+	manpower = 13142
+	
+	state_category = town
+
+	history={
+		owner = ODT
+		add_core_of = ODT
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 2
+		}
+		victory_points = {
+			7176 30
+		}
+	}
+
+	provinces={
+		7176
+	}
+
+	local_supplies=0.0 
+}

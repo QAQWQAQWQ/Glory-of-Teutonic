@@ -18,8 +18,9 @@ state = {
 			11151 2
 		}
 		
-		owner = DEN
-		add_core_of = DEN
+		owner = DNU
+		add_core_of = DNU
+		add_core_of = NOR
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1

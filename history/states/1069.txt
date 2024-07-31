@@ -1,0 +1,29 @@
+
+state={
+	id=1069
+	name="STATE_1069"
+	manpower = 127739
+	resources={
+		steel=2
+	}
+	
+	state_category = town
+
+	history={
+		owner = KOL
+		add_core_of = KOL
+		victory_points = { 9482 1 }
+		buildings = {
+			infrastructure = 4
+
+		}
+	}
+
+	provinces={
+		9482
+	}
+	
+	
+
+	local_supplies=0.0 
+}

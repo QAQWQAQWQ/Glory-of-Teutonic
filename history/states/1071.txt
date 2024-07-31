@@ -1,0 +1,24 @@
+state={
+	id=1071
+	name="STATE_1071"
+	manpower = 308467
+	
+	state_category = large_town
+
+	history={
+		owner = JUL
+		add_core_of = JUL
+		victory_points = {
+			9522 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+        9522
+	}
+}

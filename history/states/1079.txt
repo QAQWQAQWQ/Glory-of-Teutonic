@@ -1,0 +1,25 @@
+state={
+	id=1079
+	name="STATE_1079"
+	manpower = 205467
+	
+	state_category = city
+
+	history={
+		owner = HAB
+		add_core_of = HAB
+		victory_points = {
+			13366 5 
+		}
+		buildings = {
+			infrastructure = 4
+
+		}
+	}
+
+	provinces={
+        13366
+	}
+
+	local_supplies=10.0 
+}

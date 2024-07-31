@@ -10,8 +10,8 @@ state={
 		victory_points = {
 			3457 3
 		}
-		owner = LIT
-		add_core_of = LIT
+		owner = POD
+		add_core_of = POD
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 1

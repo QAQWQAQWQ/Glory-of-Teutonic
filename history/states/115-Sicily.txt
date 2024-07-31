@@ -4,7 +4,8 @@ state = {
 	name = "STATE_115"
 
 	history = {
-		owner = TTS
+		owner = IBF
+		add_core_of = IBF
 		victory_points = {
 			10074 20 
 		}
@@ -40,7 +41,6 @@ state = {
 			}
 
 		}
-		add_core_of = TTS
 
 	}
 

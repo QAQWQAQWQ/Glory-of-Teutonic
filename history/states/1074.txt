@@ -1,0 +1,27 @@
+state={
+	id=1074
+	name="STATE_1074"
+	manpower = 1058467
+	
+	state_category = town
+
+	history={
+		owner = MUN
+		add_core_of = MUN
+		victory_points = {
+			11388 2
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+
+		}
+	}
+
+	provinces={
+		11388 
+	}
+
+	local_supplies=14.0 
+}

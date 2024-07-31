@@ -12,12 +12,12 @@ state = {
 			3350 3
 		}
 
-		#victory_points = {
-		#	11313 1 # Salihorsk was not founded until 1958 earliest
-		#}
+		victory_points = {
+			11313 1 # Salihorsk was not founded until 1958 earliest
+		}
 
-		owner = TEU
-		add_core_of = TEU
+		owner = RES
+		add_core_of = RES
 
 		buildings = {
 			infrastructure = 3 #was: 5

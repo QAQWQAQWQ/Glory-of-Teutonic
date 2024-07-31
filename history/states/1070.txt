@@ -1,0 +1,31 @@
+
+state={
+	id=1070
+	name="STATE_1070"
+	manpower = 407739
+	resources={
+		steel=2
+	}
+	
+	state_category = large_city
+
+	history={
+		owner = KOL
+		add_core_of = KOL
+		victory_points = {
+			3547 10
+		}
+		buildings = {
+			infrastructure = 4
+
+		}
+	}
+
+	provinces={
+		 3547
+	}
+	
+	
+
+	local_supplies=0.0 
+}

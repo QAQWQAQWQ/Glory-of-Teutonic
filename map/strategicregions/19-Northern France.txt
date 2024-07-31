@@ -11,6 +11,7 @@ strategic_region={
         3629 9559 11502 
         521 11516 
         3402 3447 11549
+		13369
 	}
 	weather={
 		period={
