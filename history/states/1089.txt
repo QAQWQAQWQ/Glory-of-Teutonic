@@ -1,0 +1,23 @@
+
+state={
+	id=1089
+	name="STATE_1089"
+	manpower = 607296
+	resources={
+	}
+	state_category = rural
+	history={
+		victory_points = {
+			13371 1
+		}
+		owner = HAS
+		add_core_of = HAS
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		13371
+	}
+	local_supplies=0.0 
+}

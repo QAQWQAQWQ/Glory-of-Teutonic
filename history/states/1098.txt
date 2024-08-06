@@ -1,0 +1,27 @@
+
+state={
+	id=1098
+	name="STATE_1098"
+	manpower = 40413
+	resources={
+	}
+	
+	state_category = pastoral
+
+	history={
+		owner = LAN
+		add_core_of = LAN
+		victory_points = {
+			532 1
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		532 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=1102
+	name="STATE_1102"
+	manpower = 86854
+	resources={
+	}
+	
+	state_category = rural
+
+	history={
+		owner = LAN
+		add_core_of = LAN
+		victory_points = {
+			561 1
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+        561  
+	}
+
+	local_supplies=0.0 
+}

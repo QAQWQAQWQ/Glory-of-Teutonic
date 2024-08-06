@@ -6,6 +6,9 @@ state={
 	history={
 		owner = LAN
 		add_core_of = LAN
+		victory_points = {
+			2541 3
+		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
@@ -14,9 +17,9 @@ state={
 	}
 	
 	provinces={
-        3571 3541 11653 11497 561 3299
+        3571 3541 11497 13377 9681 
 	}
-	manpower=506854
+	manpower=256854
 
 	local_supplies=0.0 
 }

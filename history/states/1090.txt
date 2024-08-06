@@ -1,0 +1,23 @@
+
+state={
+	id=1090
+	name="STATE_1090"
+	manpower = 1207296
+	resources={
+	}
+	state_category = town
+	history={
+		victory_points = {
+			13372 1
+		}
+		owner = LAN
+		add_core_of = LAN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		13372
+	}
+	local_supplies=0.0 
+}

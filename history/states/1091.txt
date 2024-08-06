@@ -1,0 +1,28 @@
+
+state={
+	id=1091
+	name="STATE_1091"
+	manpower = 119413
+	resources={
+		aluminium=1
+	}
+	
+	state_category = town
+
+	history={
+		owner = HAB
+		add_core_of = HAB
+		victory_points = {
+			3688 1
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		 3688
+	}
+
+	local_supplies=0.0 
+}

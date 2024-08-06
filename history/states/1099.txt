@@ -1,0 +1,30 @@
+
+state={
+	id=1099
+	name="STATE_1099"
+	manpower = 186854
+	resources={
+	}
+	
+	state_category = town
+
+	history={
+		owner = LAN
+		add_core_of = LAN
+		victory_points = {
+			11653 1
+		}
+		victory_points = {
+			3299 1
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		3299 11653 
+	}
+
+	local_supplies=0.0 
+}

@@ -1002,7 +1002,7 @@ D50 = {
 	color_ui = rgb { 255 138 61 }
 }
 BAY = {
-	color = rgb { 233  231  246 }
+	color = rgb { 0 102 204 }
 	color_ui = rgb { 233  231  246 }
 }
 MEK = {
