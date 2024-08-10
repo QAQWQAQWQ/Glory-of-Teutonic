@@ -1,0 +1,17 @@
+characters={
+    IBF_carlos_iv={
+		name=IBF_carlos_iv
+		portraits={
+			civilian={
+				large="gfx/leaders/IBF/Portrait_IBF_carlos_iv.png"
+			}
+		}
+		country_leader={
+			ideology=despotism
+            desc=IBF_carlos_iv_DESC
+			traits={ }
+			expire="1972.1.1.1"
+			id=-1
+		}
+	}		
+}
