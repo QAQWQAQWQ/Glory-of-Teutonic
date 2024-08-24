@@ -8,8 +8,8 @@ state = {
 
 	history = {
 
-		owner = BRA
-		add_core_of = BRA
+		owner = GPA
+		add_core_of = GPA
 
 		buildings = {
 			infrastructure = 1

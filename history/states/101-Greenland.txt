@@ -9,8 +9,8 @@ state = {
 	state_category = wasteland
 	
 	history = {
-		owner = DNU
-		add_core_of = DNU
+		owner = VIL
+		add_core_of = VIL
 		buildings = {
 			infrastructure = 1
 			12512 ={

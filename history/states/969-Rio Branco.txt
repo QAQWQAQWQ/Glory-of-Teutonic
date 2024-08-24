@@ -2,11 +2,11 @@ state={
 	id=969
 	name="STATE_969"
 	provinces={
-		5214 13340 13361
+		13339 13341 5214 13340 13361
 	}
 	history={
-		owner = BRA
-		add_core_of = BRA
+		owner = GGU
+		add_core_of = GGU
 	}
 	manpower=10000
 	buildings_max_level_factor=1.000

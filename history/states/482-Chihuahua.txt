@@ -7,11 +7,11 @@ state={
 	state_category = rural
 
 	history={
-		owner = MEX
+		owner = VNS
+		add_core_of = VNS
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = MEX
 
 		victory_points = {
 			8097 10
@@ -22,7 +22,7 @@ state={
 	}
 
 	provinces={
-		2037 4898 7935 8097 10809 10830 10916 12745 12827 12850 12897 
+		5044 2037 4898 7935 8097 10809 10830 10916 12745 12827 12850 12897 
 	}
 	
 

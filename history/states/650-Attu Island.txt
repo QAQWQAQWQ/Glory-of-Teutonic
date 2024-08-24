@@ -7,7 +7,8 @@ state=
 	
 	history=
 	{
-		owner = USA
+		owner = NTA
+		add_core_of = NTA
 		victory_points = {
 			13067 1 
 		}

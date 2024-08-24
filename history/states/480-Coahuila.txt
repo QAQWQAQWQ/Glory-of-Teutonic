@@ -12,9 +12,8 @@ state = {
 
 	history = {
 
-		owner = MEX
-		add_core_of = MEX
-		add_core_of = RIG
+		owner = VNS
+		add_core_of = VNS
 
 		buildings = {
 			infrastructure = 2

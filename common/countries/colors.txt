@@ -219,6 +219,10 @@ ALC = {
 	color = rgb { 255 102 102 }
 	color_ui = rgb { 255 102 102 }
 }
+NBG = {
+	color = rgb { 153 0 76 }
+	color_ui = rgb { 153 0 76 }
+}
 BRG = {
 	color = rgb { 153 0 76 }
 	color_ui = rgb { 153 0 76 }
@@ -279,6 +283,10 @@ HAS = {
 	color = rgb { 255 51 51 }
 	color_ui = rgb { 255 51 51 }
 }
+HDK = {
+	color = rgb { 255 51 51 }
+	color_ui = rgb { 255 51 51 }
+}
 POM = {
 	color = rgb { 0 204 102 }
 	color_ui = rgb { 0 204 102 }
@@ -296,6 +304,10 @@ RES = {
 	color_ui = rgb { 86 113 143 }
 }
 SCH = {
+	color = rgb { 86 113 143 }
+	color_ui = rgb { 86 113 143 }
+}
+AKN = {
 	color = rgb { 86 113 143 }
 	color_ui = rgb { 86 113 143 }
 }
@@ -342,6 +354,10 @@ LUX = {
 BEL = { color 	 = rgb { 193 171 8  }
 		color_ui = rgb { 251 222 10 }
 	  }
+NNV = {	
+	color = rgb { 203 138 74 }
+	color_ui = rgb { 255 179 96 }
+}
 HOL = {	color = rgb { 203 138 74 }
 		color_ui = rgb { 255 179 96 }
 }
@@ -368,7 +384,59 @@ LAT = {
 	color = rgb { 75 77 186 }
 	color_ui = rgb { 124 125 184 }
 }
+TED = {
+	color = rgb { 255 188 0 }
+	color_ui = rgb { 255 255 122 }
+}
+CAD = {
+	color = rgb { 255 188 0 }
+	color_ui = rgb { 255 255 122 }
+}
+NTA = {
+	color = rgb { 255 188 0 }
+	color_ui = rgb { 255 255 122 }
+}
 IBF = {
+	color = rgb { 255 188 0 }
+	color_ui = rgb { 255 255 122 }
+}
+VNS = {
+	color = rgb { 255 188 0 }
+	color_ui = rgb { 255 255 122 }
+}
+VBR = {
+	color = rgb { 255 188 0 }
+	color_ui = rgb { 255 255 122 }
+}
+GPA = {
+	color = rgb { 255 188 0 }
+	color_ui = rgb { 255 255 122 }
+}
+GSD = {
+	color = rgb { 255 188 0 }
+	color_ui = rgb { 255 255 122 }
+}
+GGA = {
+	color = rgb { 255 188 0 }
+	color_ui = rgb { 255 255 122 }
+}
+GPH = {
+	color = rgb { 255 188 0 }
+	color_ui = rgb { 255 255 122 }
+}
+GNG = {
+	color = rgb { 255 188 0 }
+	color_ui = rgb { 255 255 122 }
+}
+GGU = {
+	color = rgb { 255 188 0 }
+	color_ui = rgb { 255 255 122 }
+}
+GPE = {
+	color = rgb { 255 188 0 }
+	color_ui = rgb { 255 255 122 }
+}
+NLP = {
 	color = rgb { 255 188 0 }
 	color_ui = rgb { 255 255 122 }
 }
@@ -462,6 +530,10 @@ BRA = {
 }
 CAN = {
 	color = rgb { 233  59  59 }
+	color_ui = rgb { 155 62 51 }
+}
+VIL = {
+	color = rgb { 130 170 240 }
 	color_ui = rgb { 155 62 51 }
 }
 CHI = {

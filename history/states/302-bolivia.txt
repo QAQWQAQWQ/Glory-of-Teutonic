@@ -12,8 +12,8 @@ state = {
 
 	history = {
 
-		owner = BOL
-		add_core_of = BOL
+		owner = NLP
+		add_core_of = NLP
 
 		buildings = {
 			infrastructure = 2

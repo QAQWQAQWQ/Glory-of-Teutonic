@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = BRA
-		add_core_of = BRA
+		owner = GGU
+		add_core_of = GGU
 		buildings = {
 			infrastructure = 1
 			4980 = {

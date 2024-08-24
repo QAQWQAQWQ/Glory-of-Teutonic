@@ -5,7 +5,8 @@ state = {
 	state_category = rural
 	
 	history={
-		owner = MEX
+		owner = CAD
+		add_core_of = CAD
 		buildings = {
 			infrastructure = 2
 			air_base = 3
@@ -16,20 +17,19 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = MEX
 
 		victory_points = {
 			12461 10
 		}
-		#victory_points = {
-		#	12736 3
-		#}
-		#victory_points = {
-		#	1892 3
-		#}
-		#victory_points = {
-		#	13215 5
-		#}
+		victory_points = {
+			12736 3
+		}
+		victory_points = {
+			1892 3
+		}
+		victory_points = {
+			13215 5
+		}
 
 	}
 	provinces= { 1892 1904 7964 8119 12461 12736 12859 13215 13216 }

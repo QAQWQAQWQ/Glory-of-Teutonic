@@ -11,9 +11,8 @@ state = {
 	state_category = city
 
 	history = {
-
-		owner = ECU
-		add_core_of = ECU
+		owner = GNG
+		add_core_of = GNG
 
 		buildings = {
 			infrastructure = 2

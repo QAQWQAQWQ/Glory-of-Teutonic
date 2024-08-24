@@ -7,8 +7,8 @@ state=
 	state_category = pastoral
 	history=
 	{
-		add_core_of = BLZ
-		owner = ENG
+		owner = GGA
+		add_core_of = GGA
 		victory_points = {
 			2077 1 
 		}

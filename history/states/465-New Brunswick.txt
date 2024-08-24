@@ -7,8 +7,8 @@ state = {
 
 	history = {
 
-		owner = CAN
-		add_core_of = CAN
+		owner = NNV
+		add_core_of = NNV
 
 		buildings = {
 			infrastructure = 3 #was: 5

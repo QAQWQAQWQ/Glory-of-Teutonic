@@ -12,7 +12,8 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = CAD
+		add_core_of = CAD
 		buildings = {
 			infrastructure = 3 #was: 6
 			arms_factory = 2
@@ -32,7 +33,6 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = USA
 		victory_points = {
 			9814 30
 		}

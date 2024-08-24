@@ -1,0 +1,23 @@
+
+state={
+	id=1115
+	name="STATE_1115"
+
+	history={
+		owner = VBR
+		add_core_of = VBR
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+        13355 13356 13357 13358 13359 13360 
+    }
+	manpower=59900
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

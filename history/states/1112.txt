@@ -1,0 +1,26 @@
+
+state={
+	id=1112
+	name="STATE_1112"
+	manpower = 1846247
+	
+	state_category = large_town
+
+	history={
+		owner = AKN
+		add_core_of = AKN
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 1
+			10352 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+         10352 492 4594 10380 11509 860 10520 11942 7640
+	}
+
+	local_supplies=0.0 
+}

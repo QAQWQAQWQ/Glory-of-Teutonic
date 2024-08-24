@@ -1,0 +1,32 @@
+
+state={
+	id=1114
+	name="STATE_1114"
+	manpower = 2468210
+	
+	state_category = large_city
+
+	history={
+		owner = HDK
+		add_core_of = HDK
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			air_base = 4
+			1843 = {
+				naval_base = 7
+			}
+		}
+
+		victory_points = {
+			1843 5 
+		}
+	}
+
+	provinces={
+        1913 9834 10489 1843
+	}
+	
+
+	local_supplies=10.0 
+}

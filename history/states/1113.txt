@@ -1,0 +1,27 @@
+
+state={
+	id=1113
+	name="STATE_1113"
+	manpower = 1663952
+	state_category = town
+
+	resources={
+		steel=50
+	}
+
+	history={
+		owner = VIL
+		add_core_of = VIL
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+
+	}
+
+	provinces={
+        1719 1734 6827 12550 6767 7896 12588 
+	}
+
+	local_supplies=0.0 
+}

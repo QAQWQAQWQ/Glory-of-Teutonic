@@ -1,0 +1,23 @@
+state={
+	id=1116
+	name="STATE_1116"
+	manpower = 44300
+
+	state_category = pastoral
+
+	history= {
+		owner = GPH
+		add_core_of = GPH
+		buildings = {
+			infrastructure = 1
+			4468 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces={
+		12315 4524 12386 7585 7487 4468 7512 
+	}
+
+	local_supplies=1.0 
+}

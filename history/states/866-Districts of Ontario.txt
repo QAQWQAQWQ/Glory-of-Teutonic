@@ -7,8 +7,8 @@ state = {
 	}
 
 	history = {
-		owner = CAN
-		add_core_of = CAN
+		owner = VIL
+		add_core_of = VIL
 	}
 	
 	state_category = pastoral
