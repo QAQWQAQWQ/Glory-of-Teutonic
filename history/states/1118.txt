@@ -1,0 +1,28 @@
+state= {
+	id=1118
+	name="STATE_1118"
+	manpower = 955600
+	state_category = town
+	history=
+	{
+		owner = BEA
+		add_core_of = BEA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			7071 = {
+				naval_base = 1
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+		victory_points = { 
+			7071 2 
+		}
+	}
+	provinces={
+        7071 
+	}
+
+	local_supplies=0.0 
+}

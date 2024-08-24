@@ -1,0 +1,35 @@
+
+state={
+	id=1119
+	name="STATE_1119" # Kyushu
+	manpower = 569000
+	state_category = town
+	resources={
+		chromium=1
+	}
+
+	history={
+		owner = BEA
+		add_core_of = BEA
+		buildings = {
+			infrastructure = 4
+			air_base = 3
+			dockyard = 1
+			4198 = {
+				naval_base = 6
+
+			}
+
+		}
+		victory_points = {
+			4198 5 
+		}
+
+	}
+
+	provinces={
+		4198
+	}
+
+	local_supplies=10.0 
+}
