@@ -6,8 +6,8 @@ state={
 	state_category = megalopolis
 
 	history={
-		owner = ENL
-		add_core_of = ENL
+		owner = ESS
+		add_core_of = ESS
 		victory_points = {
 			6103 50 
 		}
@@ -26,7 +26,7 @@ state={
 	}
 
 	provinces={
-		6103 9239 11333 11374 
+		6103 11374 
 	}
 
 	local_supplies=0.0 

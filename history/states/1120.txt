@@ -10,9 +10,6 @@ state=
 	{
 		owner = EAC
 		add_core_of = EAC
-		victory_points = {
-			1069 3 
-		}
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -25,7 +22,7 @@ state=
 		}
         
 		victory_points = {
-			4205 1 
+			4205 3
 		}
 	}
 	provinces={

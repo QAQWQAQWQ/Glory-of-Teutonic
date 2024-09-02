@@ -7,8 +7,8 @@ state = {
 
 	history = {
 
-		owner = CAD
-		add_core_of = CAD
+		owner = NTA
+		add_core_of = NTA
 
 		buildings = {
 			infrastructure = 1

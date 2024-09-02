@@ -6,7 +6,8 @@ state={
 	state_category = small_island
 
 	history={
-		owner = IBF
+		owner = GWA
+		add_core_of = GWA
 		buildings = {
 			infrastructure = 2
 			13014 ={

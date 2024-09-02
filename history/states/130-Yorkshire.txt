@@ -11,8 +11,8 @@ state={
 	}
 
 	history={
-		owner = ENL
-		add_core_of = ENL
+		owner = NRT
+		add_core_of = NRT
 		victory_points = {
 			9379 10 
 		}
@@ -34,7 +34,7 @@ state={
 	}
 
 	provinces={
-		6268 9269 9315 9332 9379 9397 11297 11317 11382 
+		6268 9269 9315 9332 9379 9397 11297 11317 11382 6335
 	}
 
 	local_supplies=0.0 

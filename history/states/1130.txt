@@ -1,0 +1,30 @@
+state= {
+	id=1130
+	name="STATE_1130"
+	manpower = 1246100
+	
+	state_category = rural
+	
+	resources={
+		steel=7
+		aluminium=3
+	}
+
+	history=
+	{
+		owner = GWY
+		add_core_of = GWY
+		victory_points = {
+			311 1 #Wrexham
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+
+	provinces=
+	{ 6363 9364 311 }
+
+	local_supplies=0.0 
+}

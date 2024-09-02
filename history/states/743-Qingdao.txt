@@ -8,10 +8,10 @@ state=
 	
 	history=
 	{
-		owner = EAC
-		add_core_of = EAC
+		owner = ECT
+		add_core_of = ECT
 		victory_points = {
-			10000 5 
+			10000 12
 		}
 		buildings = {
 			infrastructure = 3 #was: 5

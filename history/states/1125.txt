@@ -1,0 +1,31 @@
+
+state={
+	id=1125
+	name="STATE_1125"
+	manpower = 109000
+	state_category = small_island
+	resources={
+		chromium=1
+	}
+
+	history={ 
+		owner = EAC
+		add_core_of = EAC
+		buildings = {
+			infrastructure = 4
+			1177 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			1177 1 
+		}
+
+	}
+
+	provinces={
+		1177
+	}
+}

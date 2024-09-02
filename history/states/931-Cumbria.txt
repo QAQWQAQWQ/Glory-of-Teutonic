@@ -11,7 +11,7 @@ state = {
 	history = {
 		owner = SCO
 		add_core_of = SCO
-		add_core_of = ENL
+		add_core_of = NRT
 		victory_points = {
 			11332 3 #Carlisle
 		}

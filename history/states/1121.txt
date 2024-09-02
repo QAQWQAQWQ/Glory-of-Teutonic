@@ -1,0 +1,32 @@
+
+state={
+	id=1121
+	name="STATE_1121"
+	manpower = 129000
+	state_category = town
+	resources={
+		chromium=1
+	}
+
+	history={ 
+		owner = EAC
+		add_core_of = EAC
+		buildings = {
+			infrastructure = 4
+			air_base = 5
+			13384 = {
+				naval_base = 6
+
+			}
+
+		}
+		victory_points = {
+			13384 6
+		}
+
+	}
+
+	provinces={
+		13384
+	}
+}

@@ -13,7 +13,7 @@ state={
 	history={
 		owner = SCO
 		add_core_of = SCO
-		add_core_of = ENL
+		add_core_of = NRT
 		victory_points = {
 			351 8 
 		}

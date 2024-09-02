@@ -8,7 +8,7 @@ state={
 
 	history={
 		owner = IBF
-		add_core_of = MOR
+		add_core_of = IBF
 		victory_points = {
 			4108 1 
 		}

@@ -10,8 +10,8 @@ state={
 	state_category = city
 
 	history={
-		owner = ENL
-		add_core_of = ENL
+		owner = MER
+		add_core_of = MER
 		victory_points = {
 			3369 5 
 		}
@@ -27,7 +27,7 @@ state={
 	}
 
 	provinces={
-		3369 6221 6351 6378 9484 11471 
+		9239 3369 6221 6378 11221 11253 
 	}
 
 	local_supplies=0.0 

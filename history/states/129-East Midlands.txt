@@ -11,8 +11,8 @@ state={
 	}
 
 	history={
-		owner = ENL
-		add_core_of = ENL
+		owner = MER
+		add_core_of = MER
 		victory_points = {
 			6237 10 #Nottingham
 		}
@@ -28,7 +28,7 @@ state={
 	}
 
 	provinces={
-		364 3353 6237 9250 9268 9322 11279 
+		296 364 3353 6237 9250 9268 9322 11279 
 	}
 
 	local_supplies=0.0 

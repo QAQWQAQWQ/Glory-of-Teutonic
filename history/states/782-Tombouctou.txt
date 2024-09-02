@@ -8,8 +8,8 @@ state={
 	impassable = yes
 
 	history={
-		owner = IBF
-		add_core_of = MLI
+		owner = GWA
+		add_core_of = GWA
 		buildings = {
 			infrastructure = 0
 		}
@@ -17,7 +17,7 @@ state={
 	}
 
 	provinces={
-		1115 2068 10725 10868
+		7041 12849 5095 10749 1115 2068 10725 10868
 	}
 
 	local_supplies=0.0 

@@ -1,0 +1,30 @@
+
+state = {
+	id = 1127
+	name = "STATE_1127"
+	manpower = 1641465
+	resources = {
+	}
+	
+	state_category = pastoral
+
+	history={
+		owner = EAC
+		victory_points = {
+			13387 2
+		}
+		add_core_of = EAC
+		buildings = {
+			infrastructure = 2
+			13387 = {
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces = {
+		13387
+	}
+
+	local_supplies = 0.0 
+}

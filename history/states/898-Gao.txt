@@ -5,8 +5,7 @@ state={
 	state_category = wasteland
 
 	history={
-		owner = IBF
-		add_core_of = MLI
+		owner = DNU
 		
 		buildings = {
 			infrastructure = 2

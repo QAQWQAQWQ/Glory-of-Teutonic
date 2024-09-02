@@ -1,0 +1,34 @@
+
+state = {
+	id = 1126
+	name = "STATE_1126"
+	manpower = 841465
+	resources = {
+		chromium=2
+	}
+	
+	state_category = rural
+
+	history={
+		owner = EAC
+		victory_points = {
+			957 10
+		}
+		add_core_of = EAC
+		buildings = {
+			infrastructure = 4
+			dockyard = 1
+			air_base = 5
+			957 = {
+				naval_base = 8
+				coastal_bunker = 3
+			}
+		}
+	}
+
+	provinces = {
+		957
+	}
+
+	local_supplies = 0.0 
+}

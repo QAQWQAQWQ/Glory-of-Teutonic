@@ -79,6 +79,42 @@ ENL = {
 	color = rgb { 181 26 73 }
 	color_ui = rgb { 255 73 121 }
 }
+GWY = {
+	color = rgb { 80 129 100 }
+	color_ui = rgb { 255 73 121 }
+}
+POW = {
+	color = rgb { 80 135 80 }
+	color_ui = rgb { 255 73 121 }
+}
+KET = {
+	color = rgb { 113 168 165 }
+	color_ui = rgb { 255 73 121 }
+}
+SUS = {
+	color = rgb { 166 200 212 }
+	color_ui = rgb { 255 73 121 }
+}
+ESS = {
+	color = rgb { 162 180 213 }
+	color_ui = rgb { 255 73 121 }
+}
+WSS = {
+	color = rgb { 232 190 186 }
+	color_ui = rgb { 255 73 121 }
+}
+EAN = {
+	color = rgb { 236 146 146 }
+	color_ui = rgb { 255 73 121 }
+}
+MER = {
+	color = rgb { 247 88 136 }
+	color_ui = rgb { 255 73 121 }
+}
+NRT = {
+	color = rgb { 244 135 93 }
+	color_ui = rgb { 255 73 121 }
+}
 BYZ = {
 	color = rgb { 183 0 120 }
 	color_ui = rgb { 183 0 120 }
@@ -323,6 +359,10 @@ TEU = {
 	color = rgb { 86 113 143 }
 	color_ui = rgb { 86 113 143 }
 }
+ECT = {
+	color = rgb { 86 113 143 }
+	color_ui = rgb { 86 113 143 }
+}
 PHU = {
 	color = rgb { 234 102 139 }
 	color_ui = rgb { 255 153 153 }
@@ -408,6 +448,10 @@ IBF = {
 	color = rgb { 255 188 0 }
 	color_ui = rgb { 255 255 122 }
 }
+GWA = {
+	color = rgb { 255 188 0 }
+	color_ui = rgb { 255 255 122 }
+}
 VNS = {
 	color = rgb { 255 188 0 }
 	color_ui = rgb { 255 255 122 }
@@ -485,7 +529,7 @@ NOR = {
 	color_ui = rgb { 144 92 92 }
 }
 DNU = {
-	color = rgb { 173 136 93 }
+	color = rgb { 150 30 30 }
 	color_ui = rgb { 199 151 121 }
 }
 DEN = {
