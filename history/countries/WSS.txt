@@ -1,0 +1,40 @@
+﻿capital = 1129
+
+#oob = ""
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	tech_trucks = 1
+	fuel_silos = 1
+}
+
+set_convoys = 20
+
+create_faction = anglo_union
+add_to_faction = MER
+add_to_faction = SUS
+add_to_faction = KET
+add_to_faction = ESS
+add_to_faction = EAN
+add_to_faction = NRT
+add_to_faction = BRI
+add_to_faction = AQT
+add_to_faction = NMD
+set_cosmetic_tag = anglo_england
+set_variable = { global.LEAGUE_AUTHORITY = 63 }
+add_ideas = {
+	Anglos_leader_of_league
+}
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 5
+	fascism = 17
+	communism = 5
+	neutrality = 73
+}

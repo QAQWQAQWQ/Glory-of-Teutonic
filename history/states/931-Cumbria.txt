@@ -12,6 +12,7 @@ state = {
 		owner = SCO
 		add_core_of = SCO
 		add_core_of = NRT
+		set_demilitarized_zone = yes
 		victory_points = {
 			11332 3 #Carlisle
 		}

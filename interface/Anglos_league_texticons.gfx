@@ -1,0 +1,49 @@
+spriteTypes = {	
+	
+	spriteType = {
+		name = "GFX_Anglos_reform_1"
+		texturefile = "gfx/texticon/reforms/reform_1.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_Anglos_reform_2"
+		texturefile = "gfx/texticon/reforms/reform_2.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_Anglos_reform_3"
+		texturefile = "gfx/texticon/reforms/reform_3.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_Anglos_reform_4"
+		texturefile = "gfx/texticon/reforms/reform_4.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_Anglos_reform_5"
+		texturefile = "gfx/texticon/reforms/reform_5.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_Anglos_reform_6"
+		texturefile = "gfx/texticon/reforms/reform_6.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_Anglos_reform_7"
+		texturefile = "gfx/texticon/reforms/reform_7.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_Anglos_reform_8"
+		texturefile = "gfx/texticon/reforms/reform_8.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_Anglos_reform_9"
+		texturefile = "gfx/texticon/reforms/reform_9.png"
+		legacy_lazy_load = no
+	}
+	
+}

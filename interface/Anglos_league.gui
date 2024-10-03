@@ -1,0 +1,692 @@
+guiTypes = {
+
+	containerWindowType = {
+		name = "ENG_anglo_league_background"
+		position = { x= 1970 y = 150}
+		show_position = { x= 620 y = 150 }
+		show_animation_type = decelerated
+		hide_animation_type = accelerated
+		moveable = yes
+		animation_time = 450
+		size = { width=828 height=665 }
+		Orientation = UPPER_LEFT
+		clipping = no
+		
+
+		show_sound = menu_open_window
+		hide_sound = menu_close_window
+		
+		background = {
+			name = "Background"	
+			spriteType ="GFX_tiled_window_thin_border2"
+		}
+
+		iconType ={
+			name ="title_Anglo_tab"
+			spriteType = "GFX_tab_diplomacy_bg"
+			position = { x = 7 y = 11 }
+			Orientation = "UPPER"
+			scale = 1.02
+		}
+
+		iconType ={
+			name ="title_Anglo_tab_right"
+			spriteType = "GFX_tab_diplomacy_bg"
+			position = { x = -538 y = 11 }
+			Orientation = "UPPER_right"
+			scale = 1.02
+		}
+
+		iconType ={
+			name ="title_Anglo_league"
+			spriteType = "GFX_main_screens_bottom"
+			position = { x = 120 y = 0 }
+			Orientation = "UPPER"
+			scale = 1.02
+		}
+
+		buttonType = {
+			name = "close_gui"
+			position = { x = 800 y = 2}
+			quadTextureSprite = "GFX_close_button_small"
+			clicksound = click_default
+			oversound = ui_menu_over
+		}
+
+		buttonType = {
+			name = "league_reform_button"
+			quadTextureSprite = "GFX_tab_intel_ledger"
+			position = { x=15 y=-30 }
+			buttonText = "league_reform"
+			font = "hoi_18mbs"
+		}
+
+		buttonType = {
+			name = "league_concil_button"
+			quadTextureSprite = "GFX_tab_intel_ledger"
+			position = { x=275 y= -30 }
+			buttonText = "league_concil"
+			font = "hoi_18mbs"
+		}
+
+		buttonType = {
+			name = "french_council_button"
+			quadTextureSprite = "GFX_tab_intel_ledger"
+			position = { x=535 y= -30 }
+			buttonText = "french_council"
+			font = "hoi_18mbs"
+		}
+
+		instantTextboxType = {
+			name = "Anglo_league_title_members"
+			position = { x = -210 y = 10 }
+			textureFile = ""
+			font = "hoi_36header"
+			borderSize = {x = 0 y = 0}
+			text = "Anglo_league_name"
+			Orientation = CENTER_UP
+			format = CENTER
+			maxWidth = 400
+			maxHeight = 20
+			fixedsize = yes
+		}
+
+		iconType ={
+			name ="angland_symbol_reform"
+			spriteType = "GFX_angland_reform"
+			position = { x= 0 y = 50 }
+		}
+
+		iconType ={
+			name ="angland_symbol"
+			spriteType = "GFX_angland_symbol"
+			position = { x= 104 y = 50 }
+			pdx_tooltip = ANGLO_TIP_GUI_1
+			pdx_tooltip_delayed = ANGLO_TIP_GUI_2
+		}
+
+		instantTextboxType = {
+			name = "Anglo_league_word_of_unity"
+			position = { x = -468 y = 240 }
+			textureFile = ""
+			font = "hoi_36header"
+			borderSize = {x = 0 y = 0}
+			text = "Anglo_league_word_of_unity_1"
+			Orientation = CENTER_UP
+			format = CENTER
+			maxWidth = 400
+			maxHeight = 20
+			fixedsize = yes
+		}
+
+		instantTextboxType = {
+			name = "Anglo_league_authority"
+			position = { x = -468 y = 215 }
+			textureFile = ""
+			font = "hoi_36header"
+			borderSize = {x = 0 y = 0}
+			text = "Anglo_league_authority"
+			Orientation = CENTER_UP
+			format = CENTER
+			maxWidth = 400
+			maxHeight = 20
+			fixedsize = yes
+		}
+
+		instantTextboxType = {
+			name = "Anglo_league_authority_monthy_change"
+			position = { x = -414 y = 228 }
+			textureFile = ""
+			font = "hoi_16mbs"
+			borderSize = {x = 0 y = 0}
+			text = "Anglo_league_authority_monthy_change"
+			Orientation = CENTER_UP
+			format = CENTER
+			maxWidth = 400
+			maxHeight = 20
+			fixedsize = yes
+		}
+
+		containerWindowType = {
+			name = "faction_grid_container"
+			position = { x = -535 y = 50 }
+			size = { width = 541 height = 100%% }
+			Orientation = upper_left
+	
+			margin = { top = 10 bottom = 10 }
+			verticalScrollbar = "right_vertical_slider"
+	
+			background = {
+				name = "Background"
+				quadTextureSprite ="GFX_tiled_window_1b_thin_border"
+			}
+	
+			gridBoxType = {
+				name = "faction_grid"
+				position = { x = 10 y = 0 }
+				size = { width = 511 height = 100% }
+				slotsize = { width = 442 height = 1 }
+				max_slots_horizontal = 1
+				add_horizontal = no
+			}
+		}
+	}
+
+	containerWindowType = {
+		name = "faction_entry"
+		size = { width = 600 height = 45 }
+		position = { x = -35 y = 5 }
+
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_diplo_countrylist_entry"
+			clicksound = click_action
+		}
+
+		buttonType = {
+			name = "country_flag"
+			quadTextureSprite ="GFX_flag_small2"
+			position = { x= 9 y = 8 }
+			Orientation = "UPPER_LEFT"
+			alwaystransparent = yes
+		}
+		
+		iconType ={
+			name ="diplo_countrylist_flag_frame"
+			spriteType = "GFX_small_flag_frame_thin"
+			position = { x= 5 y = 5 }
+			alwaystransparent = yes
+		}
+
+		instantTextboxType = {
+			name = "name"
+			position = { x = 52 y = 6 }
+			font = "hoi_16mbs"
+			text = "imun_country_name_entry"
+			maxWidth = 122
+			alwaystransparent = yes
+		}
+	}
+
+	containerWindowType = {
+		name = "ENG_OPEN_GUI"
+		position = { x= -95 y = -338}
+		size = { width=100 height=100 }
+		Orientation = LOWER_RIGHT
+
+		background = {
+			name = "Background"	
+			spriteType ="GFX_tiled_window_thin_border2"
+		}
+		buttonType = {
+			name = "ENG_open_button_GUI"
+			position = { x = 10 y = 7 }
+			quadTextureSprite = "GFX_ENG_button_2"
+			frame = 1
+			clicksound = click_default
+		}
+	}
+
+	containerWindowType = {
+		name = "ENG_anglo_league_reforms_container"
+		position = { x=300 y = 50}
+		size = { width=500 height=600 }
+		Orientation = UPPER_LEFT
+		clipping = yes
+
+		background = {
+			name = "Background"	
+			spriteType ="GFX_tiled_window_1b_thin_border"
+			alwaystransparent = yes
+		}
+
+		verticalScrollbar = "right_vertical_slider"
+		margin = { top = 48 bottom = 7 }
+
+		containerWindowType = {
+			name = "ENG_anglo_league_reforms_1"
+			position = { x=44 y = 0}
+			size = { width=90%% height=200 }
+			Orientation = UPPER_LEFT
+			clipping = no
+
+			background = {
+				name = "Background"	
+				spriteType ="GFX_tiled_window_thin_border2"
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_picture_1"
+				position = { x = -107 y = 70 }
+				font = "hoi_20bs"
+				text = "reform_picture_1"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_name_1"
+				position = { x = -107 y = 15 }
+				font = "hoi_20bs"
+				text = "reform_name_1"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			buttonType = {
+				name = "reform_button_1"
+				position = { x = 10 y = 160 }
+				quadTextureSprite = "GFX_abutton_straight_380_32"
+				clicksound = click_default
+				font = "hoi_16mbs"
+				buttonText = "DONE_REFORM"
+			}
+		}
+
+		containerWindowType = {
+			name = "ENG_anglo_league_reforms_2"
+			position = { x=44 y = 200}
+			size = { width=90%% height=200 }
+			Orientation = UPPER_LEFT
+			clipping = no
+
+			background = {
+				name = "Background"	
+				spriteType ="GFX_tiled_window_thin_border2"
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_picture_2"
+				position = { x = -107 y = 70 }
+				font = "hoi_20bs"
+				text = "reform_picture_2"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_name_2"
+				position = { x = -107 y = 15 }
+				font = "hoi_20bs"
+				text = "reform_name_2"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			buttonType = {
+				name = "reform_button_2"
+				position = { x = 10 y = 160 }
+				quadTextureSprite = "GFX_abutton_straight_380_32"
+				clicksound = click_default
+				font = "hoi_16mbs"
+				buttonText = "DONE_REFORM"
+			}
+		}
+
+		containerWindowType = {
+			name = "ENG_anglo_league_reforms_3"
+			position = { x=44 y = 400}
+			size = { width=90%% height=200 }
+			Orientation = UPPER_LEFT
+			clipping = no
+
+			background = {
+				name = "Background"	
+				spriteType ="GFX_tiled_window_thin_border2"
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_picture_3"
+				position = { x = -107 y = 70 }
+				font = "hoi_20bs"
+				text = "reform_picture_3"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_name_3"
+				position = { x = -107 y = 15 }
+				font = "hoi_20bs"
+				text = "reform_name_3"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			buttonType = {
+				name = "reform_button_3"
+				position = { x = 10 y = 160 }
+				quadTextureSprite = "GFX_abutton_straight_380_32"
+				clicksound = click_default
+				font = "hoi_16mbs"
+				buttonText = "DONE_REFORM"
+			}
+		}
+
+		containerWindowType = {
+			name = "ENG_anglo_league_reforms_4"
+			position = { x=44 y = 600}
+			size = { width=90%% height=200 }
+			Orientation = UPPER_LEFT
+			clipping = no
+
+			background = {
+				name = "Background"	
+				spriteType ="GFX_tiled_window_thin_border2"
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_picture_4"
+				position = { x = -107 y = 70 }
+				font = "hoi_20bs"
+				text = "reform_picture_4"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_name_4"
+				position = { x = -107 y = 15 }
+				font = "hoi_20bs"
+				text = "reform_name_4"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			buttonType = {
+				name = "reform_button_4"
+				position = { x = 10 y = 160 }
+				quadTextureSprite = "GFX_abutton_straight_380_32"
+				clicksound = click_default
+				font = "hoi_16mbs"
+				buttonText = "DONE_REFORM"
+			}
+		}
+
+		containerWindowType = {
+			name = "ENG_anglo_league_reforms_5"
+			position = { x=44 y = 800}
+			size = { width=90%% height=200 }
+			Orientation = UPPER_LEFT
+			clipping = no
+
+			background = {
+				name = "Background"	
+				spriteType ="GFX_tiled_window_thin_border2"
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_picture_5"
+				position = { x = -107 y = 70 }
+				font = "hoi_20bs"
+				text = "reform_picture_5"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_name_5"
+				position = { x = -107 y = 15 }
+				font = "hoi_20bs"
+				text = "reform_name_5"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			buttonType = {
+				name = "reform_button_5"
+				position = { x = 10 y = 160 }
+				quadTextureSprite = "GFX_abutton_straight_380_32"
+				clicksound = click_default
+				font = "hoi_16mbs"
+				buttonText = "DONE_REFORM"
+			}
+		}
+
+		containerWindowType = {
+			name = "ENG_anglo_league_reforms_6"
+			position = { x=44 y = 1000}
+			size = { width=90%% height=200 }
+			Orientation = UPPER_LEFT
+			clipping = no
+
+			background = {
+				name = "Background"	
+				spriteType ="GFX_tiled_window_thin_border2"
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_picture_6"
+				position = { x = -107 y = 70 }
+				font = "hoi_20bs"
+				text = "reform_picture_6"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_name_6"
+				position = { x = -107 y = 15 }
+				font = "hoi_20bs"
+				text = "reform_name_6"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			buttonType = {
+				name = "reform_button_6"
+				position = { x = 10 y = 160 }
+				quadTextureSprite = "GFX_abutton_straight_380_32"
+				clicksound = click_default
+				font = "hoi_16mbs"
+				buttonText = "DONE_REFORM"
+			}
+		}
+
+		containerWindowType = {
+			name = "ENG_anglo_league_reforms_7"
+			position = { x=44 y = 1200}
+			size = { width=90%% height=200 }
+			Orientation = UPPER_LEFT
+			clipping = no
+
+			background = {
+				name = "Background"	
+				spriteType ="GFX_tiled_window_thin_border2"
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_picture_7"
+				position = { x = -107 y = 70 }
+				font = "hoi_20bs"
+				text = "reform_picture_7"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_name_7"
+				position = { x = -107 y = 15 }
+				font = "hoi_20bs"
+				text = "reform_name_7"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			buttonType = {
+				name = "reform_button_7"
+				position = { x = 10 y = 160 }
+				quadTextureSprite = "GFX_abutton_straight_380_32"
+				clicksound = click_default
+				font = "hoi_16mbs"
+				buttonText = "DONE_REFORM"
+			}
+		}
+
+		containerWindowType = {
+			name = "ENG_anglo_league_reforms_8"
+			position = { x=44 y = 1400}
+			size = { width=90%% height=200 }
+			Orientation = UPPER_LEFT
+			clipping = no
+
+			background = {
+				name = "Background"	
+				spriteType ="GFX_tiled_window_thin_border2"
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_picture_8"
+				position = { x = -107 y = 70 }
+				font = "hoi_20bs"
+				text = "reform_picture_8"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_name_8"
+				position = { x = -107 y = 15 }
+				font = "hoi_20bs"
+				text = "reform_name_8"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			buttonType = {
+				name = "reform_button_8"
+				position = { x = 10 y = 160 }
+				quadTextureSprite = "GFX_abutton_straight_380_32"
+				clicksound = click_default
+				font = "hoi_16mbs"
+				buttonText = "DONE_REFORM"
+			}
+		}
+
+		containerWindowType = {
+			name = "ENG_anglo_league_reforms_9"
+			position = { x=44 y = 1600}
+			size = { width=90%% height=200 }
+			Orientation = UPPER_LEFT
+			clipping = no
+
+			background = {
+				name = "Background"	
+				spriteType ="GFX_tiled_window_thin_border2"
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_picture_9"
+				position = { x = -107 y = 70 }
+				font = "hoi_20bs"
+				text = "reform_picture_9"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			instantTextboxType = {
+				name = "reform_name_9"
+				position = { x = -107 y = 15 }
+				font = "hoi_20bs"
+				text = "reform_name_9"
+				format = CENTER
+				Orientation = "CENTER_UP"
+				maxWidth = 200
+				alwaystransparent = yes
+			}
+
+			buttonType = {
+				name = "reform_button_9"
+				position = { x = 10 y = 160 }
+				quadTextureSprite = "GFX_abutton_straight_380_32"
+				clicksound = click_default
+				font = "hoi_16mbs"
+				buttonText = "DECLARE_ANGLO_UNIFIED"
+			}
+
+			buttonType = {
+				name = "reform_button_9_fake"
+				position = { x = 10 y = 160 }
+				quadTextureSprite = "GFX_abutton_straight_380_32"
+				clicksound = click_default
+				alwaystransparent = yes
+				font = "hoi_16mbs"
+				buttonText = "NOT_DECLARE_ANGLO_UNIFIED"
+			}
+		}
+	}
+
+	containerWindowType = {
+		name = "ENG_anglo_league_reforms_container_title"
+		position = { x=300 y = 50}
+		size = { width=500 height=600 }
+		Orientation = UPPER_LEFT
+		clipping = yes
+
+		iconType ={
+			name ="title_Anglo_league"
+			spriteType = "GFX_main_screens_bottom"
+			position = { x = -25 y = 0 }
+			Orientation = "UPPER"
+			scale = 1.02
+		}
+	
+		instantTextboxType = {
+			name = "Anglo_league_title_reforms"
+			position = { x = -210 y = 8 }
+			textureFile = ""
+			font = "hoi_36header"
+			borderSize = {x = 0 y = 0}
+			text = "Anglo_league_title_reforms"
+			Orientation = CENTER_UP
+			format = CENTER
+			maxWidth = 400
+			maxHeight = 20
+			fixedsize = yes
+		}
+	}
+
+}

@@ -1,0 +1,10 @@
+ENG_member_of_anglo_pact = { #NATIONAL SPIRIT
+	enable = { always = yes }
+
+	icon = GFX_idea_ENG_idea_1
+
+	production_speed_buildings_factor = ENG_member_of_anglo_pact_var_1
+    consumer_goods_expected_value = ENG_member_of_anglo_pact_var_2
+    stability_factor = ENG_member_of_anglo_pact_var_1
+	monthly_anglo_unity_change = ENG_member_of_anglo_pact_var_3
+}

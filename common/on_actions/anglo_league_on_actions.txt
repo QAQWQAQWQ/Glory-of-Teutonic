@@ -1,0 +1,178 @@
+on_actions = {
+    on_startup = {
+        effect = {
+            clear_array = global.faction_member_WSS
+            add_to_array = {
+                global.faction_member_WSS = WSS
+            }
+            every_country = {
+                limit = {
+                    is_in_faction_with = WSS
+                    NOT = {
+                        original_tag = WSS
+                    }
+                }
+                add_to_array = {
+                    global.faction_member_WSS = THIS
+                }
+            }
+
+            clear_array = global.grid_faction_array
+        }
+    }
+    on_daily = {
+        effect = {
+            clear_array = global.faction_member_WSS
+            add_to_array = {
+                global.faction_member_WSS = WSS
+            }
+            every_country = {
+                limit = {
+                    is_in_faction_with = WSS
+                    NOT = {
+                        original_tag = WSS
+                    }
+                }
+                add_to_array = {
+                    global.faction_member_WSS = THIS
+                }
+            }
+
+            clear_array = global.grid_faction_array
+
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    on_weekly = {
+        effect = {
+            set_variable  ={
+                global.member_amouts = 0
+            }
+            every_country = {
+                limit = {
+                    is_in_faction_with = WSS
+                }
+				add_to_variable = {
+					global.member_amouts = 1
+				}
+            }
+        }
+    }
+    on_startup = {
+        effect = {
+            WSS = {
+                set_variable  ={
+                    global.member_amouts = 0
+                }
+                every_country = {
+                    limit = {
+                        is_in_faction_with = WSS
+                    }
+                    add_to_variable = {
+                        global.member_amouts = 1
+                    }
+                }
+                set_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY_CHANGE = 0
+                }
+                set_variable = {
+                    AU_change_1 = global.member_amouts
+                }
+                multiply_variable = {
+                    AU_change_1 = 0.1
+                }
+                add_to_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY_CHANGE = AU_change_1
+                }
+
+                add_to_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY_CHANGE = modifier@monthly_anglo_unity_change
+                }
+            }
+        }
+    }
+    on_monthly_WSS = {
+        effect = {
+            WSS = {
+                set_variable  ={
+                    global.member_amouts = 0
+                }
+                every_country = {
+                    limit = {
+                        is_in_faction_with = WSS
+                    }
+                    add_to_variable = {
+                        global.member_amouts = 1
+                    }
+                }
+                set_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY_CHANGE = 0
+                }
+                set_variable = {
+                    AU_change_1 = global.member_amouts
+                }
+                multiply_variable = {
+                    AU_change_1 = 0.1
+                }
+                add_to_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY_CHANGE = AU_change_1
+                }
+
+                add_to_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY_CHANGE = modifier@monthly_anglo_unity_change
+                }
+
+                add_to_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY = GLOBAL.LEAGUE_AUTHORITY_CHANGE
+                }
+                set_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY_CHANGE = 0
+                }
+
+                set_variable  ={
+                    global.member_amouts = 0
+                }
+                every_country = {
+                    limit = {
+                        is_in_faction_with = WSS
+                    }
+                    add_to_variable = {
+                        global.member_amouts = 1
+                    }
+                }
+                set_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY_CHANGE = 0
+                }
+                set_variable = {
+                    AU_change_1 = global.member_amouts
+                }
+                multiply_variable = {
+                    AU_change_1 = 0.1
+                }
+                add_to_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY_CHANGE = AU_change_1
+                }
+
+                add_to_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY_CHANGE = modifier@monthly_anglo_unity_change
+                }
+            }
+        }
+    }
+}

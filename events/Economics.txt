@@ -1,0 +1,160 @@
+add_namespace = Anglos
+country_event = {
+    id = Anglos.1
+    picture = GFX_report_event_generic_italian_fascists
+    title = Anglos.1.t
+    desc = Anglos.1.d
+    is_triggered_only = yes
+    fire_only_once = yes
+    option = {
+        name = generic_economics.1.a
+        every_country = {
+            set_variable = {
+                ENG_member_of_anglo_pact_var_1 = 0
+            }
+            set_variable = {
+                ENG_member_of_anglo_pact_var_2 = 0
+            }
+            set_variable = {
+                global.ENG_member_of_anglo = 0
+            }
+        }
+        every_country = {
+            limit = {
+                is_in_faction_with = WSS
+            }
+            add_to_variable = {
+                global.ENG_member_of_anglo = 1
+            }
+        }
+        every_country = {
+            set_variable = {
+                THIS.ENG_member_of_anglo_pact_var_1 = global.ENG_member_of_anglo
+            }
+            multiply_variable = {
+                THIS.ENG_member_of_anglo_pact_var_1 = 0.01
+            }
+
+            set_variable = {
+                ENG_member_of_anglo_pact_var_2 = THIS.ENG_member_of_anglo_pact_var_1
+            }
+            multiply_variable = {
+                ENG_member_of_anglo_pact_var_2 = -1
+            }
+        }
+    }
+}
+country_event = {
+    id = Anglos.2
+    picture = GFX_report_event_generic_italian_fascists
+    title = Anglos.2.t
+    desc = Anglos.2.d
+    is_triggered_only = yes
+    fire_only_once = yes
+    option = {
+        name = generic_economics.2.a
+        every_country = {
+            limit = {
+                is_in_faction_with = WSS
+            }
+            set_variable = {
+                ENG_member_of_anglo_pact_var_1 = 0
+            }
+            set_variable = {
+                ENG_member_of_anglo_pact_var_2 = 0
+            }
+            set_variable = {
+                ENG_member_of_anglo = 0
+            }
+        }
+    }
+}
+country_event = {
+    id = Anglos.3
+    picture = GFX_report_event_generic_italian_fascists
+    title = Anglos.3.t
+    desc = Anglos.3.d
+    is_triggered_only = yes
+    fire_only_once = yes
+    option = {
+        name = generic_economics.3.a
+        set_variable  ={
+            global.member_amouts = 0
+        }
+        every_country = {
+            limit = {
+                is_in_faction_with = WSS
+            }
+            add_to_variable = {
+                global.member_amouts = 1
+            }
+        }
+        set_variable = {
+            GLOBAL.LEAGUE_AUTHORITY_CHANGE = 0
+        }
+        set_variable = {
+            AU_change_1 = global.member_amouts
+        }
+        multiply_variable = {
+            AU_change_1 = 0.1
+        }
+        add_to_variable = {
+            GLOBAL.LEAGUE_AUTHORITY_CHANGE = AU_change_1
+        }
+
+        add_to_variable = {
+            GLOBAL.LEAGUE_AUTHORITY_CHANGE = modifier@monthly_anglo_unity_change
+        }
+
+        add_to_variable = {
+            GLOBAL.LEAGUE_AUTHORITY = GLOBAL.LEAGUE_AUTHORITY_CHANGE
+        }
+        set_variable = {
+            GLOBAL.LEAGUE_AUTHORITY_CHANGE = 0
+        }
+
+        set_variable  ={
+            global.member_amouts = 0
+        }
+        every_country = {
+            limit = {
+                is_in_faction_with = WSS
+            }
+            add_to_variable = {
+                global.member_amouts = 1
+            }
+        }
+        set_variable = {
+            GLOBAL.LEAGUE_AUTHORITY_CHANGE = 0
+        }
+        set_variable = {
+            AU_change_1 = global.member_amouts
+        }
+        multiply_variable = {
+            AU_change_1 = 0.1
+        }
+        add_to_variable = {
+            GLOBAL.LEAGUE_AUTHORITY_CHANGE = AU_change_1
+        }
+
+        add_to_variable = {
+            GLOBAL.LEAGUE_AUTHORITY_CHANGE = modifier@monthly_anglo_unity_change
+        }
+    }
+}
+country_event = {
+    id = Anglos.4
+    picture = GFX_report_event_generic_italian_fascists
+    title = Anglos.4.t
+    desc = Anglos.4.d
+    is_triggered_only = yes
+    fire_only_once = yes
+    option = {
+        name = Anglos.4.a
+        set_cosmetic_tag = ANGLAND_KINGDOM
+    }
+    option = {
+        name = Anglos.4.b
+        set_cosmetic_tag = ENGLAND_KINGDOM
+    }
+}

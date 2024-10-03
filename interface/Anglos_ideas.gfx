@@ -1,0 +1,8 @@
+spriteTypes = {	
+	
+	SpriteType = {
+		name = "GFX_idea_ENG_idea_1"
+		texturefile = "gfx/interface/ideas/anglos/ENG_1.png"			
+	}
+	
+}

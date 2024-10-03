@@ -1,0 +1,10 @@
+Get_grid_Faction = {
+    clear_array = ROOT.grid_faction_array
+    set_variable = {
+        ROOT.grid_faction_array = WSS   
+    }
+    for_each_loop = {
+        array = global.faction_member_WSS
+        add_to_array = { ROOT.grid_faction_array = v }
+    }
+}

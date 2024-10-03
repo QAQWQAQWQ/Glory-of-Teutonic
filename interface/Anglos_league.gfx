@@ -1,0 +1,26 @@
+spriteTypes = {	
+	
+	SpriteType = {
+		name = "GFX_ENG_button_2"
+		texturefile = "gfx/interface/gui/ENG_button2.png"			
+	}
+
+	SpriteType = {
+		name = "GFX_angland_symbol"
+		texturefile = "gfx/interface/shield_hre.dds"		
+		transparencecheck  = yes	
+	}
+
+	SpriteType = {
+		name = "GFX_angland_reform"
+		texturefile = "gfx/interface/hre_vote_bg.dds"		
+		transparencecheck  = yes	
+	}
+
+	SpriteType = {
+		name = "GFX_abutton_straight_380_32"
+		texturefile = "gfx/interface/button_straight_380_32.dds"		
+		transparencecheck  = yes	
+	}
+	
+}

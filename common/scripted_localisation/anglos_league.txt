@@ -1,0 +1,84 @@
+defined_text = { 
+	name = Anglo_league_word_of_unity_sploc
+	
+	text = {
+        trigger = {
+            check_variable = {
+                GLOBAL.LEAGUE_AUTHORITY > -100
+            }
+            check_variable = {
+                GLOBAL.LEAGUE_AUTHORITY < 1
+            }
+        }
+        localization_key = Anglo_league_word_of_unity_sploc_1
+    }
+    text = {
+        trigger = {
+            check_variable = {
+                GLOBAL.LEAGUE_AUTHORITY > 1
+            }
+            check_variable = {
+                GLOBAL.LEAGUE_AUTHORITY < 51
+            }
+        }
+        localization_key = Anglo_league_word_of_unity_sploc_2
+    }
+    text = {
+        trigger = {
+            check_variable = {
+                GLOBAL.LEAGUE_AUTHORITY > 51
+            }
+            check_variable = {
+                GLOBAL.LEAGUE_AUTHORITY < 81
+            }
+        }
+        localization_key = Anglo_league_word_of_unity_sploc_3
+    }
+    text = {
+        trigger = {
+            check_variable = {
+                GLOBAL.LEAGUE_AUTHORITY > 81
+            }
+            check_variable = {
+                GLOBAL.LEAGUE_AUTHORITY < 91
+            }
+        }
+        localization_key = Anglo_league_word_of_unity_sploc_4
+    }
+    text = {
+        trigger = {
+            check_variable = {
+                GLOBAL.LEAGUE_AUTHORITY > 91
+            }
+            check_variable = {
+                GLOBAL.LEAGUE_AUTHORITY < 101
+            }
+        }
+        localization_key = Anglo_league_word_of_unity_sploc_5
+    }
+}
+defined_text = { 
+	name = Anglo_league_name
+	
+	text = {
+        trigger = {
+            OR = {
+                check_variable = {
+                    league_button_current_view = 1
+                }
+                check_variable = {
+                    league_button_current_view = 2
+                }
+            }
+        }
+        localization_key = Anglo_league_name_1
+    }
+    text = {
+        trigger = {
+            check_variable = {
+                league_button_current_view = 3
+            }
+        }
+        localization_key = Anglo_league_name_2
+    }
+}

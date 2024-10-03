@@ -1,0 +1,10 @@
+﻿l_simp_chinese:
+ ANGLO_TIP_GUI_1:0 "当前联盟凝聚力为:[?GLOBAL.LEAGUE_AUTHORITY|+]"
+ ANGLO_TIP_GUI_2:0 "§g联盟凝聚力是体现盎格鲁人的联盟是否团结的数值，高凝聚力可以进行改革强化联盟权威。当前凝聚力等级为: [Anglo_league_word_of_unity_sploc]§!"
+ Anglo_league_word_of_unity_1:0 "[Anglo_league_word_of_unity_sploc]"
+ Anglo_league_word_of_unity_sploc_1:0 "§R众叛亲离§!"
+ Anglo_league_word_of_unity_sploc_2:0 "§g摇摇欲坠§!"
+ Anglo_league_word_of_unity_sploc_3:0 "§O表里不一§!"
+ Anglo_league_word_of_unity_sploc_4:0 "§Y万众归心§!"
+ Anglo_league_word_of_unity_sploc_5:0 "§G合众为一§!"
+ Anglo_league_authority_monthy_change:0 "[?GLOBAL.LEAGUE_AUTHORITY_CHANGE|+=.2]"

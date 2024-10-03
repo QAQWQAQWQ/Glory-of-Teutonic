@@ -1,0 +1,36 @@
+﻿capital = 128
+
+#oob = ""
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	tech_trucks = 1
+	fuel_silos = 1
+}
+
+set_convoys = 20
+set_cosmetic_tag = anglo_england
+set_autonomy = {
+	target = GWY
+	autonomy_state = autonomy_puppet
+}
+set_autonomy = {
+	target = POW
+	autonomy_state = autonomy_puppet
+}
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+add_ideas = {
+	Anglos_powerful_nation
+}
+set_popularities = {
+	democratic = 0
+	fascism = 0
+	communism = 0
+	neutrality = 100
+}

@@ -1242,3 +1242,17 @@ LGF_UNIFIED = {
 	color = rgb { 205 69 69 }
 	color_ui = rgb { 205 69 69 }
 }
+
+anglo_england = {
+	color = rgb { 193 26 14 }
+	color_ui = rgb { 193 26 14 }
+}
+
+ANGLAND_KINGDOM = {
+	color = rgb { 193 26 14 }
+	color_ui = rgb { 193 26 14 }
+}
+ENGLAND_KINGDOM = {
+	color = rgb { 193 26 14 }
+	color_ui = rgb { 193 26 14 }
+}

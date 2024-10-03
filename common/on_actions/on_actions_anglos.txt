@@ -1,0 +1,106 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			every_country = {
+				limit = {
+					is_in_faction_with = WSS
+				}
+				add_dynamic_modifier = {
+					modifier = ENG_member_of_anglo_pact
+				}
+			}
+			every_country = {
+				set_variable = {
+					ENG_member_of_anglo_pact_var_1 = 0
+				}
+				set_variable = {
+					ENG_member_of_anglo_pact_var_2 = 0
+				}
+				set_variable = {
+					global.ENG_member_of_anglo = 0
+				}
+			}
+			every_country = {
+				limit = {
+					is_in_faction_with = WSS
+				}
+				add_to_variable = {
+					global.ENG_member_of_anglo = 1
+				}
+			}
+			every_country = {
+				set_variable = {
+					THIS.ENG_member_of_anglo_pact_var_1 = global.ENG_member_of_anglo
+				}
+				multiply_variable = {
+					THIS.ENG_member_of_anglo_pact_var_1 = 0.01
+				}
+
+				set_variable = {
+					ENG_member_of_anglo_pact_var_2 = THIS.ENG_member_of_anglo_pact_var_1
+				}
+				multiply_variable = {
+					ENG_member_of_anglo_pact_var_2 = -1
+				}
+			}
+		}
+	}
+	on_daily = {
+		effect = {
+			clamp_variable = {
+				var = GLOBAL.LEAGUE_AUTHORITY
+				min = -100
+				max = 100
+			}
+			every_country = {
+				limit = {
+					is_in_faction_with = WSS
+				}
+				add_dynamic_modifier = {
+					modifier = ENG_member_of_anglo_pact
+				}
+			}
+			every_country = {
+				set_variable = {
+					ENG_member_of_anglo_pact_var_1 = 0
+				}
+				set_variable = {
+					ENG_member_of_anglo_pact_var_2 = 0
+				}
+				set_variable = {
+					global.ENG_member_of_anglo = 0
+				}
+			}
+			every_country = {
+				limit = {
+					is_in_faction_with = WSS
+				}
+				add_to_variable = {
+					global.ENG_member_of_anglo = 1
+				}
+			}
+			every_country = {
+				set_variable = {
+					THIS.ENG_member_of_anglo_pact_var_1 = global.ENG_member_of_anglo
+				}
+				multiply_variable = {
+					THIS.ENG_member_of_anglo_pact_var_1 = 0.01
+				}
+
+				set_variable = {
+					ENG_member_of_anglo_pact_var_2 = THIS.ENG_member_of_anglo_pact_var_1
+				}
+				multiply_variable = {
+					ENG_member_of_anglo_pact_var_2 = -1
+				}
+
+				set_variable = {
+					ENG_member_of_anglo_pact_var_3 = THIS.ENG_member_of_anglo_pact_var_1
+				}
+				multiply_variable = {
+					ENG_member_of_anglo_pact_var_3 = 100
+				}
+			}
+		}
+	}
+}

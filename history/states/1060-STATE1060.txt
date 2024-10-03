@@ -4,8 +4,8 @@ state={
 	name="STATE_1060"
 
 	history={
-		owner = KOF
-		add_core_of = KOF
+		owner = AQT
+		add_core_of = AQT
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
@@ -16,10 +16,10 @@ state={
 	}
 
 	provinces={
-        3948 6759 6766 3749 3740 11699 12169 929 11702 
+		929 3749 3948 6766 11699 11702 12169 
 	}
 	manpower=925000
+	buildings_max_level_factor=1.000
 	state_category=large_town
-
-	local_supplies=0.0 
+	local_supplies=0.000
 }

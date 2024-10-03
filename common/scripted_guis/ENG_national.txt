@@ -1,0 +1,390 @@
+scripted_gui = {
+    ENG_anglo_league_background = {
+        window_name = ENG_anglo_league_background
+		context_type = player_context
+
+        visible = {
+			has_country_flag = view_anglos_league_GUI
+		}
+
+        triggers = {
+			angland_symbol_reform_visible = {
+                OR = {
+                    check_variable = {
+                        league_button_current_view = 1
+                    }
+                    check_variable = {
+                        league_button_current_view = 2
+                    }
+                }
+            }
+            angland_symbol_visible = {
+                OR = {
+                    check_variable = {
+                        league_button_current_view = 1
+                    }
+                    check_variable = {
+                        league_button_current_view = 2
+                    }
+                }
+            }
+            Anglo_league_word_of_unity_visible = {
+                OR = {
+                    check_variable = {
+                        league_button_current_view = 1
+                    }
+                    check_variable = {
+                        league_button_current_view = 2
+                    }
+                }
+            }
+            Anglo_league_authority_visible = {
+                OR = {
+                    check_variable = {
+                        league_button_current_view = 1
+                    }
+                    check_variable = {
+                        league_button_current_view = 2
+                    }
+                }
+            }
+            Anglo_league_authority_monthy_change_visible = {
+                OR = {
+                    check_variable = {
+                        league_button_current_view = 1
+                    }
+                    check_variable = {
+                        league_button_current_view = 2
+                    }
+                }
+            }
+        }
+        effects = {
+            close_gui_click = {
+                clr_country_flag = view_anglos_league_GUI
+            }
+            league_reform_button_click = {
+                set_variable = { league_button_var_1 = 1 }
+                set_variable = { league_button_var_2 = 2 }
+                set_variable = { league_button_var_3 = 2 }
+                set_variable = { league_button_current_view = 1 }
+            }
+            league_concil_button_click = {
+                set_variable = { league_button_var_1 = 2 }
+                set_variable = { league_button_var_2 = 1 }
+                set_variable = { league_button_var_3 = 2 }
+                set_variable = { league_button_current_view = 2 }
+            }
+            french_council_button_click = {
+                set_variable = { league_button_var_1 = 2 }
+                set_variable = { league_button_var_2 = 2 }
+                set_variable = { league_button_var_3 = 1 }
+                set_variable = { league_button_current_view = 3 }
+            }
+        }
+
+        dynamic_lists = {
+            faction_grid = {
+                array = grid_faction_array
+                index = idx
+                value = v
+                change_scope = yes
+                entry_container = faction_entry
+            }
+        }
+
+        properties = {
+            country_flag = {
+                image = [THIS.GetFlag]
+            }
+            league_reform_button = {
+                frame = league_button_var_1
+            }
+            league_concil_button = {
+                frame = league_button_var_2
+            }
+            french_council_button = {
+                frame = league_button_var_3
+            }
+        }
+    }
+    ENG_OPEN_GUI = {
+        window_name = ENG_OPEN_GUI
+		context_type = player_context
+
+        visible = {
+			is_in_faction_with = WSS
+		}
+
+        effects = {
+            ENG_open_button_GUI_click = {
+                Get_grid_Faction = yes
+                set_country_flag = view_anglos_league_GUI
+            }
+        }
+    }
+    ENG_anglo_league_reforms_container = {
+        window_name = ENG_anglo_league_reforms_container
+		context_type = player_context
+        parent_window_name = "ENG_anglo_league_background"
+
+        visible = {
+			check_variable = {
+                league_button_current_view = 1
+            }
+		}
+
+        triggers = {
+            reform_button_9_visible = {
+                has_global_flag = Anglo_reform_1
+                has_global_flag = Anglo_reform_2
+                has_global_flag = Anglo_reform_3
+                has_global_flag = Anglo_reform_4
+                has_global_flag = Anglo_reform_5
+                has_global_flag = Anglo_reform_6
+                has_global_flag = Anglo_reform_7
+                has_global_flag = Anglo_reform_8
+            }
+            reform_button_9_fake_visible = {
+                NOT = {
+                    has_global_flag = Anglo_reform_1
+                    has_global_flag = Anglo_reform_2
+                    has_global_flag = Anglo_reform_3
+                    has_global_flag = Anglo_reform_4
+                    has_global_flag = Anglo_reform_5
+                    has_global_flag = Anglo_reform_6
+                    has_global_flag = Anglo_reform_7
+                    has_global_flag = Anglo_reform_8
+                }
+            }
+
+            reform_button_1_visible = {
+                check_variable = {
+                    global.LEAGUE_AUTHORITY > 90
+                }
+                NOT = {
+                    has_global_flag = Anglo_reform_1
+                }
+            }
+            reform_button_2_visible = {
+                check_variable = {
+                    global.LEAGUE_AUTHORITY > 90
+                }
+                NOT = {
+                    has_global_flag = Anglo_reform_2
+                }
+            }
+            reform_button_3_visible = {
+                check_variable = {
+                    global.LEAGUE_AUTHORITY > 90
+                }
+                NOT = {
+                    has_global_flag = Anglo_reform_3
+                }
+            }
+            reform_button_4_visible = {
+                check_variable = {
+                    global.LEAGUE_AUTHORITY > 90
+                }
+                NOT = {
+                    has_global_flag = Anglo_reform_4
+                }
+            }
+            reform_button_5_visible = {
+                check_variable = {
+                    global.LEAGUE_AUTHORITY > 90
+                }
+                NOT = {
+                    has_global_flag = Anglo_reform_5
+                }
+            }
+            reform_button_6_visible = {
+                check_variable = {
+                    global.LEAGUE_AUTHORITY > 90
+                }
+                NOT = {
+                    has_global_flag = Anglo_reform_6
+                }
+            }
+            reform_button_7_visible = {
+                check_variable = {
+                    global.LEAGUE_AUTHORITY > 90
+                }
+                NOT = {
+                    has_global_flag = Anglo_reform_7
+                }
+            }
+            reform_button_8_visible = {
+                check_variable = {
+                    global.LEAGUE_AUTHORITY > 90
+                }
+                NOT = {
+                    has_global_flag = Anglo_reform_8
+                }
+            }
+        }
+
+        effects = {
+            reform_button_1_click = {
+                set_global_flag = Anglo_reform_1
+                set_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY = 20
+                }
+            }
+            reform_button_2_click = {
+                set_global_flag = Anglo_reform_2
+                set_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY = 20
+                }
+            }
+            reform_button_3_click = {
+                set_global_flag = Anglo_reform_3
+                set_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY = 20
+                }
+            }
+            reform_button_4_click = {
+                set_global_flag = Anglo_reform_4
+                set_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY = 20
+                }
+            }
+            reform_button_5_click = {
+                set_global_flag = Anglo_reform_5
+                set_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY = 20
+                }
+            }
+            reform_button_6_click = {
+                set_global_flag = Anglo_reform_6
+                set_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY = 20
+                }
+            }
+            reform_button_7_click = {
+                set_global_flag = Anglo_reform_7
+                set_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY = 20
+                }
+            }
+            reform_button_8_click = {
+                set_global_flag = Anglo_reform_8
+                set_variable = {
+                    GLOBAL.LEAGUE_AUTHORITY = 20
+                }
+            }
+            reform_button_9_click = {
+                WSS = {
+                    country_event = Anglos.4
+                }
+                set_faction_name = British_union
+                if = {
+                    limit = {
+                        MER = {
+                            is_in_faction_with = WSS
+                        }
+                    }
+                    WSS = {
+                        annex_country = {
+                            target = MER
+                            transfer_troops = yes
+                        }
+                  
+                    }
+                }
+                if = {
+                    limit = {
+                        ESS = {
+                            is_in_faction_with = WSS
+                        }
+                    }
+                    WSS = {
+                        annex_country = {
+                            target = ESS
+                            transfer_troops = yes
+                        }
+                    }
+                }
+                if = {
+                    limit = {
+                        KET = {
+                            is_in_faction_with = WSS
+                        }
+                    }
+                    WSS = {
+                        annex_country = {
+                            target = KET
+                            transfer_troops = yes
+                        }
+                    }
+                }
+                if = {
+                    limit = {
+                        SUS = {
+                            is_in_faction_with = WSS
+                        }
+                    }
+                    WSS = {
+                        annex_country = {
+                            target = SUS
+                            transfer_troops = yes
+                        }
+                    }
+                }
+                if = {
+                    limit = {
+                        EAN = {
+                            is_in_faction_with = WSS
+                        }
+                    }
+                    WSS = {
+                        annex_country = {
+                            target = EAN
+                            transfer_troops = yes
+                        }
+                    }
+                }
+                if = {
+                    limit = {
+                        NRT = {
+                            is_in_faction_with = WSS
+                        }
+                    }
+                    WSS = {
+                        annex_country = {
+                            target = NRT
+                            transfer_troops = yes
+                        }
+                    }
+                }
+                WSS = {
+                    annex_country = {
+                        target = POW
+                        transfer_troops = yes
+                    }
+                }
+                WSS = {
+                    annex_country = {
+                        target = GWY
+                        transfer_troops = yes
+                    }
+                }
+            }
+        }
+    }
+    ENG_anglo_league_reforms_container_title = {
+        window_name = ENG_anglo_league_reforms_container_title
+		context_type = player_context
+        parent_window_name = "ENG_anglo_league_background"
+
+        visible = {
+			check_variable = {
+                league_button_current_view = 1
+            }
+		}
+
+        effects = {
+            
+        }
+    }
+}

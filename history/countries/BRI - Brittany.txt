@@ -22,7 +22,10 @@ set_technology = {
 	fuel_refining = 1
 	basic_train = 1
 }
-
+add_ideas = {
+	Anglos_land_fort
+}
+set_cosmetic_tag = anglo_england
 if = {
 	limit = {
 		NOT = { has_dlc = "By Blood Alone" }

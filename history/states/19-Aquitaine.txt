@@ -3,13 +3,13 @@ state={
 	id=19
 	name="STATE_19"
 	resources={
-		steel=14 #was 25
-		aluminium=11
+		steel=14.000
+		aluminium=11.000
 	}
 
 	history={
-		owner = ENL
-		add_core_of = ENL
+		owner = AQT
+		add_core_of = AQT
 		victory_points = {
 			9737 20 
 		}
@@ -29,11 +29,10 @@ state={
 	}
 
 	provinces={
-		6621 6762 6777 9737 11565 
+		595 3740 6621 6759 6762 6775 6777 6792 9597 9717 9737 11565 11720 
 	}
 	manpower=1140400
 	buildings_max_level_factor=1.000
 	state_category=city
-
-	local_supplies=0.0 
+	local_supplies=0.000
 }
