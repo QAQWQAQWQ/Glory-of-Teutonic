@@ -43,6 +43,10 @@ KOJ = {
 	color = rgb { 163 160 153 }
 	color_ui = rgb { 224  228  255 }
 }
+AKC = {
+	color = rgb { 180 101 154 }
+	color_ui = rgb { 224  228  255 }
+}
 POA = {
 	color = rgb { 51 51 205 }
 	color_ui = rgb { 224  228  255 }

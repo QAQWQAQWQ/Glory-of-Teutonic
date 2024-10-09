@@ -7,8 +7,8 @@ state={
 	state_category = rural
 
 	history={
-		owner = KUR
-		add_core_of = KUR
+		owner = TUR
+		add_core_of = TUR
 		victory_points = {
 			9777 3 
 		}
@@ -18,7 +18,7 @@ state={
 	}
 
 	provinces={
-		9868 3890 3950 6919 6965 9761 9777 
+		9868 3950 6919 6965 9761 9777 
 	}
 
 	local_supplies=0.0 

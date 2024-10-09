@@ -1,0 +1,31 @@
+state= {
+	id=1161
+	name="STATE_1161"
+	manpower = 0
+	
+	state_category = rural
+	
+	resources={
+	}
+
+	history=
+	{
+		owner = JAP
+		add_core_of = JAP
+		buildings = {
+			infrastructure = 4
+			7072 = {
+				naval_base = 3
+			}
+			dockyard = 2
+		}
+		victory_points = {
+			7072 40 # Osaka
+		}
+	}
+
+	provinces=
+	{ 7072  }
+
+	local_supplies=0.0 
+}

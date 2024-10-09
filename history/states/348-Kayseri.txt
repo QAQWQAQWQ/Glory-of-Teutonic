@@ -8,11 +8,8 @@ state={
 	state_category = rural
 
 	history={
-		owner = POA
-		add_core_of = POA
-		victory_points = {
-			3870 5 
-		}
+		owner = AKC
+		add_core_of = AKC
 		buildings = {
 			infrastructure = 2
 
@@ -21,7 +18,7 @@ state={
 	}
 
 	provinces={
-		886 3921 6888 6956
+		3921 6888
 	}
 
 	local_supplies=6.0 

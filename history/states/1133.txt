@@ -1,0 +1,27 @@
+state= {
+	id=1133
+	name="STATE_1133"
+	manpower = 726100
+	
+	state_category = rural
+	
+	resources={
+	}
+
+	history=
+	{
+		owner = KOJ
+		add_core_of = KOJ
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			4486 5
+		}
+	}
+
+	provinces=
+	{  7184 10383 7001 7170 1074 4486 1544 4440  }
+
+	local_supplies=0.0 
+}

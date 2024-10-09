@@ -9,9 +9,6 @@ state={
 	history={
 		owner = KOJ
 		add_core_of = KOJ
-		victory_points = {
-			4111 5
-		}
 		buildings = {
 			infrastructure = 2
 			air_base = 1
@@ -21,7 +18,7 @@ state={
 
 
 	provinces={
-		1074 4111 4486 4550 7184 10383 12442 12316 
+		4111 4550 12442 1056 1072 
 	}
 
 	local_supplies=2.0 

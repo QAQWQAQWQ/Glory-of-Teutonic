@@ -2,26 +2,29 @@ state={
 	id=799
 	name="STATE_799"
 	provinces={
-		806 11746 12029 
+		806 11746 10056 11810 886 6956 
 	}
-	manpower = 734379
+	manpower = 2134379
 	
-	state_category = city
+	state_category = large_town
 
 	history= {
-		owner = POA
-		add_core_of = POA
-		victory_points = {
-			12029 6
-		}
+		owner = AKC
+		add_core_of = AKC
 		victory_points = {
 			11746 5 
 		}
+		victory_points = {
+			10056 1 
+		}
+		victory_points = {
+			11810 5 
+		}
 		buildings = {
-			arms_factory = 2
+			arms_factory = 1
 			dockyard = 1
-			industrial_complex = 3
-			infrastructure = 1
+			industrial_complex = 1
+			infrastructure = 2
 			11746 = {
 				naval_base = 3
 			}

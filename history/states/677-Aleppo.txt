@@ -4,30 +4,32 @@ state={
 	name="STATE_677"
 
 	history={
-		owner = TRP
-		add_core_of = TRP
-		victory_points = {
-			12473 3 
-		}
+		owner = POA
+		add_core_of = POA
 		victory_points = {
 			1056 1 
 		}
+		victory_points = {
+			12029 6
+		}
 		buildings = {
-			infrastructure = 2
-			arms_factory = 1
-			dockyard = 1
-			industrial_complex = 2
-
+			arms_factory = 2
+			dockyard = 2
+			industrial_complex = 3
+			infrastructure = 1
+			12029 = {
+				naval_base = 3
+			}
 		}
 
 	}
 
 	provinces={
-		1056 1072 1088 7140 7671 10087 12473 
+		12029 1088 7140
 	}
 	manpower=2325594
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category = city
 
 	local_supplies=2.0 
 }

@@ -1,0 +1,27 @@
+state= {
+	id=1132
+	name="STATE_1132"
+	manpower = 46100
+	
+	state_category = wasteland
+	
+	resources={
+	}
+
+	history=
+	{
+		victory_points = {
+			12473 3 
+		}
+		owner = KOJ
+		add_core_of = KOJ
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces=
+	{  12473 7671 }
+
+	local_supplies=0.0 
+}

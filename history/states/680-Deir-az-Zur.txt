@@ -6,8 +6,8 @@ state={
 	state_category = wasteland
 
 	history={
-		owner = SAO
-		add_core_of = SAO
+		owner = KOJ
+		add_core_of = KOJ
 		victory_points = {
 			3942 1
 		}
@@ -24,7 +24,7 @@ state={
 
 
 	provinces={
-		901 1549 1578 1606 1634 2013 3942 6883 7513 10882
+		 11871 12416 901 1578 1606 1634 2013 3942 6883 7513 10882
 	}
 
 	local_supplies=4.0 

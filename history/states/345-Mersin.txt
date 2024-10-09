@@ -6,12 +6,6 @@ state={
 	history={
 		owner = ODT
 		add_core_of = ODT
-		victory_points = {
-			10056 1 
-		}
-		victory_points = {
-			11810 5 
-		}
 		buildings = {
 			infrastructure = 2
 
@@ -20,9 +14,9 @@ state={
 	}
 
 	provinces={
-		1122 4008 4124 4127 7026 7143 10056 11810 
+		1122 4008 4124 4127 7026 7143
 	}
-	manpower=411798
+	manpower=261798
 	buildings_max_level_factor=1.000
 	state_category=rural
 

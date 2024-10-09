@@ -7,11 +7,14 @@ state={
 	state_category = large_town
 
 	history={
-		owner = ODT
-		add_core_of = ODT
+		owner = TUR
+		add_core_of = TUR
 		buildings = {
 			infrastructure = 2
 			air_base = 5
+		}
+		victory_points = {
+			3870 5 
 		}
 		
 		victory_points = {
