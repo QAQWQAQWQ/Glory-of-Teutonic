@@ -636,6 +636,98 @@ JAP = {
 	color = hsv { 0.05 0.3 1 }
 	color_ui = hsv { 0.05 0.25 1.2 }
 }
+JPN = {
+	color = rgb { 252 211 209 }
+	color_ui = rgb { 0 25 51 }
+}
+TOK = {
+	color = rgb { 255 127 39 }
+	color_ui = rgb { 0 25 51 }
+}
+UES = {
+	color = rgb { 0 162 232 }
+	color_ui = rgb { 0 25 51 }
+}
+MOU = {
+	color = rgb { 34 177 76 }
+	color_ui = rgb { 0 25 51 }
+}
+DAT = {
+	color = rgb { 136 0 21 }
+	color_ui = rgb { 0 25 51 }
+}
+NAM = {
+	color = rgb { 255 0 184 }
+	color_ui = rgb { 0 25 51 }
+}
+MTM = {
+	color = rgb { 3 122 122 }
+	color_ui = rgb { 0 25 51 }
+}
+AKI = {
+	color = rgb { 239 228 176 }
+	color_ui = rgb { 0 25 51 }
+}
+MAA = {
+	color = rgb { 120 79 56 }
+	color_ui = rgb { 0 25 51 }
+}
+AOK = {
+	color = rgb { 19 99 43 }
+	color_ui = rgb { 0 25 51 }
+}
+SAT = {
+	color = rgb { 181 230 29 }
+	color_ui = rgb { 0 25 51 }
+}
+OTA = {
+	color = rgb { 127 127 127 }
+	color_ui = rgb { 0 25 51 }
+}
+FUK = {
+	color = rgb { 237 28 36 }
+	color_ui = rgb { 0 25 51 }
+}
+GAO = {
+	color = rgb { 255 174 201 }
+	color_ui = rgb { 0 25 51 }
+}
+KUO = {
+	color = rgb { 0 0 153 }
+	color_ui = rgb { 0 25 51 }
+}
+ASA = {
+	color = rgb { 153 217 234 }
+	color_ui = rgb { 0 25 51 }
+}
+HAC = {
+	color = rgb { 255 231 30 }
+	color_ui = rgb { 0 25 51 }
+}
+CHO = {
+	color = rgb { 185 122 87 }
+	color_ui = rgb { 0 25 51 }
+}
+HKW = {
+	color = rgb { 63 72 204 }
+	color_ui = rgb { 0 25 51 }
+}
+UKI = {
+	color = rgb { 163 73 164 }
+	color_ui = rgb { 0 25 51 }
+}
+KOB = {
+	color = rgb { 45 232 100 }
+	color_ui = rgb { 0 25 51 }
+}
+NAB = {
+	color = rgb { 94 74 5 }
+	color_ui = rgb { 0 25 51 }
+}
+SHI = {
+	color = rgb { 82 164 147 }
+	color_ui = rgb { 0 25 51 }
+}
 LIB = {
 	color = rgb { 152 130 191 }
 	color_ui = rgb { 198 169 248 }

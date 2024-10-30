@@ -1,23 +1,24 @@
 state= {
 	id=1161
 	name="STATE_1161"
-	manpower = 0
+	manpower = 2840017
 	
-	state_category = rural
+	state_category = town
 	
 	resources={
 	}
 
 	history=
 	{
-		owner = JAP
-		add_core_of = JAP
+		owner = JPN
+		add_core_of = JPN
 		buildings = {
 			infrastructure = 4
 			7072 = {
 				naval_base = 3
 			}
 			dockyard = 2
+			arms_factory = 1
 		}
 		victory_points = {
 			7072 40 # Osaka

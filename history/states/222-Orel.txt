@@ -12,7 +12,8 @@ state={
 	}
 
 	history={
-		owner = ODO
+		owner = RES
+		add_core_of = RES
 		add_core_of = ODO
 		victory_points = {
 			9355 10

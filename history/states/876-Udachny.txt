@@ -3,7 +3,8 @@ state = {
 	name = "STATE_876" #Udachny
 
 	history = {
-		owner = SOV
+		owner = TEU
+		add_core_of = TEU
 
 		#victory_points = {
 		#	6085 1  #Udachny was founded in 1955
@@ -12,9 +13,6 @@ state = {
 		buildings = {
 			infrastructure = 1
 		}
-
-		add_core_of = SOV
-		add_core_of = YAK
 
 	}
 

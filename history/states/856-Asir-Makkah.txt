@@ -4,8 +4,8 @@ state= {
 	
 	history = {
 
-		owner = SAU
-		add_core_of	= SAU
+		owner = KOJ
+		add_core_of = KOJ
 
 		buildings = {
 			infrastructure = 1
@@ -19,15 +19,12 @@ state= {
 			12883 1 
 		}
 
-		victory_points = {
-			5037 5
-		}
 	}
-	manpower = 500000
+	manpower = 200000
 	state_category = pastoral
 
 	provinces = {
-		1923 2090 5037 8073 10786 12883 
+		1923 8073 12883 
 	}
 
 	buildings_max_level_factor = 1.000

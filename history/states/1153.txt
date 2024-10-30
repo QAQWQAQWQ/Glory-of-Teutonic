@@ -1,7 +1,7 @@
 state= {
 	id=1153
 	name="STATE_1153"
-	manpower = 0
+	manpower = 200000
 	
 	state_category = rural
 	
@@ -10,8 +10,8 @@ state= {
 
 	history=
 	{
-		owner = JAP
-		add_core_of = JAP
+		owner = MOU
+		add_core_of = MOU
 		buildings = {
 			infrastructure = 4
 		}

@@ -2,17 +2,17 @@
 state= {
 	id=1189
 	name="STATE_1189"
-	manpower = 0
+	manpower = 33326
 	
-	state_category = rural
+	state_category = small_island
 	
 	resources={
 	}
 
 	history=
 	{
-		owner = JAP
-		add_core_of = JAP
+		owner = UES
+		add_core_of = UES
 		buildings = {
 			infrastructure = 4
 		}

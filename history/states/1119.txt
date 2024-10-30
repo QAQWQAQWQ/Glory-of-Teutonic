@@ -2,8 +2,8 @@
 state={
 	id=1119
 	name="STATE_1119" # Kyushu
-	manpower = 569000
-	state_category = town
+	manpower = 109000
+	state_category = rural
 	resources={
 		chromium=1
 	}

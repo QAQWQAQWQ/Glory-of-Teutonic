@@ -2,9 +2,9 @@
 state = {
 	id = 1117
 	name = "STATE_1117" # Kanto
-	manpower = 1773000
+	manpower = 673000
 	
-	state_category = city
+	state_category = town
 	
 	resources = {
 		aluminium = 1 # was: 2

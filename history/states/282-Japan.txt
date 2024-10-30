@@ -2,7 +2,7 @@
 state = {
 	id = 282
 	name = "STATE_282" # Kanto
-	manpower = 0
+	manpower = 1619606
 	
 	state_category = rural
 	
@@ -11,12 +11,14 @@ state = {
 
 	history = {
 
-		owner = JAP
-		add_core_of = JAP
+		owner = TOK
+		add_core_of = TOK
 
 		buildings = {
 			infrastructure = 4 #was: 8
 			dockyard = 1
+			industrial_complex = 1
+			arms_factory = 1
 			9998 = {
 				naval_base = 6
 			}

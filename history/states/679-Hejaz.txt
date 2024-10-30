@@ -5,8 +5,8 @@ state = {
 
 	history = {
 
-		owner = SAU
-		add_core_of = SAU
+		owner = KOJ
+		add_core_of = KOJ
 
 		victory_points = {
 			12758 2 
@@ -19,7 +19,7 @@ state = {
 	}
 
 	provinces = {
-		2033 4981 5099 7934 10748 10835 12758 
+		2033
 	}
 	
 	buildings_max_level_factor = 1.000

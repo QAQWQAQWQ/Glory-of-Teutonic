@@ -6,8 +6,8 @@ state={
 	state_category = town
 
 	history={
-		owner = KIE
-		add_core_of = KIE
+		owner = TEU
+		add_core_of = TEU
 		victory_points = {
 			11405 1
 		}

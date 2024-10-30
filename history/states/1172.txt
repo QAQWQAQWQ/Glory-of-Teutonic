@@ -1,17 +1,19 @@
 state= {
 	id=1172
 	name="STATE_1172"
-	manpower = 0
+	manpower = 318144
 	
-	state_category = rural
+	state_category = pastoral
 	
 	resources={
+		steel=8
+		tungsten=2
 	}
 
 	history=
 	{
-		owner = JAP
-		add_core_of = JAP
+		owner = AOK
+		add_core_of = AOK
 		buildings = {
 			infrastructure = 4
 		}

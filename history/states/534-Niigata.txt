@@ -2,18 +2,17 @@
 state={
 	id=534
 	name="STATE_534" # Hokuriku
-	manpower = 1933000
+	manpower = 1980000
 	
-	state_category = city
+	state_category = town
 
 	history={
-		owner = JAP
-		add_core_of = JAP
+		owner = UES
+		add_core_of = UES
 		buildings = {
 			infrastructure = 2
 			arms_factory = 2
-			industrial_complex = 2
-			fuel_silo = 1
+			industrial_complex = 1
 		}
 		
 		victory_points = {
