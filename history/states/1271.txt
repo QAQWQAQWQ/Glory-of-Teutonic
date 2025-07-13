@@ -1,0 +1,28 @@
+
+state={
+	id=1271
+	name="STATE_1271"
+	manpower = 1009200
+	state_category = pastoral
+
+	history={
+		owner = SLL
+		add_core_of = SLL
+		buildings = {
+			infrastructure = 2
+			4056 = {
+				naval_base = 3
+			}
+			dockyard = 1
+		}
+		victory_points = {
+			4056 1 
+		}
+	}
+
+	provinces={
+        4056 4086 7121 4103 12089
+	}
+
+	local_supplies=0.0 
+}

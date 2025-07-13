@@ -1,0 +1,25 @@
+
+state={
+	id=1270
+	name="STATE_1270"
+	manpower = 909200
+	state_category = pastoral
+	resources={
+		steel=3
+		tungsten=4
+	}
+
+	history={
+		owner = KOG
+		add_core_of = KOG
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+        4107 7155 1003 
+	}
+
+	local_supplies=0.0 
+}

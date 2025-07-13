@@ -1,0 +1,21 @@
+
+state={
+	id=1273
+	name="STATE_1273"
+	manpower = 809200
+	state_category = pastoral
+
+	history={
+		owner = KOG
+		add_core_of = KOG
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+        11958 1148 7021 11912 12011 
+	}
+
+	local_supplies=0.0 
+}

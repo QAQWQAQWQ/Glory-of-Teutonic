@@ -1,0 +1,24 @@
+
+state={
+	id=1234
+	name="STATE_1234"
+	manpower = 55214
+	resources={
+	}
+	state_category = pastoral
+
+	history={
+		owner = SAG
+		add_core_of = SAG
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 13434 2 }
+	}
+
+	provinces={
+		13434
+	}
+
+	local_supplies=0.0 
+}

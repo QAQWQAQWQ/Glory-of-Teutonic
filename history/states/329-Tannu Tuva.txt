@@ -10,8 +10,8 @@ state={
 	state_category = rural
 
 	history={
-		owner = TEU
-		add_core_of = TEU
+		owner = RMO
+		add_core_of = RMO
 		buildings = {
 			infrastructure = 1
 			arms_factory = 1

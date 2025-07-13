@@ -32,7 +32,7 @@
  STATE_31: "比利牛斯"
  STATE_32: "阿尔卑斯"
  STATE_33: "中南大区"
- STATE_34: "瓦隆"
+ STATE_34: "沙勒罗瓦"
  STATE_35: "布拉班特"
  STATE_36: "弗里斯兰"
  STATE_37: "西兰"
@@ -105,7 +105,7 @@
  STATE_103: "达尔马提亚"
  STATE_104: "波斯尼亚"
  STATE_105: "黑山"
- STATE_106: "马其顿"
+ STATE_106: "瓦尔达尔马其顿"
  STATE_107: "塞尔维亚"
  STATE_108: "摩拉瓦"
  STATE_109: "克罗地亚"
@@ -193,7 +193,7 @@
  STATE_183: "塞浦路斯"
  STATE_184: "色雷斯"
  STATE_185: "伊庇鲁斯"
- STATE_186: "伯罗奔尼撒"
+ STATE_186: "拉科尼亚"
  STATE_187: "爱琴群岛"
  STATE_188: "梅梅尔"
  STATE_189: "萨莫吉希亚"
@@ -534,9 +534,9 @@
  STATE_522: "西澳大利亚"
  STATE_523: "巴布亚"
  STATE_524: "台湾"
- STATE_525: "南朝鲜"
+ STATE_525: "京畿右道"
  STATE_526: "冲绳"
- STATE_527: "北朝鲜"
+ STATE_527: "平安西道"
  STATE_528: "肥前"
  STATE_529: "安艺"
  STATE_530: "土佐"
@@ -622,7 +622,7 @@
  STATE_610: "热河"
  STATE_611: "南察哈尔"
  STATE_612: "察哈尔"
- STATE_613: "上海"
+ STATE_613: "南京"
  STATE_614: "河北"
  STATE_615: "山西"
  STATE_616: "宁夏"
@@ -740,7 +740,7 @@
  STATE_728: "广州湾"
  STATE_729: "澳门"
  STATE_730: "圣皮埃尔和密克隆"
- STATE_731: "中马其顿"
+ STATE_731: "马其顿"
  STATE_732: "帕米尔"
  STATE_733: "安达曼"
  STATE_734: "恩德"
@@ -1011,13 +1011,13 @@
  STATE_993: "南卢萨蒂亚"
  STATE_994: "北萨克森"
  STATE_995: "德累斯顿"
- STATE_996:0 "萨克森-迈宁根"
- STATE_997:0 "施瓦茨堡-桑德斯豪森"
- STATE_998:0 "萨克森-科堡-哥达"
- STATE_999:0 "萨克森-魏玛-艾森纳赫"
- STATE_1000:0 "施瓦茨堡-鲁多尔施塔特"
- STATE_1001:0 "萨克森-阿尔滕堡"
- STATE_1002:0 "罗伊斯"
+ STATE_996:0 "迈宁根"
+ STATE_997:0 "桑德斯豪森"
+ STATE_998:0 "哥达"
+ STATE_999:0 "魏玛"
+ STATE_1000:0 "鲁多尔斯塔特"
+ STATE_1001:0 "阿尔滕堡"
+ STATE_1002:0 "格拉"
  STATE_1003: "尚贝里"
  STATE_1004: "瓦卢瓦"
  STATE_1005: "洛林"
@@ -1026,22 +1026,22 @@
  STATE_1008: "欧本-马尔梅迪"
  STATE_1009: "柏林"
  STATE_1010: "安哈尔特"
- STATE_1011: "北马格德堡"
+ STATE_1011: "韦尔本"#Werben
  STATE_1012: "波茨坦"
  STATE_1013: "不伦瑞克"
  STATE_1014: "巴登"
- STATE_1015: "南巴登"
+ STATE_1015: "弗莱堡"
  STATE_1016: "锡格马林根"
- STATE_1017: "瓦尔德堡"
+ STATE_1017: "洛伊特基希"#Leutkirch
  STATE_1018: "奥格斯堡"
- STATE_1019: "南奥格斯堡"
+ STATE_1019: "考夫博伊伦"#Kaufbeuren
  STATE_1020: "因戈尔施塔特"
  STATE_1021: "施特劳宾"
  STATE_1022: "班贝格"
  STATE_1023: "安斯巴赫"
  STATE_1024: "纽伦堡"
  STATE_1025: "明斯特"
- STATE_1026: "克里维斯"
+ STATE_1026: "多特蒙德"
  STATE_1027: "帕德博恩"
  STATE_1028: "瓦尔代克"
  STATE_1029: "埃森"
@@ -1220,3 +1220,80 @@
  STATE_1202: "天盐"
  STATE_1203: "钏路"
  STATE_1204: "根室"
+ STATE_1205: "东方铁路-西段"
+ STATE_1206: "东方铁路-中段"
+ STATE_1207: "东方铁路-东段"
+ STATE_1208: "新京租界"
+ STATE_1209: "纳查-诺伊基尔兴"#Nazza-Neukirchen
+ STATE_1210: "科尔纳"#Körner
+ STATE_1211: "科堡"#Coburg
+ STATE_1212: "韦宁斯豪森"#Werningshausen
+ STATE_1213: "艾森纳赫"#Eisenach
+ STATE_1214: "阿尔斯特"#Allstedt
+ STATE_1215: "奥尔迪斯莱本"#Oldisleben
+ STATE_1216: "伊尔梅瑙"#Ilmenau
+ STATE_1217: "奥拉河畔诺伊施塔特"#Neustadt an der Orla
+ STATE_1218: "伦山前奥斯特海姆"#Ostheim
+ STATE_1219: "巴特弗兰肯豪森"#Bad Frankenhausen
+ STATE_1220: "伊门罗德"#Immenrode
+ STATE_1221: "施洛泰姆"#Schlotheim
+ STATE_1222: "洛伊滕贝格"#Leutenberg
+ STATE_1223: "埃伦"#Ellen
+ STATE_1224: "克拉尼希费尔德"#Kranichfeld
+ STATE_1225: "卡姆堡"#Camburg
+ STATE_1226: "希尔德堡豪森"#Hildburghausen
+ STATE_1227: "松讷贝格"#Sonneberg
+ STATE_1228: "萨尔费尔德萨勒"#Saalfeld
+ STATE_1229: "艾森伯格"#Elsenberg
+ STATE_1230: "阿恩施塔特"#Arnstadt
+ STATE_1231: "格伦-格罗斯布雷滕巴赫-马瑟贝格"#Gehren-Großbreitenbach-Masserberg
+ STATE_1232: "施莱兹"#Schleiz
+ STATE_1233: "普洛滕-莫施利茨-拉普施"#Plothen-Möschlitz-Röppisch
+ STATE_1234: "格赖茨"#Greiz
+ STATE_1235: "苏尔"#Suhl
+ STATE_1236: "施马尔卡尔登"#Schmalkalden
+ STATE_1237: "拉尼斯"#Ranis
+ STATE_1238: "阿尔戈斯"
+ STATE_1239: "亚该亚"
+ STATE_1240: "麦西尼亚"
+ STATE_1241: "埃利斯"#Elis
+ STATE_1242: "阿卡迪亚"#Arcadia
+ STATE_1243: "维奥蒂亚"
+ STATE_1244: "埃维亚"
+ STATE_1245: "福基斯"
+ STATE_1246: "罗克里斯"
+ STATE_1247: "色萨利"
+ STATE_1248: "埃托利亚"
+ STATE_1249: "阿卡纳尼亚"
+ STATE_1250: "科孚"
+ STATE_1251: "爱奥尼亚群岛"
+ STATE_1252: "哈尔基季基"
+ STATE_1253: "泰托沃"
+ STATE_1254: "皮林马其顿"
+ STATE_1255: "罗特韦尔"#Rottweil
+ STATE_1256: "康斯坦茨"#Konstanz
+ STATE_1257: "比伯拉赫"#Biberach
+ STATE_1258: "温普芬"#Wimpfen
+ STATE_1259: "施派尔"#Speyer
+ STATE_1260: "克莱韦"#Kleve
+ STATE_1261: "林堡"
+ STATE_1262: "列日"
+ STATE_1263: "那慕尔"
+ STATE_1264: "格德司"
+ STATE_1265: "亚琛"
+ STATE_1266: "平安东道"
+ STATE_1267: "咸镜南道"
+ STATE_1268: "咸镜北道"
+ STATE_1269: "黄海左道"
+ STATE_1270: "黄海右道"
+ STATE_1271: "庆尚左道"
+ STATE_1272: "庆尚右道"
+ STATE_1273: "江原东道"
+ STATE_1274: "江原西道"
+ STATE_1275: "京畿左道"
+ STATE_1276: "忠清左道"
+ STATE_1277: "忠清右道"
+ STATE_1278: "全罗左道"
+ STATE_1279: "全罗右道"
+ STATE_1280: "宁远"
+ STATE_1281: "东方铁路-中东段"

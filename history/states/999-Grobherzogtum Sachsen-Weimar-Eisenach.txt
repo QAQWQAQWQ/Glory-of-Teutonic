@@ -1,0 +1,26 @@
+
+state={
+	id=999
+	name="STATE_999"
+	manpower = 805214
+	resources={
+		steel=1
+	}
+	state_category = town
+
+	history={
+		owner = SAD
+		add_core_of = SAD
+		victory_points = { 538 6 }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+         538
+	}
+
+	local_supplies=0.0 
+}

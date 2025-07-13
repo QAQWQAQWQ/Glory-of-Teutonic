@@ -2,16 +2,16 @@
 state={
 	id=527
 	name="STATE_527"
-	manpower = 6774200
-	state_category = town
+	manpower = 2774200
+	state_category = pastoral
 	resources={
-		steel=18 # was: 30
-		tungsten=28 # was: 52
+		steel=3
+		tungsten=4
 	}
 
 	history={
-		owner = KOR
-		add_core_of = KOR
+		owner = KOG
+		add_core_of = KOG
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -23,7 +23,7 @@ state={
 	}
 
 	provinces={
-		848 852 898 906 912 959 978 1003 3803 3852 3860 3904 3912 3981 4052 4107 6822 6922 6928 6944 6963 7070 7155 7171 9790 9795 9899 9918 9981 10065 10083 11770 11775 11828 11835 11878 11896 11915 12040 
+		912 4052 9790 9918 10065 11835
 	}
 
 	local_supplies=0.0 

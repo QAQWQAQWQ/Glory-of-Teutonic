@@ -13,7 +13,13 @@ state= {
 		owner = HKW
 		add_core_of = HKW
 		buildings = {
+			1136 = {
+				naval_base = 6
+			}
 			infrastructure = 4
+		}
+		victory_points = {
+			1136 5
 		}
 	}
 

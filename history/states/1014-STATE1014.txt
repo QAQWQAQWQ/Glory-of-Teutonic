@@ -5,7 +5,7 @@ state={
 		aluminium=2
 	}
 
-	state_category = city
+	state_category = town
 	history={
 		owner = LWW
 		add_core_of = LWW
@@ -13,7 +13,7 @@ state={
 			3530 5
 		}
 		victory_points = {
-			6712 3
+			6542 1
 		}
 		buildings = {
 			infrastructure = 4
@@ -24,7 +24,7 @@ state={
 	}
 
 	provinces={
-        6542 6712 3530 6581 6568
+        6542 3530
 	}
 	manpower=1086854
 

@@ -18,6 +18,9 @@ state= {
 			fuel_silo = 1
 			infrastructure = 4
 		}
+		victory_points = {
+			9807 5
+		}
 	}
 
 	provinces=

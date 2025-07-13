@@ -5,9 +5,8 @@ state = {
 	state_category = rural
 
 	history = {
-		owner = AEG
-		add_core_of = AEG
-		add_core_of = SUD
+		owner = MAK
+		add_core_of = MAK
 		victory_points = {
 			12725 1 
 		}
@@ -20,7 +19,7 @@ state = {
 	}
 
 	provinces = {
-		1977 2003 10902 12725 
+		7989 1977 10902 12725 
 	}
 	
 	buildings_max_level_factor = 1.000

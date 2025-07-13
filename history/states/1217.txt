@@ -1,0 +1,24 @@
+
+state={
+	id=1217
+	name="STATE_1217"
+	manpower = 182000
+	resources={
+	}
+	state_category = pastoral
+
+	history={
+		owner = SAD
+		add_core_of = SAD
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 13417 2 }
+	}
+
+	provinces={
+       13417
+	}
+
+	local_supplies=0.0 
+}

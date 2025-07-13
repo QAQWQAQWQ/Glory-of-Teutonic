@@ -2,17 +2,17 @@
 state={
 	id=212
 	name="STATE_212"
-	manpower = 1814936
+	manpower = 1564936
 	
-	state_category = large_town
+	state_category = town
 
 	resources={
 		chromium = 1
 	}
 
 	history={
-		owner = BYZ
-		add_core_of = BYZ
+		owner = PAT
+		add_core_of = PAT
 		victory_points = { #Plovdiv
 			6923 10
 		}
@@ -24,14 +24,14 @@ state={
 		}
 		buildings = {
 			infrastructure = 2
-			arms_factory = 3
+			arms_factory = 2
 			industrial_complex =2
 			air_base = 2
 		}
 	}
 
 	provinces={
-		878 893 3937 6857 6923 9818 9862 11813 935 3908 
+		878 893 3937 6923 9862 11813
 	}
 
 	local_supplies=5.0 

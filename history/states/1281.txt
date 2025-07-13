@@ -1,0 +1,28 @@
+
+state= {
+	id=1281
+	name="STATE_1281"
+	manpower = 1000
+	
+	state_category = wasteland
+	
+	resources={
+	}
+
+	history=
+	{
+		owner = EAC
+		add_core_of = EAC
+		buildings = {
+			infrastructure = 5
+		}
+	}
+
+	provinces=
+	{ 
+		13450
+		13448
+	  }
+
+	local_supplies=0.0 
+}

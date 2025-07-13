@@ -1,0 +1,24 @@
+
+state={
+	id=1214
+	name="STATE_1214"
+	manpower = 30000
+	resources={
+	}
+	state_category = wasteland
+
+	history={
+		owner = SAD
+		add_core_of = SAD
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 13414 1 }
+	}
+
+	provinces={
+       13414
+	}
+
+	local_supplies=0.0 
+}

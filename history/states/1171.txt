@@ -17,6 +17,9 @@ state= {
 			industrial_complex = 1
 			arms_factory = 1
 		}
+		victory_points = {
+			4172 5
+		}
 	}
 
 	provinces=

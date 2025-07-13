@@ -17,15 +17,12 @@ state = {
 			infrastructure = 4 #was: 8
 			arms_factory = 1
 			industrial_complex = 2
-			1136 = {
-				naval_base = 6
-			}
 
 		}
 
 
 		victory_points = {
-			13401 20 # Kyoto
+			13401 30 # Kyoto
 		}
 
 	}

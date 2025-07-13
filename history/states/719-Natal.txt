@@ -10,7 +10,7 @@ state={
 
 
 	history={
-		owner = SAF
+		owner = ENL
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 2
@@ -32,7 +32,7 @@ state={
 	}
 
 	provinces={
-		1468 1494 1833 4556 4584 4696 7576 7900 8178 
+		12419 1468 1494 1833 4556 4584 4696 7576 7900 8178 12547 10697 4822 
 	}
 
 	local_supplies=0.0 

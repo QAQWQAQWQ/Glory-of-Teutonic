@@ -1,0 +1,30 @@
+
+state={
+	id=1239
+	name="STATE_1239"
+	manpower=150000
+	
+	state_category = pastoral
+
+	history={
+		owner = BYZ
+		add_core_of = BYZ
+		victory_points = {
+			7211 5
+		}
+		buildings = {
+			infrastructure = 2
+			7211 = {
+				naval_base = 2
+
+			}
+
+		}
+	}
+
+	provinces = {
+        7211 
+	}
+
+	local_supplies=0.0 
+}

@@ -2,13 +2,13 @@
 state={
 	id=1008
 	name="STATE_1008"
-	manpower = 91300
+	manpower = 51300
 	
-	state_category = rural
+	state_category = pastoral
 
 	history={
-		owner = TRE
-		add_core_of = TRE
+		owner = LUX
+		add_core_of = LUX
 		buildings = {
 			infrastructure = 3
 

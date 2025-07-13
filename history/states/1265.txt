@@ -1,0 +1,24 @@
+state={
+	id=1265
+	name="STATE_1265"
+	manpower = 258467
+	
+	state_category = city
+
+	history={
+		owner = KOL
+		add_core_of = KOL
+		victory_points = {
+			13438 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+        13438
+	}
+}

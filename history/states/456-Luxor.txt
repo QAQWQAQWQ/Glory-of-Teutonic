@@ -10,8 +10,8 @@ state=
 		victory_points = {
 			11999 1
 		}
-		owner = AEG
-		add_core_of = AEG
+		owner = MAK
+		add_core_of = MAK
 		buildings = {
 			infrastructure = 2
 		}
@@ -25,7 +25,7 @@ state=
 
 	}
 	provinces={
-		1028 1064 1151 1206 7030 7073 7144 10028 10097 10844 11974 11999 12044 12071 12771 
+		4910 4068 5069 7156 1028 1064 1206 7073 7144 10097 10844 11974 11999 12044 12071 12771 
 	}
 
 	local_supplies=0.0 

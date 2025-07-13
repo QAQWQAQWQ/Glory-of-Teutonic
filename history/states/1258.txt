@@ -1,0 +1,24 @@
+state={
+	id=1258
+	name="STATE_1258"
+
+	state_category = pastoral
+	history={
+		owner = LWW
+		add_core_of = LWW
+		victory_points = {
+			6581 1
+		}
+		buildings = {
+			infrastructure = 4
+
+		}
+	}
+
+	provinces={
+         6581
+	}
+	manpower=21508
+
+	local_supplies=0.0 
+}

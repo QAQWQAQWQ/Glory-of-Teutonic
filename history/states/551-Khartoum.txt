@@ -5,15 +5,12 @@ state={
 	manpower = 821003
 
 	history={
-		owner = BRG
-		add_core_of = SUD
+		owner = MAK
+		add_core_of = MAK
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
 			air_base = 2
-		}
-		victory_points = {
-			12806 3 
 		}
 		
 		
@@ -21,7 +18,7 @@ state={
 	}
 
 	provinces={
-		2046 4138 4961 4963 7925 7989 8105 10745 12796 12806 12826 12836 12881 
+		4138 4961 4963 7925 8105 10745 12796 12836 12826
 	}
 	
 	buildings_max_level_factor=1.000

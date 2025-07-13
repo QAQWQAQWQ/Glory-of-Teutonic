@@ -8,8 +8,8 @@ state = {
 
 	history = {
 
-		owner = GPA
-		add_core_of = GPA
+		owner = VBR
+		add_core_of = VBR
 
 		buildings = {
 			infrastructure = 1
@@ -22,7 +22,7 @@ state = {
 	}
 
 	provinces = {
-		5200 8224 12951 
+		5200 8224 12951 12901  
 	}
 	
 	buildings_max_level_factor = 1.000

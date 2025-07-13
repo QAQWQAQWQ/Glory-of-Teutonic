@@ -7,8 +7,8 @@ state = {
 
 	history = {
 
-		owner = NLP
-		add_core_of = NLP
+		owner = GDC
+		add_core_of = GDC
 
 		buildings = {
 			infrastructure = 2
@@ -23,7 +23,7 @@ state = {
 	}
 
 	provinces = {
-		2179 2215 8215 10964 10992  
+		12928 2179 2215 8215 10964 10992 11021 5219 
 	}
 
 	local_supplies = 0.0 

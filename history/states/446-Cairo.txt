@@ -5,8 +5,7 @@ state = {
 	state_category = wasteland
 
 	history = {
-
-		owner = AEG
+		owner = HAB
 		add_core_of = AEG
 
 		buildings = {

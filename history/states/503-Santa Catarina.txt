@@ -8,8 +8,8 @@ state = {
 
 	history = {
 
-		owner = GPA
-		add_core_of = GPA
+		owner = VBR
+		add_core_of = VBR
 		buildings = {
 			infrastructure = 2 #was: 5, then 3
 		}

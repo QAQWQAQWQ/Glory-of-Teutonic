@@ -4,14 +4,17 @@ state = {
 	manpower = 661102
 	state_category = pastoral
 	history = {
-		owner = BRG
-		add_core_of = SUD
+		owner = ALO
+		add_core_of = ALO
 		buildings = {
 			infrastructure = 1
 		}
+		victory_points = {
+			12806 3 
+		}
 	}
 	provinces = {
-		1914 4918 10743 10784 12862 12887 12800 2088  
+		2046 12806 12881 1914 4918 10743 10784 12862 12887 12800 2088 2016 10795 10851
 	}
 	
 	buildings_max_level_factor = 1.000

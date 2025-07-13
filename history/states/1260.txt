@@ -1,0 +1,24 @@
+state={
+	id=1260
+	name="STATE_1260"
+	manpower = 188467
+	
+	state_category = pastoral
+
+	history={
+		victory_points = {
+			13437 3
+		}
+		owner = CLE
+		add_core_of = CLE
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+        13437
+	}
+}

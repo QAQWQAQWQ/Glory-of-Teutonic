@@ -7,12 +7,12 @@ state={
 		victory_points = {
 			11857 1 
 		}
-		owner = BUL
+		owner = BUT
+		add_core_of = BUT
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = BUL
 
 	}
 

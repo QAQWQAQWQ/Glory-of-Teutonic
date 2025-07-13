@@ -2,13 +2,12 @@
 state={
 	id=996
 	name="STATE_996"
-	manpower = 505214
+	manpower = 201214
 	resources={
 		steel=1
 	}
 	state_category = rural
-	buildings_max_level_factor = 1
-
+	
 	history={
 		owner = SAA
 		add_core_of = SAA
@@ -16,6 +15,7 @@ state={
 			infrastructure = 3
 			industrial_complex = 1
 		}
+		victory_points = { 6421 3 }
 	}
 
 	provinces={

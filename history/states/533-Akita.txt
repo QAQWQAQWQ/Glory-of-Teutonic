@@ -21,7 +21,7 @@ state={
 		
 		
 		victory_points = {
-			7169 15
+			7169 10
 		}
 		add_extra_state_shared_building_slots = 1
 

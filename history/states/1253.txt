@@ -1,0 +1,27 @@
+
+state={
+	id=1253
+	name="STATE_1253"
+	resources={
+		chromium=10.000
+		aluminium=4.000
+	}
+	manpower=300000
+	
+	state_category = pastoral
+
+	history={
+		owner = DYT
+		add_core_of = DYT
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	provinces = {
+        833 867 
+	}
+
+	local_supplies=0.0 
+}

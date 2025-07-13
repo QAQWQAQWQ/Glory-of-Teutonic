@@ -12,8 +12,8 @@ state = {
 
 	history = {
 
-		owner = GPA
-		add_core_of = GPA
+		owner = NLP
+		add_core_of = NLP
 
 		buildings = {
 			infrastructure = 1

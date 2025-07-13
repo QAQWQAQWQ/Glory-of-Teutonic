@@ -1,0 +1,54 @@
+capital = 979
+oob = "HAS_1936"
+set_research_slots = 4
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_engineers = 1
+	tech_support = 1
+	tech_mountaineers = 1
+	tech_trucks = 1
+	basic_train = 1
+}
+set_politics = {
+	ruling_party = democratic
+	last_election = "1930.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 60
+	neutrality = 30
+	fascism = 5
+	communism = 5
+}
+set_stability = 0.67
+set_autonomy = {
+    target = MAG
+    autonomous_state = autonomy_hanse
+}
+set_autonomy = {
+    target = LUN
+    autonomous_state = autonomy_hanse
+}
+set_autonomy = {
+    target = HLS
+    autonomous_state = autonomy_hanse
+}
+set_autonomy = {
+    target = OLD
+    autonomous_state = autonomy_hanse
+}
+set_autonomy = {
+    target = MEK
+    autonomous_state = autonomy_hanse
+}
+set_autonomy = {
+    target = POM
+    autonomous_state = autonomy_hanse
+}
+set_autonomy = {
+    target = HDK
+    autonomous_state = autonomy_hanse
+}

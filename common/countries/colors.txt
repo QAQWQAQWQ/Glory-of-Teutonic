@@ -355,6 +355,18 @@ SCH = {
 	color = rgb { 86 113 143 }
 	color_ui = rgb { 86 113 143 }
 }
+RWO = {
+	color = rgb { 86 113 143 }
+	color_ui = rgb { 86 113 143 }
+}
+RFE = {
+	color = rgb { 86 113 143 }
+	color_ui = rgb { 86 113 143 }
+}
+RMO = {
+	color = rgb { 86 113 143 }
+	color_ui = rgb { 86 113 143 }
+}
 AKN = {
 	color = rgb { 86 113 143 }
 	color_ui = rgb { 86 113 143 }
@@ -489,6 +501,10 @@ GGU = {
 	color_ui = rgb { 255 255 122 }
 }
 GPE = {
+	color = rgb { 255 188 0 }
+	color_ui = rgb { 255 255 122 }
+}
+GDC = {
 	color = rgb { 255 188 0 }
 	color_ui = rgb { 255 255 122 }
 }
@@ -1486,4 +1502,67 @@ QUE = {
 	color = rgb { 0 102 255 }
 	color_ui = rgb { 0 31 77 }
 }
-
+BUT = {
+	color = rgb { 183 0 120 }
+	color_ui = rgb { 183 0 120 }
+}
+PAT = {
+	color = rgb { 183 0 120 }
+	color_ui = rgb { 183 0 120 }
+}
+DYT = {
+	color = rgb { 183 0 120 }
+	color_ui = rgb { 183 0 120 }
+}
+CHT = {
+	color = rgb { 183 0 120 }
+	color_ui = rgb { 183 0 120 }
+}
+THT = {
+	color = rgb { 183 0 120 }
+	color_ui = rgb { 183 0 120 }
+}
+OPT = {
+	color = rgb { 183 0 120 }
+	color_ui = rgb { 183 0 120 }
+}
+OST = {
+	color = rgb { 183 0 120 }
+	color_ui = rgb { 183 0 120 }
+}
+ART = {
+	color = rgb { 183 0 120 }
+	color_ui = rgb { 183 0 120 }
+}
+BCT = {
+	color = rgb { 183 0 120 }
+	color_ui = rgb { 183 0 120 }
+}
+ANT = {
+	color = rgb { 183 0 120 }
+	color_ui = rgb { 183 0 120 }
+}
+MAK = {
+	color = rgb { 1 89 89 }
+	color_ui = rgb { 1 89 89 }
+}
+ALO = {
+	color = rgb { 143 113 8 }
+	color_ui = rgb { 143 113 8 }
+}
+KOG = {
+	color = rgb { 200 100 80 }
+	color_ui = rgb { 200 100 80 }
+}
+SLL = {
+	color = rgb { 125  80  125 }
+	color_ui = rgb { 125  80  125 }	
+}
+BAE = {
+	color = rgb { 80  80  185 }
+	color_ui = rgb { 80  80  185 }	
+}
+LIA = {
+	color = rgb { 102 178 255 }
+	color_ui = rgb { 102 178 255 }	
+}

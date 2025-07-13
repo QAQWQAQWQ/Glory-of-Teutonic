@@ -1,0 +1,24 @@
+
+state={
+	id=1227
+	name="STATE_1227"
+	manpower = 192000
+	resources={
+	}
+	state_category = pastoral
+
+	history={
+		owner = SAA
+		add_core_of = SAA
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 13427 1 }
+	}
+
+	provinces={
+        13427
+	}
+
+	local_supplies=0.0 
+}

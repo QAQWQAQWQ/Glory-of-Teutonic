@@ -9,6 +9,7 @@ state={
 	history={
 		owner = LUX
 		add_core_of = LUX
+		victory_points = { 9444 1 }
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -17,7 +18,7 @@ state={
 	}
 
 	provinces={
-        11407 9418
+       6537 9444 11407 9418
 	}
 
 	local_supplies=14.0 

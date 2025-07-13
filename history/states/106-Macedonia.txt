@@ -2,13 +2,13 @@ state={
 	id=106
 	name="STATE_106"
 	resources={
-		chromium=70.000
-		aluminium=16.000
+		chromium=60.000
+		aluminium=12.000
 	}
 
 	history={
-		owner = BYZ
-		add_core_of = BYZ
+		owner = BUT
+		add_core_of = BUT
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -21,11 +21,11 @@ state={
 	}
 
 	provinces={
-		11832 833 867 907 974 3833 3865 3882 6886 11856 
+		11832 907 974 3833 3865 3882 6886 11856 
 	}
-	manpower=1374200
+	manpower=1074200
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 
 	local_supplies=0.0 
 }

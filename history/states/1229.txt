@@ -1,0 +1,24 @@
+
+state={
+	id=1229
+	name="STATE_1229"
+	manpower = 105214
+	resources={
+	}
+	state_category = pastoral
+
+	history={
+		owner = SAH
+		add_core_of = SAH
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 13429 1 }
+	}
+
+	provinces={
+        13429
+	}
+
+	local_supplies=0.0 
+}

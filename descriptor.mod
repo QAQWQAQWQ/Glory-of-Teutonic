@@ -8,6 +8,7 @@ tags={
 }
 picture="thumbnail.png"
 replace_path="gfx/loadingscreens"
+replace_path="gfx/flags"
 replace_path="history/countries"
 replace_path="history/states"
 replace_path="history/units"

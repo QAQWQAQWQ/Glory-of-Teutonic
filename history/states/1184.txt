@@ -16,6 +16,9 @@ state= {
 			infrastructure = 4
 			dockyard = 1
 		}
+		victory_points = {
+			4184 2
+		}
 	}
 
 	provinces=

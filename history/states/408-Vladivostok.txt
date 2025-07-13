@@ -10,7 +10,8 @@ state = {
 	state_category = town
 
 	history={
-		owner = SOV
+		owner = KOG
+		add_core_of = KOG
 		buildings = {
 			infrastructure = 2
 			dockyard = 1
@@ -19,9 +20,6 @@ state = {
 				naval_base = 4
 			}
 		}
-		add_core_of = SOV
-		add_core_of = FER
-		add_core_of = VLA
 	}
 
 	provinces = {

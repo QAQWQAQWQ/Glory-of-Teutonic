@@ -1,0 +1,28 @@
+state={
+	id=1262
+	name="STATE_1262"
+
+	history={
+		owner = BRG
+		add_core_of = BRG
+		victory_points = {
+			11519 10
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+
+		}
+
+	}
+
+	provinces={
+         9574 11519 
+	}
+	manpower=2981300
+	state_category=city
+
+	local_supplies=0.0 
+}

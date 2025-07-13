@@ -1,0 +1,30 @@
+
+state={
+	id=1250
+	name="STATE_1250"
+	manpower=150000
+	resources={
+		chromium=1
+		steel = 1
+	}
+	
+	state_category = pastoral
+
+	history={
+		owner = BYZ
+		add_core_of = BYZ
+		victory_points = {
+			10203 1
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	provinces = {
+        10203
+	}
+
+	local_supplies=0.0 
+}

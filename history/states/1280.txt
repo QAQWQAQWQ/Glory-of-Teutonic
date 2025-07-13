@@ -1,0 +1,25 @@
+state={
+	id=1280
+	name="STATE_1280"
+	resources={
+		steel=5.000
+	}
+
+	history={
+		owner = LIA
+		add_core_of = LIA
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		6837 11886 9835 
+	}
+	manpower=264620
+	state_category=pastoral
+
+	local_supplies=0.0 
+}

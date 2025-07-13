@@ -1,0 +1,24 @@
+
+state={
+	id=1237
+	name="STATE_1237"
+	manpower = 47114
+	resources={
+	}
+	state_category = pastoral
+
+	history={
+		owner = SAX
+		add_core_of = SAX
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 13436 1 }
+	}
+
+	provinces={
+		13436 
+	}
+
+	local_supplies=0.0 
+}

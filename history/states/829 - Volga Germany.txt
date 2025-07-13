@@ -2,18 +2,18 @@
 state = {
 	id = 829
 	name = "STATE_829" #Volga Germany
-	manpower = 618530
+	manpower = 1018530
 	
-	state_category = rural
+	state_category = city
 	
 	resources = {
-		steel = 14 # was: 40
-		tungsten = 6 # was: 34
+		steel = 25 # was: 40
+		tungsten = 12 # was: 34
 	}
 
 	history = {
-		owner = TEU
-		add_core_of = TEU
+		owner = RWO
+		add_core_of = RWO
 		buildings = {
 			infrastructure = 3
 		}

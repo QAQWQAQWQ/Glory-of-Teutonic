@@ -7,14 +7,11 @@ state={
 	state_category = town
 
 	history={
-		owner = ARE
-		add_core_of = ARE
+		owner = ART
+		add_core_of = ART
 		
 		victory_points = {
 			9932 15
-		}
-		victory_points = {
-			10472 5
 		}
 		victory_points = {
 			3979 3 
@@ -28,7 +25,7 @@ state={
 	}
 
 	provinces={
-		789 3714 3979 6976 6991 7454 9886 9932 10403 10472 11753
+		789 3714 3979 6976 7454 9886 9932 11753
 	}
 
 	local_supplies=0.0 

@@ -10,7 +10,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = DNU
+		owner = BRG
 		victory_points = {
 			4948 5 
 		}
@@ -24,7 +24,7 @@ state={
 	}
 
 	provinces={
-		2100 4948 7972 8015 12710 12834 
+		2012 2100 4948 7972 8015 12710 12834 
 	}
 
 	local_supplies=1.0 

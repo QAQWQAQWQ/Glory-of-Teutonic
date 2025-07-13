@@ -1,0 +1,28 @@
+state={
+	id=1255
+	name="STATE_1255"
+	resources={
+		aluminium=1
+	}
+
+	state_category = rural
+	history={
+		owner = HAB
+		add_core_of = HAB
+		victory_points = {
+			11486 2
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+		11486 
+	}
+	manpower=42354
+
+	local_supplies=0.0 
+}

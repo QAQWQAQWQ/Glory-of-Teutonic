@@ -2,18 +2,18 @@ state={
 	id=819
 	name="STATE_819"
 	provinces={
-		1743 1868 4792 4873 7823 7885 10578 10647 10708 12533 12557 12629 12665 
+		1743 1868 4873 10578 10647 12557 12629 7749 1787 10632 12539 4655 1723 10575 1853 4856 12612
 	}
 
 	history={
-		owner = MON
+		owner = LIA
+		add_core_of = LIA
 		buildings = {
 			infrastructure = 1
 		}
 		victory_points = {
 			12557 1 #Choibalsan
 		}
-		add_core_of = MON
 	}
 	manpower=88250
 	buildings_max_level_factor=1.000

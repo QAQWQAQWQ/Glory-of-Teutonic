@@ -6,7 +6,8 @@ state={
 	state_category = rural
 
 	history={
-		owner = TUR
+		owner = BCT
+		add_core_of = BCT
 		victory_points = {
 			6938 10
 		}
@@ -19,11 +20,12 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = TUR
 	}
 
 	provinces={
-		979 3967 3982 6920 6938 6978 6995 9844 9871 11839 11897 3935 9915 933 9900 11881 
+		979 3967 3982 6920 6938 6995
+		 9844 9871
+		 3905 3919 11866 11883  
 	}
 
 	local_supplies=0.0 

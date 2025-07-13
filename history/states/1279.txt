@@ -1,0 +1,21 @@
+
+state={
+	id=1279
+	name="STATE_1279"
+	manpower = 1090100
+	state_category = pastoral
+
+	history={
+		owner = BAE
+		add_core_of = BAE
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+        4126 10110 11948
+	}
+
+	local_supplies=0.0 
+}

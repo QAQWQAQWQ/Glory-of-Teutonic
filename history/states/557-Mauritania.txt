@@ -7,7 +7,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = DNU
+		owner = HAS
 		victory_points = {
 			5034 1
 		}

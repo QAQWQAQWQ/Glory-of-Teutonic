@@ -1,0 +1,27 @@
+
+state={
+	id=1254
+	name="STATE_1254"
+	manpower=250000
+	
+	state_category = pastoral
+
+	history={
+		owner = BUT
+		add_core_of = BUT
+		victory_points = {
+			11818 5 
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+
+		}
+	}
+
+	provinces = {
+        6857 9818 
+	}
+
+	local_supplies=0.0 
+}

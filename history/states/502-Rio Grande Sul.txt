@@ -7,8 +7,8 @@ state={
 	state_category = town
 
 	history={
-		owner = GPA
-		add_core_of = GPA
+		owner = VBR
+		add_core_of = VBR
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 1
@@ -24,7 +24,7 @@ state={
 	}
 
 	provinces={
-		1542 1585 1598 4436 4575 4589 4604 5110 7581 7594 7638 10447 12396 
+		1598 5110 1542 4436 4604 7594 7638 10447 12396 
 	}
 
 	local_supplies=0.0 

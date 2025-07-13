@@ -10,7 +10,7 @@ state={
 	
 	history=
 	{
-		owner = ENL
+		owner = DNU
 		add_core_of = SIE
 		victory_points = {
 			2038 1 
@@ -25,7 +25,7 @@ state={
 	}
 	
 	provinces={
-		2038 2094 
+		2038 2094 4957 8008 
 	}
 
 	local_supplies=0.0 

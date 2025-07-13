@@ -3,15 +3,21 @@ state={
 	name="STATE_798"
 	provinces={
 		919 3807 3862 3964 11826 11844 3903 6950
+		3935 9915 11881 933 9900 11839 6978 11897 
+		804 
 	}
 	manpower = 531172
 	
 	state_category = rural
 
 	history= {
-		owner = TUR
+		owner = ART
+		add_core_of = ART
 		victory_points = {
 			3862 3
+		}
+		victory_points = {
+			804 5 
 		}
 		victory_points = {
 			919 5
@@ -19,7 +25,6 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = TUR
 	}
 
 	local_supplies=0.0 

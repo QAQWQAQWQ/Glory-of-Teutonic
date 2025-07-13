@@ -1,0 +1,24 @@
+
+state={
+	id=1221
+	name="STATE_1221"
+	manpower = 10000
+	resources={
+	}
+	state_category = wasteland
+
+	history={
+		owner = SAE
+		add_core_of = SAE
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 13421 1 }
+	}
+
+	provinces={
+       13421
+	}
+
+	local_supplies=0.0 
+}

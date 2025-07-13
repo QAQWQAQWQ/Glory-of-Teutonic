@@ -11,11 +11,14 @@ state = {
 
 	history = {
 
-		owner = NLP
-		add_core_of = NLP
+		owner = GDC
+		add_core_of = GDC
 
 		buildings = {
 			infrastructure = 1
+			1639 = {
+				naval_base = 1
+			}
 		}
 
 		victory_points = {
@@ -29,7 +32,7 @@ state = {
 	}
 
 	provinces = {
-		2149 2199 8192 10935 10981 12306 12321 12349 12982 
+		1639 4643 12494 2149 2199 8192 10935 10981 12306 12321 12349 12982 
 	}
 
 	local_supplies = 0.0 

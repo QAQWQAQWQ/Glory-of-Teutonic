@@ -1,21 +1,26 @@
 state={
 	id=1026
 	name="STATE_1026"
-	manpower = 358467
+	manpower = 1358467
 	
-	state_category = rural
+	state_category = city
 
 	history={
+		victory_points = {
+			495 5 
+		}
 		owner = CLE
 		add_core_of = CLE
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 2
 
 		}
 	}
 
 	provinces={
-        3512 
+        3512 495
 	}
 }

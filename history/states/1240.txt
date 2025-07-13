@@ -1,0 +1,22 @@
+
+state={
+	id=1240
+	name="STATE_1240"
+	manpower=150000
+	
+	state_category = pastoral
+
+	history={
+		owner = BYZ
+		add_core_of = BYZ
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1173 
+	}
+
+	local_supplies=0.0 
+}
