@@ -1,0 +1,27 @@
+
+state = {
+	id = 1282
+	name = "STATE_1282"
+	manpower = 10000
+
+	state_category = rural
+
+
+	history = {
+		owner = HAB
+		add_core_of = HAB
+		victory_points = { 
+			13452 1 
+		}
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+		}
+	}
+
+	provinces = {
+		13452
+	}
+
+	local_supplies = 0.0 
+}

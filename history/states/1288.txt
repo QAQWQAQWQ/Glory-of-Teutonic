@@ -1,0 +1,23 @@
+state={
+	id=1288
+	name="STATE_1288"
+	manpower = 20000
+	resources={
+        aluminium=5
+	}
+	
+	state_category = wasteland
+	history={
+		owner = PHU
+		add_core_of = PHU
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+        9608
+	}
+
+	local_supplies=0.0 
+}

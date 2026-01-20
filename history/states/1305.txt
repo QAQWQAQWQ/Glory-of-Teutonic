@@ -1,0 +1,27 @@
+state={
+	id=1305
+	name="STATE_1305"
+	manpower = 	50000
+	
+	state_category = wasteland
+	
+	resources={
+	}
+
+	history={
+		owner = PHU
+		add_core_of = PHU
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			11554 2
+		}
+	}
+
+	provinces={
+        11554
+	}
+
+	local_supplies=3.0 
+}

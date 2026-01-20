@@ -18,7 +18,7 @@ state=
 		}
 	}
 	provinces={
-		596 665 3654 9596 6672 
+		596 665 3654 9596
 	}
 	
 	local_supplies=0.0 

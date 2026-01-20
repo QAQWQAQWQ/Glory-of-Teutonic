@@ -17,7 +17,7 @@ state={
 		}
 	}
 	provinces={
-        3673 3674 668 671 6673 11612
+        3673 3674 668 6673 11612
 	}
 	manpower=800986
 	state_category = city

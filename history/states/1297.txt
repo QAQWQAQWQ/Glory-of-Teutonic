@@ -1,0 +1,26 @@
+state={
+	id=1297
+	name="STATE_1297"
+	manpower = 220000
+	resources={
+		aluminium=5
+	}
+	
+	state_category = pastoral
+	history={
+		owner = PHU
+		add_core_of = PHU
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			3680 3 
+		}
+	}
+
+	provinces={
+        3680
+	}
+
+	local_supplies=0.0 
+}
