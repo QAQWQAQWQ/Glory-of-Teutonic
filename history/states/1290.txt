@@ -15,12 +15,12 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			6700 10 
+			679 10 
 		}
 	}
 
 	provinces={
-        6700 
+        679 6700 
 	}
 
 	local_supplies=0.0 

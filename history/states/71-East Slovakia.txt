@@ -1,9 +1,9 @@
 state={
 	id=71
 	name="STATE_71"
-	manpower = 1197800
+	manpower = 497800
 	
-	state_category = rural
+	state_category = pastoral
 	
 	history={
 		victory_points = {
@@ -13,12 +13,12 @@ state={
 		add_core_of = PHU
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 2
+			industrial_complex = 1
 		}
 	}
 
 	provinces={
-		555 3550 3581 6586 6604 
+		 3581 
 	}
 
 	local_supplies=0.0 

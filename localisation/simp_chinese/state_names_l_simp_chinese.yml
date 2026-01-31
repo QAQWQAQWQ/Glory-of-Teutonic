@@ -70,7 +70,7 @@
  STATE_68: "奥斯特马克"
  STATE_69: "苏台德"
  STATE_70: "波若尼"
- STATE_71: "东斯洛伐克"
+ STATE_71: "沙罗什"
  STATE_72: "扎奥尔杰"
  STATE_73: "喀尔巴阡鲁塞尼亚"
  STATE_74: "东苏台德"
@@ -159,7 +159,7 @@
  STATE_151: "东瑞士阿尔卑斯"
  STATE_152: "上奥地利"
  STATE_153: "蒂罗尔"
- STATE_154: "匈牙利大平原"
+ STATE_154: "海杜"
  STATE_155: "绍莫吉"
  STATE_156: "卡拉布里亚"
  STATE_157: "阿布鲁佐"
@@ -673,7 +673,6 @@
  STATE_661: "的黎波里塔尼亚"
  STATE_662: "苏尔特"
  STATE_663: "昔兰尼加"
- STATE_664: "南斯洛伐克"
  STATE_665: "加贝斯"
  STATE_666: "北博滕"
  STATE_667: "小巽他群岛"
@@ -1305,7 +1304,7 @@
  STATE_1287: "埃斯泰尔戈姆"
  STATE_1288: "巴兰尼亚瓦尔"
  STATE_1289: "诺格拉德"
- STATE_1290: "塞格德"
+ STATE_1290: "琼格拉德"
  STATE_1291: "萨特马尔"#Szatmár
  STATE_1292: "莫雄"#Moson
  STATE_1293: "肖普朗"
@@ -1323,3 +1322,14 @@
  STATE_1305: "阿尔瓦"
  STATE_1306: "利普托"
  STATE_1307: "佐约姆"
+ STATE_664: "阿包伊-托尔瑙"
+ STATE_1308: "盖默尔-基什洪特"
+ STATE_1309: "曾普伦"#Zemplén
+ STATE_1310: "翁格"#Ung
+ STATE_1311: "塞佩什"#Szepes
+ STATE_1312: "博尔肖德"#Borsod
+ STATE_1313: "黑韦什"#Heves
+ STATE_1314: "雅斯-瑙吉昆-索尔诺克"#Jász-Nagykun-Szolnok
+ STATE_1315: "萨博尔奇"#Szabolcs
+ STATE_1316: "贝凯什"#Békés
+ STATE_1317: "茨奥纳德"#Csanád
