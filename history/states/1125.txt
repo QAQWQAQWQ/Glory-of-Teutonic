@@ -9,8 +9,8 @@ state={
 	}
 
 	history={ 
-		owner = EAC
-		add_core_of = EAC
+		owner = ECT
+		add_core_of = ECT
 		buildings = {
 			infrastructure = 4
 			1177 = {
