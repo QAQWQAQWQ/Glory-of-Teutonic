@@ -11,9 +11,6 @@ state = {
 	history = {
 		owner = HAB
 		add_core_of = HAB
-		victory_points = { #Padova
-			3604 3 
-		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

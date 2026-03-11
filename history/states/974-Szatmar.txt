@@ -2,9 +2,9 @@
 state={
 	id=974
 	name="STATE_974"
-	manpower=1052700
+	manpower=232000
 	
-	state_category = rural
+	state_category = pastoral
 	
 	history={
 		owner = PHU
@@ -12,10 +12,13 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
+		victory_points = {
+            9687 1
+		}
 	}
 
 	provinces={
-        9687 9704
+        9687
 	}
 
 	local_supplies=9.0 

@@ -1,13 +1,13 @@
 state={
-	id=73
-	name="STATE_73"
-	manpower = 91755
+	id=1321
+	name="STATE_1321"
+	manpower = 357705
 	
 	state_category = pastoral
 	
 	history={
 		victory_points = {
-			3548 1 
+			9704 1 
 		}
 		owner = PHU
 		add_core_of = PHU
@@ -17,7 +17,7 @@ state={
 	}
 
 	provinces={
-		3548 
+        6571 9563 9704
 	}
 
 	local_supplies=0.0 
