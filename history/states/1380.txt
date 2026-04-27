@@ -1,0 +1,25 @@
+
+state={
+	id=1380
+	name="STATE_1380"
+	manpower = 13312
+
+	state_category = pastoral
+
+	history={
+		owner = BAM
+		add_core_of = BAM
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			586 1
+		}
+	}
+
+	provinces={
+        586
+	}
+
+	local_supplies=0.0 
+}

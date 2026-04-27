@@ -2,7 +2,7 @@
 state={
 	id=1022
 	name="STATE_1022"
-	manpower = 508159
+	manpower = 248159
 
 	state_category = town
 
@@ -13,10 +13,13 @@ state={
 			industrial_complex = 1
 		}
 		add_core_of = BAM
+		victory_points = {
+			9416 5
+		}
 	}
 
 	provinces={
-        586 11404 9416 
+        9416
 	}
 
 	local_supplies=0.0 

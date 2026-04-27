@@ -2,17 +2,16 @@
 state={
 	id=1103
 	name="STATE_1103"
-	manpower = 36854
+	manpower = 126854
 	resources={
 	}
 	
-	state_category = pastoral
-
+	state_category = rural
 	history={
 		owner = NUR
 		add_core_of = NUR
 		victory_points = {
-			13379 1
+			13379 3
 		}
 		buildings = {
 			infrastructure = 4

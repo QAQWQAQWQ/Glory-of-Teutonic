@@ -1,0 +1,27 @@
+
+state={
+	id=1339
+	name="STATE_1339"
+	manpower = 116091
+	resources={
+	}
+	
+	state_category = wasteland
+
+	history={
+		owner = TRA
+		add_core_of = TRA
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			11644 1 
+		}
+	}
+
+	provinces={
+        11644 
+	}
+
+	local_supplies=0.0 
+}

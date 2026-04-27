@@ -1,0 +1,25 @@
+
+state={
+	id=1370
+	name="STATE_1370"
+	manpower = 18159
+
+	state_category = rural
+
+	history={
+		owner = NUR
+		add_core_of = NUR
+		victory_points = {
+			13492 2
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		13492
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,24 @@
+state={
+	id=1323
+	name="STATE_1323"
+	manpower = 207010
+	
+	state_category = pastoral
+	
+	history={
+		owner = PHU
+		add_core_of = PHU
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			9611 1
+		}
+	}
+
+	provinces={
+		9611
+	}
+
+	local_supplies=0.0 
+}

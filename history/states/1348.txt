@@ -1,0 +1,25 @@
+state={
+	id=1348
+	name="STATE_1348"
+
+	state_category = pastoral
+	history={
+		owner = ING
+		add_core_of = ING
+		
+		victory_points = {
+			13457 1
+		}
+		buildings = {
+			infrastructure = 4
+
+		}
+	}
+
+	provinces={
+        13457
+	}
+	manpower=15531
+
+	local_supplies=0.0 
+}

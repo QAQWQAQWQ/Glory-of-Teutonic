@@ -1,0 +1,25 @@
+
+state={
+	id=1385
+	name="STATE_1385"
+	manpower = 44385
+
+	state_category = rural
+	history={
+		owner = WUZ
+		add_core_of = WUZ
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		victory_points = {
+			11417 3
+		}
+	}
+
+	provinces={
+        11417
+	}
+
+	local_supplies=0.0 
+}

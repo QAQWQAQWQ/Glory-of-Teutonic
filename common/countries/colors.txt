@@ -1566,3 +1566,11 @@ LIA = {
 	color = rgb { 102 178 255 }
 	color_ui = rgb { 102 178 255 }	
 }
+ULM = {
+	color = rgb { 224 224 224 }
+	color_ui = rgb { 224 224 224 }	
+}
+NOD = {
+	color = rgb { 254 204 204 }
+	color_ui = rgb { 254 204 204 }	
+}

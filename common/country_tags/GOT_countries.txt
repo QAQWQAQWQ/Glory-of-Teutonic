@@ -158,3 +158,5 @@ KOG="countries/Koguryo.txt"
 SLL="countries/Silla.txt"
 BAE="countries/Silla.txt"#Baekje
 LIA="countries/China.txt"#Liao
+ULM="countries/Ulm.txt"
+NOD="countries/NOD.txt"#Nördlingen

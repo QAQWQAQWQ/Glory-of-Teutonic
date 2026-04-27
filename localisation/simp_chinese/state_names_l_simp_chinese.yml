@@ -48,7 +48,7 @@
  STATE_47: "阿提卡"
  STATE_48: "索非亚"
  STATE_49: "安卡拉"
- STATE_50: "符腾堡"
+ STATE_50: "斯图加特"
  STATE_51: "科隆"
  STATE_52: "慕尼黑"
  STATE_53: "兰茨胡特"
@@ -75,7 +75,7 @@
  STATE_73: "乌戈奇"#Ugocsa
  STATE_74: "东苏台德"
  STATE_75: "摩拉维亚"
- STATE_76: "北特兰西瓦尼亚"
+ STATE_76: "科洛日"#Kolozs
  STATE_77: "多布罗加"
  STATE_78: "比萨拉比亚"
  STATE_79: "摩尔多瓦"
@@ -83,7 +83,7 @@
  STATE_81: "奥尔特尼亚"
  STATE_82: "泰梅什"#Temes
  STATE_83: "阿劳德"#Arad
- STATE_84: "特兰西瓦尼亚"
+ STATE_84: "布拉绍"#Brassó
  STATE_85: "但泽"
  STATE_86: "波兹南"
  STATE_87: "罗兹"
@@ -102,13 +102,13 @@
  STATE_100: "冰岛"
  STATE_101: "格陵兰"
  STATE_102: "北斯洛文尼亚"
- STATE_103: "达尔马提亚"
+ STATE_103: "莫德鲁什－里耶卡"#Modrus-Rijeka
  STATE_104: "波斯尼亚"
  STATE_105: "黑山"
  STATE_106: "瓦尔达尔马其顿"
  STATE_107: "塞尔维亚"
  STATE_108: "摩拉瓦"
- STATE_109: "克罗地亚"
+ STATE_109: "萨格勒布"#Zágráb
  STATE_110: "奥斯陆峡湾"
  STATE_111: "新地"
  STATE_111_SWE: "尼兰"
@@ -1029,14 +1029,14 @@
  STATE_1012: "波茨坦"
  STATE_1013: "不伦瑞克"
  STATE_1014: "巴登"
- STATE_1015: "弗莱堡"
+ STATE_1015: "弗莱堡"#Freiburg
  STATE_1016: "锡格马林根"
  STATE_1017: "洛伊特基希"#Leutkirch
  STATE_1018: "奥格斯堡"
  STATE_1019: "考夫博伊伦"#Kaufbeuren
  STATE_1020: "因戈尔施塔特"
  STATE_1021: "施特劳宾"
- STATE_1022: "班贝格"
+ STATE_1022: "班贝格"#Bamberg
  STATE_1023: "安斯巴赫"
  STATE_1024: "纽伦堡"
  STATE_1025: "明斯特"
@@ -1112,12 +1112,12 @@
  STATE_1095: "埃伯斯贝格"
  STATE_1096: "罗森海姆"
  STATE_1097: "库夫施泰因"
- STATE_1098: "代根多夫"
- STATE_1099: "布格伦根费尔德"
+ STATE_1098: "多瑙河畔菲尔斯霍芬"
+ STATE_1099: "美因堡"
  STATE_1100: "雷根斯堡"
  STATE_1101: "布劳瑙"
  STATE_1102: "艾希施泰特"
- STATE_1103: "海德克"
+ STATE_1103: "多瑙河畔诺伊堡"
  STATE_1104: "坦普尔堡"
  STATE_1105: "科尼茨"
  STATE_1106: "劳恩堡"
@@ -1337,3 +1337,67 @@
  STATE_1319: "比豪尔"#Bihar
  STATE_1320: "贝雷格"#Bereg
  STATE_1321: "马拉莫罗什"#Máramaros
+ STATE_1322: "利卡－克尔巴瓦"#Lika-Krbava
+ STATE_1323: "瓦拉日丁"#Varaždin
+ STATE_1324: "贝洛瓦尔-克里热夫茨"#Bjelovar-Križevci
+ STATE_1325: "波泽加"#Požega
+ STATE_1326: "维罗维蒂察"#Viroviticza
+ STATE_1327: "斯泽雷姆"#Szerém
+ STATE_1328: "索尔诺克-多博卡"#Szolnok-Doboka
+ STATE_1329: "贝斯泰尔采-纳索德"#Beszterce-Naszód
+ STATE_1330: "马罗什-托尔达"#Maros-Torda
+ STATE_1331: "奇克"#Csík
+ STATE_1332: "乌德沃尔海伊"#Udvarhely
+ STATE_1333: "豪罗姆塞克"#Háromszék
+ STATE_1334: "胡尼亚德"#Hunyad
+ STATE_1335: "下费赫尔"#Alsó-Fehér
+ STATE_1336: "托尔达-阿拉尼奥什"#Torda-Aranyos
+ STATE_1337: "塞本"#Szeben
+ STATE_1338: "福加拉什"#Fogaras
+ STATE_1339: "小屈屈洛"#Kis-Küküllő
+ STATE_1340: "大屈屈洛"#Nagy-Küküllő
+ STATE_1341: "列支敦士登"#Liechtenstein
+ STATE_1342: "沙夫豪森"#Schaffhausen
+ STATE_1343: "奥芬堡"#Offenburg
+ STATE_1344: "杜尔拉赫"#Durlach
+ STATE_1345: "肯普滕"#Kempten
+ STATE_1346: "博登湖畔林道"#Lindau
+ STATE_1347: "金茨堡"#Günzburg
+ STATE_1348: "下阿尔高"#Unterallgäu
+ STATE_1349: "魏森霍恩"#Weißenhorn
+ STATE_1350: "乌尔姆"
+ STATE_1351: "讷德林根"#Nördlingen
+ STATE_1352: "亚格斯特河畔埃尔旺根"#Ellwangen
+ STATE_1353: "施瓦本格明德"#Schwäbisch Gmünd
+ STATE_1354: "施瓦本哈尔"#Schwäbisch Hall
+ STATE_1355: "海尔布隆"#Heilbronn
+ STATE_1356: "埃斯林根"#Esslingen am Neckar
+ STATE_1357: "罗伊特林根"#Reutlingen
+ STATE_1358: "多瑙河畔赫希施泰特"#Höchstädt an der Donau
+ STATE_1359: "希尔波尔特施泰因"#Hilpoltstein
+ STATE_1360: "埃根费尔登"#Eggenflden
+ STATE_1361: "艾夏赫"#Aichach
+ STATE_1362: "代根多夫"
+ STATE_1363: "巴尔"#Landgrafschaft Baar
+ STATE_1364: "克莱特高"#Gefürstete Landgrafschaft Klettgau
+ STATE_1365: "多瑙施陶夫"#Donaustauf
+ STATE_1366: "沃尔特"#Wörth
+ STATE_1367: "霍赫贝格"#Hochberg
+ STATE_1368: "安贝格"#Amberg
+ STATE_1369: "施万多夫"#Schwandorf
+ STATE_1370: "霍恩堡"#Hohenburg
+ STATE_1371: "诺伊马克特"#Neumarkt in der Oberpfalz
+ STATE_1372: "魏德豪斯"#Waidhaus
+ STATE_1373: "林山前诺因堡"#Neunburg vorm Wald
+ STATE_1374: "温茨海姆"#Windsheim
+ STATE_1375: "多瑙河畔诺伊施塔特"#Neustadt an der Donau
+ STATE_1376: "苏尔茨巴赫-罗森贝格"#Sulzbach-Rosenberg
+ STATE_1377: "菲尔塞克"#Vilseck
+ STATE_1378: "魏登"#Weiden in der Oberpfalz
+ STATE_1379: "蒂申罗伊特"#Tirschenreuth
+ STATE_1380: "瓦尔德纳布河畔诺伊施塔特"#Neustadt an der Waldnaab
+ STATE_1381: "拜罗伊特"#Markgrafschaft Bayreuth
+ STATE_1382: "霍夫"#Hof
+ STATE_1383: "施泰格瓦尔德"#Steigerwald
+ STATE_1384: "罗滕堡"#Rothenburg ob der Tauber
+ STATE_1385: "施韦因富特"#Schweinfurt

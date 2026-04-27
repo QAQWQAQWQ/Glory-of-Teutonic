@@ -1,0 +1,26 @@
+state={
+	id=1364
+	name="STATE_1364"
+	resources={
+		aluminium=1
+	}
+
+	state_category = pastoral
+	history={
+		owner = HAB
+		add_core_of = HAB
+		victory_points = {
+			13487 1
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+        13487
+	}
+	manpower=10354
+
+	local_supplies=0.0 
+}

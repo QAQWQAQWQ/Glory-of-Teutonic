@@ -2,13 +2,16 @@ state={
 	id=1020
 	name="STATE_1020"
 	resources={
-		aluminium=2
+		aluminium=1
 	}
 
-	state_category = town
+	state_category = rural
 	history={
 		owner = ING
 		add_core_of = ING
+		victory_points = {
+			6540 5
+		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
@@ -17,9 +20,9 @@ state={
 	}
 
 	provinces={
-        6540 3705
+        6540
 	}
-	manpower=386854
+	manpower=141185
 
 	local_supplies=0.0 
 }

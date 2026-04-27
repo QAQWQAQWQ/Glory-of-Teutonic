@@ -1,0 +1,26 @@
+
+state={
+	id=1381
+	name="STATE_1381"
+	manpower = 208159
+
+	state_category = town
+
+	history={
+		owner = BAM
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = BAM
+		victory_points = {
+			13477 5
+		}
+	}
+
+	provinces={
+        13477
+	}
+
+	local_supplies=0.0 
+}

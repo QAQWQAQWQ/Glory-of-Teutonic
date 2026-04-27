@@ -1,0 +1,26 @@
+
+state={
+	id=1382
+	name="STATE_1382"
+	manpower = 76963
+
+	state_category = rural
+
+	history={
+		owner = BAM
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = BAM
+		victory_points = {
+			11404 3
+		}
+	}
+
+	provinces={
+        11404
+	}
+
+	local_supplies=0.0 
+}

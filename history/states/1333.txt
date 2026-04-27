@@ -1,0 +1,24 @@
+state={
+	id=1333
+	name="STATE_1333"
+	manpower = 124173
+	
+	state_category = pastoral
+	
+	history={
+		owner = TRA
+		add_core_of = TRA
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			9668 1
+		}
+	}
+
+	provinces={
+		 3689 9668 
+	}
+
+	local_supplies=0.0 
+}

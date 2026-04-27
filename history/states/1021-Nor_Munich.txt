@@ -2,12 +2,24 @@ state={
 	id=1021
 	name="STATE_1021"
 
-	state_category = large_town
+	state_category = town
 	history={
 		owner = LAN
 		add_core_of = LAN
 		victory_points = {
-			2541 3
+			13377 4
+		}
+		victory_points = {
+			9681 2
+		}
+		victory_points = {
+			13472 1
+		}
+		victory_points = {
+			13471 1
+		}
+		victory_points = {
+			13473 1
 		}
 		buildings = {
 			infrastructure = 4
@@ -17,9 +29,10 @@ state={
 	}
 	
 	provinces={
-        3571 3541 11497 13377 9681 
+        13377 9681 13471
+		13472 13473
 	}
-	manpower=256854
+	manpower=156854
 
 	local_supplies=0.0 
 }

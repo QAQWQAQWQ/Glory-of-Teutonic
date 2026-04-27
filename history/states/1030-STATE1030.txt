@@ -13,6 +13,7 @@ state={
 	history={
 		owner = PFA
 		add_core_of = PFA
+		victory_points = { 13494 12 }
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
@@ -21,7 +22,7 @@ state={
 	}
 
 	provinces={
-        563 3558 11547 
+        563 3558 11547 13494
 	}
 	
 	

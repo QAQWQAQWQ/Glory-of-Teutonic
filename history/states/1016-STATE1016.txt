@@ -9,6 +9,9 @@ state={
 	history={
 		owner = BRN
 		add_core_of = BRN
+		victory_points = {
+			694 1
+		}
 		buildings = {
 			infrastructure = 4
 

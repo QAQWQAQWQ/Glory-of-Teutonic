@@ -10,10 +10,10 @@ state={
 		owner = LWW
 		add_core_of = LWW
 		victory_points = {
-			9517 20
+			9517 10
 		}
 		victory_points = {
-			11499 5
+			13455 2
 		}
 		buildings = {
 			infrastructure = 4
@@ -25,11 +25,9 @@ state={
 	}
 
 	provinces={
-		519 6555 9517 9545 11499 13455
-		13461 13460 13462
-		13456 13457 13458
+		9517 13455
 	}
-	manpower=2086854
+	manpower=1586854
 	buildings_max_level_factor=1.000
 
 	local_supplies=0.0 

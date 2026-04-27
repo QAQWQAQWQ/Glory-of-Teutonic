@@ -1,0 +1,25 @@
+
+state={
+	id=1375
+	name="STATE_1375"
+	manpower = 14959
+
+	state_category = pastoral
+
+	history={
+		owner = ANS
+		add_core_of = ANS
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			13476 2
+		}
+	}
+
+	provinces={
+         13476
+	}
+
+	local_supplies=0.0 
+}

@@ -2,18 +2,36 @@
 state={
 	id=52
 	name="STATE_52"
-	manpower = 1779413
+	manpower = 1879413
 	resources={
 		aluminium=16
 	}
 	
-	state_category = city
+	state_category = large_city
 
 	history={
-		owner = HAB
+		owner = HAB 
 		add_core_of = HAB
 		victory_points = {
 			692 20
+		}
+		victory_points = {
+			6693 2
+		}
+		victory_points = {
+			11620 2
+		}
+		victory_points = {
+			9666 2
+		}
+		victory_points = {
+			13464 1
+		}
+		victory_points = {
+			13465 1
+		}
+		victory_points = {
+			13491 1
 		}
 		buildings = {
 			infrastructure = 4
@@ -25,6 +43,9 @@ state={
 
 	provinces={
 		692 6693 9666 11620
+		13464
+		13465
+		13491
 	}
 
 	local_supplies=8.0 

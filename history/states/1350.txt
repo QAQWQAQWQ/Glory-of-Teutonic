@@ -1,0 +1,26 @@
+state={
+	id=1350
+	name="STATE_1350"
+
+	state_category = city
+	history={
+		owner = ULM
+		add_core_of = ULM
+		
+		victory_points = {
+			11499 5
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+		}
+	}
+
+	provinces={
+        11499
+	}
+	manpower=319180
+
+	local_supplies=0.0 
+}

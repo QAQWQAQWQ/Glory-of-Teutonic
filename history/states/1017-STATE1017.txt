@@ -5,15 +5,12 @@ state={
 		aluminium=1
 	}
 
-	state_category = town
+	state_category = rural
 	history={
 		owner = HAB
 		add_core_of = HAB
 		victory_points = {
 			9655 1
-		}
-		victory_points = {
-			6934 1
 		}
 		buildings = {
 			infrastructure = 4
@@ -22,9 +19,9 @@ state={
 	}
 
 	provinces={
-        9655 6934 13454
+        9655
 	}
-	manpower=196854
+	manpower=56854
 
 	local_supplies=0.0 
 }

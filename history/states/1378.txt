@@ -1,0 +1,24 @@
+
+state={
+	id=1378
+	name="STATE_1378"
+	manpower = 63188
+	state_category = rural
+
+	history={
+		owner = BAM
+		add_core_of = BAM
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			13482 2
+		}
+	}
+
+	provinces={
+         13482
+	}
+
+	local_supplies=0.0 
+}

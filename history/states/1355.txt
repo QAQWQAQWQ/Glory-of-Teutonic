@@ -1,0 +1,26 @@
+
+state={
+	id=1355
+	name="STATE_1355"
+
+	state_category = rural
+	history={
+		owner = LWW
+		add_core_of = LWW
+		
+		victory_points = {
+			6555 3
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+        6555
+	}
+	manpower=211653
+
+	local_supplies=0.0 
+}

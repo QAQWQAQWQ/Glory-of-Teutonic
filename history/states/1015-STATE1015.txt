@@ -10,10 +10,7 @@ state={
 		owner = HAB
 		add_core_of = HAB
 		victory_points = {
-			11640 2
-		}
-		victory_points = {
-			6712 3
+			11640 3
 		}
 		buildings = {
 			infrastructure = 4
@@ -24,9 +21,9 @@ state={
 	}
 
 	provinces={
-        6712 11640
+        11640
 	}
-	manpower=486854
+	manpower=286854
 
 	local_supplies=0.0 
 }

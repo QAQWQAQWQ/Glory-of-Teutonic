@@ -1,0 +1,28 @@
+state={
+	id=1361
+	name="STATE_1361"
+	resources={
+		aluminium=2
+	}
+
+	state_category = rural
+	history={
+		owner = ING
+		add_core_of = ING
+		victory_points = {
+			3705 3
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+        3705
+	}
+	manpower=286854
+
+	local_supplies=0.0 
+}

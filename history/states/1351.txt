@@ -1,0 +1,26 @@
+state={
+	id=1351
+	name="STATE_1351"
+
+	state_category = rural
+	history={
+		owner = NOD
+		add_core_of = NOD
+		
+		victory_points = {
+			13460 2
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+		}
+		add_extra_state_shared_building_slots = 1
+	}
+
+	provinces={
+        13460 
+	}
+	manpower=131345 
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,25 @@
+
+state={
+	id=1360
+	name="STATE_1360"
+	manpower = 104439
+	
+	state_category = rural
+
+	history={
+		owner = LAN
+		add_core_of = LAN
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			6725 2
+		}
+	}
+
+	provinces={
+		6725
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,25 @@
+state={
+	id=1367
+	name="STATE_1367"
+	resources={
+	}
+
+	state_category = pastoral
+	history={
+		owner = HAB
+		add_core_of = HAB
+		victory_points = {
+			13490 1
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+        13490
+	}
+	manpower=21354
+
+	local_supplies=0.0 
+}

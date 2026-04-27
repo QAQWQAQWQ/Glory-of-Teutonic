@@ -1,0 +1,677 @@
+ideologies = {
+	national_socialism = {
+		types = {
+			national_socialism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 51 0 0 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	marxism = {
+		types = {
+			marxism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 102 0 0 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	syndicalism = {
+		types = {
+			syndicalism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 153 0 0 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	utopian_socialism = {
+		types = {
+			utopian_socialism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 204 0 0 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	anarcho_communism = {
+		types = {
+			anarcho_communism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 255 0 0 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	left_wing_totalitarianism = {
+		types = {
+			left_wing_totalitarianism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 51 0 25 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	left_wing_nationalism = {
+		types = {
+			left_wing_nationalism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 102 0 51 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	left_wing_populism = {
+		types = {
+			left_wing_populism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 153 0 76 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	liberal_socialism = {
+		types = {
+			liberal_socialism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 204 0 102 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	agricultural_socialism = {
+		types = {
+			agricultural_socialism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 255 0 127 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	corporatism = {
+		types = {
+			corporatism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 0 0 51 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	social_conservatism = {
+		types = {
+			social_conservatism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 0 0 102 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	liberalism = {
+		types = {
+			liberalism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 0 0 153 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	welfare_capitalism = {
+		types = {
+			welfare_capitalism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 0 0 204 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	social_libertarianism = {
+		types = {
+			social_libertarianism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 0 0 255 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	right_wing_totalitarianism = {
+		types = {
+			right_wing_totalitarianism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 0 0 0 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	conservatism = {
+		types = {
+			conservatism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 96 96 96 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	neoliberal_conservatism = {
+		types = {
+			neoliberal_conservatism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 153 153 0 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	classical_liberalism = {
+		types = {
+			classical_liberalism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 204 204 0 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	anarchist_liberalism = {
+		types = {
+			anarchist_liberalism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 255 255 0 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	state_capitalism = {
+		types = {
+			state_capitalism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 51 25 0 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	liberal_conservatism = {
+		types = {
+			liberal_conservatism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 102 51 0 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	economic_liberalism = {
+		types = {
+			economic_liberalism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 153 76 0 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	hayekianism = {
+		types = {
+			hayekianism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 204 102 0 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+	anarchist_capitalism = {
+		types = {
+			anarchist_capitalism_subtype = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME"
+		}
+		color = { 255 128 0 }
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		can_host_government_in_exile = yes
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		modifiers = {
+		}
+		faction_modifiers = {
+		}
+	}
+}

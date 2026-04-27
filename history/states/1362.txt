@@ -1,0 +1,31 @@
+state={
+	id=1362
+	name="STATE_1362"
+
+	state_category = rural
+	history={
+		owner = LAN
+		add_core_of = LAN
+		victory_points = {
+			3541 3
+		}
+		victory_points = {
+			3571 1
+		}
+		victory_points = {
+			11497 1
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+        3571 3541 11497 
+	}
+	manpower=103964
+
+	local_supplies=0.0 
+}

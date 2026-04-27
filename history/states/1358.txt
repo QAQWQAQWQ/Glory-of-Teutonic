@@ -1,0 +1,25 @@
+
+state={
+	id=1358
+	name="STATE_1358"
+
+	state_category = pastoral
+	history={
+		owner = NUR
+		add_core_of = NUR
+		
+		victory_points = {
+			13466 1
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+        13466
+	}
+	manpower=17073
+
+	local_supplies=0.0 
+}

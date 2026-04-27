@@ -1,27 +1,29 @@
 
 state={
 	id=103
-	name="STATE_103" # Dalmatia
-	manpower = 1431700 #TODO_Manu: Check if pop need to go down after Fiume split
+	name="STATE_103" 
+	manpower = 231654
 
-	state_category = large_town
+	state_category = town
 
 
 	history={
 		owner = PHU
 		add_core_of = PHU
+		victory_points = {
+			3601 2
+		}
 		buildings = {
 			infrastructure = 3
-			dockyard = 1
 			industrial_complex = 3
-			591 = {
+			13252 = {
 				naval_base = 2
 			}
 		}
 	}
 
 	provinces={
-		591 984 3601 6611 13252
+		3601 13252
 	}
 
 	local_supplies=4.0 

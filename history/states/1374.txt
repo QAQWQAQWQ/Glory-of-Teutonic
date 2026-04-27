@@ -1,0 +1,26 @@
+
+state={
+	id=1374
+	name="STATE_1374"
+	manpower = 19159
+
+	state_category = rural
+
+	history={
+		owner = ANS
+		add_core_of = ANS
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		victory_points = {
+			13493 2
+		}
+	}
+
+	provinces={
+        13493
+	}
+
+	local_supplies=0.0 
+}
