@@ -1,0 +1,31 @@
+state={
+	id=1436
+	name="STATE_1436"
+	manpower = 151057
+	resources={
+	}
+	
+	state_category = rural
+
+	history={
+		owner = LUN
+		add_core_of = LUN
+		buildings = {
+			infrastructure = 4
+			6263 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			 6263 5
+		}
+	}
+
+	provinces={
+        6263
+	}
+	
+	
+
+	local_supplies=0.0 
+}

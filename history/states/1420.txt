@@ -1,0 +1,30 @@
+
+state={
+	id=1420
+	name="STATE_1420"
+	manpower = 124322
+	resources={
+	}
+	
+	state_category = pastoral
+
+	history={
+		owner = NAS
+		add_core_of = NAS
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			13511 2
+		}
+	}
+
+	provinces={
+       13511
+	}
+	
+	
+
+	local_supplies=0.0 
+}

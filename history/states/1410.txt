@@ -1,0 +1,30 @@
+
+state={
+	id=1410
+	name="STATE_1410"
+	manpower = 	125490
+	resources={
+	}
+	
+	state_category = pastoral
+
+	history={
+		owner = HEK
+		add_core_of = HEK
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			13503 1
+		}
+	}
+
+	provinces={
+       13503 
+	}
+	
+	
+
+	local_supplies=0.0 
+}

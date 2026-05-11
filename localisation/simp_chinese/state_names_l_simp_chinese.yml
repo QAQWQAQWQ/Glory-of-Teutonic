@@ -1,7 +1,7 @@
 ﻿l_simp_chinese:
  STATE_1: "科西嘉"
  STATE_2: "拉齐奥"
- STATE_3: "瑞士高原"
+ STATE_3: "伯尔尼"
  STATE_4: "下奥地利"
  STATE_5: "埃尔宾"
  STATE_6: "佛兰德"
@@ -54,19 +54,19 @@
  STATE_53: "兰茨胡特"
  STATE_54: "维尔茨堡"
  STATE_55: "卡塞尔"
- STATE_56: "威悉-埃姆斯"
+ STATE_56: "策勒"
  STATE_57: "威斯特法伦"
  STATE_58: "荷尔斯泰因"
  STATE_58_DEN: "霍尔斯滕"
- STATE_59: "汉诺威"
+ STATE_59: "卡伦贝格"#Calenberg
  STATE_60: "图林根"
  STATE_61: "梅克伦堡"
  STATE_62: "前波美拉尼亚"
- STATE_63: "中波美拉尼亚"
+ STATE_63: "斯德丁"
  STATE_64: "勃兰登堡"
  STATE_65: "萨克森"
  STATE_66: "下西里西亚"
- STATE_67: "上西里西亚"
+ STATE_67: "奥珀恩"#Oppeln
  STATE_68: "奥斯特马克"
  STATE_69: "苏台德"
  STATE_70: "波若尼"
@@ -156,7 +156,7 @@
  STATE_149: "瓦萨"
  STATE_149_SWE: "瓦萨"
  STATE_150: "库奥皮奥"
- STATE_151: "东瑞士阿尔卑斯"
+ STATE_151: "格劳宾登"
  STATE_152: "上奥地利"
  STATE_153: "蒂罗尔"
  STATE_154: "海杜"
@@ -770,7 +770,7 @@
  STATE_759: "昆仑山"
  STATE_760: "达坂城"
  STATE_761: "呼伦贝尔"
- STATE_762: "卡托维兹"
+ STATE_762: "普莱斯"#Pleß
  STATE_763: "东普鲁士"
  STATE_764: "多伦塔尔"#Torontál
  STATE_765: "卡塔尔"
@@ -855,7 +855,7 @@
  STATE_844: "朱巴兰"
  STATE_845: "汝拉"
  STATE_846: "提契诺"
- STATE_847: "西瑞士阿尔卑斯"
+ STATE_847: "卢塞恩"#Luzern
  STATE_848: "福拉尔贝格"
  STATE_849: "普利亚"
  STATE_850: "特伦蒂诺"
@@ -995,13 +995,13 @@
  STATE_978: "后波美拉尼亚"
  STATE_979: "吕贝克"
  STATE_980: "拉策堡"
- STATE_981: "萨克森-劳恩堡"
+ STATE_981: "劳恩堡"
  STATE_982: "汉堡"
  STATE_983: "瓦尔米亚"
  STATE_984: "萨姆兰"
  STATE_985: "柯尼斯堡"
  STATE_986: "不来梅"
- STATE_987: "施塔德"
+ STATE_987: "不来梅公国"#Herzogtum Bremen
  STATE_988: "东弗里斯兰"
  STATE_989: "奥尔登堡"
  STATE_990: "马格德堡"
@@ -1011,7 +1011,7 @@
  STATE_994: "北萨克森"
  STATE_995: "德累斯顿"
  STATE_996:0 "迈宁根"
- STATE_997:0 "桑德斯豪森"
+ STATE_997:0 "松德斯豪森"
  STATE_998:0 "哥达"
  STATE_999:0 "魏玛"
  STATE_1000:0 "鲁多尔斯塔特"
@@ -1026,8 +1026,8 @@
  STATE_1009: "柏林"
  STATE_1010: "安哈尔特"
  STATE_1011: "韦尔本"#Werben
- STATE_1012: "波茨坦"
- STATE_1013: "不伦瑞克"
+ STATE_1012: "耶里肖"#Jerichower
+ STATE_1013: "霍尔茨明登"#Holzminden
  STATE_1014: "巴登"
  STATE_1015: "弗莱堡"#Freiburg
  STATE_1016: "锡格马林根"
@@ -1044,13 +1044,13 @@
  STATE_1027: "帕德博恩"
  STATE_1028: "瓦尔代克"
  STATE_1029: "贝格"
- STATE_1030: "普法尔茨"
+ STATE_1030: "弗兰肯塔尔"#Frankenthal
  STATE_1031: "萨尔布吕肯"
  STATE_1032: "美因河畔法兰克福"
  STATE_1033: "美因茨"
  STATE_1034: "阿莎芬堡"
- STATE_1035: "拿骚"
- STATE_1036: "黑森"
+ STATE_1035: "迪伦堡"#Dillenburg
+ STATE_1036: "马尔堡"#Marburg
  STATE_1037: "达姆施塔特"
  STATE_1038: "维也纳"
  STATE_1039: "布尔根兰"
@@ -1077,17 +1077,17 @@
  STATE_1060: "南部"
  STATE_1061: "乌迪内"
  STATE_1062: "洪斯吕克"
- STATE_1063: "维德河畔施泰讷巴赫"
- STATE_1064: "塞恩-维特根施泰因"
- STATE_1065: "卡岑埃尔恩博根"
+ STATE_1063: "韦斯特林山"#Westerwald
+ STATE_1064: "塞恩"#Sayn
+ STATE_1065: "兰河畔林堡"#Limburg an der Lahn
  STATE_1066: "科布伦茨"
  STATE_1067: "科赫姆"
  STATE_1068: "比特堡-普吕姆-艾费尔山"
- STATE_1069: "贝吉施"
+ STATE_1069: "维特根施泰因"#Wittgenstein
  STATE_1070: "波恩"
  STATE_1071: "于利希"
  STATE_1072: "拉文斯贝格"
- STATE_1073: "哈姆"
+ STATE_1073: "瓦伦多夫"#Warendorf
  STATE_1074: "林根"
  STATE_1075: "本特海姆"
  STATE_1076: "克洛彭堡"
@@ -1099,10 +1099,10 @@
  STATE_1082: "施维茨"
  STATE_1083: "日内瓦"
  STATE_1084: "沃州"
- STATE_1085: "瓦莱"
+ STATE_1085: "下瓦莱"
  STATE_1086: "弗里堡"
  STATE_1087: "林茨"
- STATE_1088: "东瓦莱"
+ STATE_1088: "上瓦莱"
  STATE_1089: "迪特马尔申"
  STATE_1090: "帕绍"
  STATE_1091: "因河畔瓦瑟堡"
@@ -1118,10 +1118,10 @@
  STATE_1101: "布劳瑙"
  STATE_1102: "艾希施泰特"
  STATE_1103: "多瑙河畔诺伊堡"
- STATE_1104: "坦普尔堡"
+ STATE_1104: "坦普尔堡"#Tempelburg
  STATE_1105: "科尼茨"
- STATE_1106: "劳恩堡"
- STATE_1107: "比托" #Bütow
+ STATE_1106: "波美拉尼亚劳恩堡"#Lauenburg in Pommern
+ STATE_1107: "比托"#Bütow
  STATE_1108: "西波西米亚"
  STATE_1109: "南波西米亚"
  STATE_1110: "东波西米亚"
@@ -1233,7 +1233,7 @@
  STATE_1216: "伊尔梅瑙"#Ilmenau
  STATE_1217: "奥拉河畔诺伊施塔特"#Neustadt an der Orla
  STATE_1218: "伦山前奥斯特海姆"#Ostheim
- STATE_1219: "巴特弗兰肯豪森"#Bad Frankenhausen
+ STATE_1219: "弗兰肯豪森"#Frankenhausen
  STATE_1220: "伊门罗德"#Immenrode
  STATE_1221: "施洛泰姆"#Schlotheim
  STATE_1222: "洛伊滕贝格"#Leutenberg
@@ -1401,3 +1401,88 @@
  STATE_1383: "施泰格瓦尔德"#Steigerwald
  STATE_1384: "罗滕堡"#Rothenburg ob der Tauber
  STATE_1385: "施韦因富特"#Schweinfurt
+ STATE_1386: "纳沙泰尔"#Neuenburg
+ STATE_1387: "巴塞尔"#Basel
+ STATE_1388: "索洛图恩"#Solothurn
+ STATE_1389: "中瓦莱"
+ STATE_1390: "翁特瓦尔登"Unterwalden
+ STATE_1391: "巴登-韦廷根"#Baden-Wettingen
+ STATE_1392: "图尔高"#Thurgau
+ STATE_1393: "楚格"#Zug
+ STATE_1394: "圣加伦"#St. Gallen
+ STATE_1395: "格拉鲁斯"#Glaru
+ STATE_1396: "乌里"#Uri
+ STATE_1397: "阿彭策尔"#Appenzell
+ STATE_1398: "莫埃萨"#Moesa
+ STATE_1399: "卡斯塔塞尼亚"#Castasegna
+ STATE_1400: "伯尔尼纳"#Bernina
+ STATE_1401: "沃尔姆斯"#Worms
+ STATE_1402: "兰道"#Landau in der Pfalz
+ STATE_1403: "茨韦布吕肯"#Zweibrücken
+ STATE_1404: "海德堡"#Heidelberg
+ STATE_1405: "大乌姆施塔特"#Groß-Umstadt
+ STATE_1406: "奥登林山"#Odenwald
+ STATE_1407: "贝格施特拉瑟"#Bergstraße
+ STATE_1408: "米尔滕贝格"#Miltenberg
+ STATE_1409: "吉森"#Gießen
+ STATE_1410: "劳巴赫"#Laubach
+ STATE_1411: "美因-金齐希"#Main-Kinzig
+ STATE_1412: "伊森堡"#Fürstentum Isenburg
+ STATE_1413: "埃尔森巴赫"#Eisenbach die rund drei Kilometer südlich von Lauterbach im Vogelsbergkreis am Nordostrand des Vogelsberges liegt
+ STATE_1414: "弗里德贝格"#Reichsstadt Friedberg
+ STATE_1415: "福格尔斯山"#Vogelsberg
+ STATE_1416: "富尔达"#Fulda
+ STATE_1417: "黑斯费尔德"#Hersfeld
+ STATE_1418: "下卡岑埃尔恩博根"#Nieder Katzenelnbogen
+ STATE_1419: "乌辛根"#Usingen
+ STATE_1420: "魏尔堡"#Weilburg
+ STATE_1421: "韦茨拉尔"#Wetzlar
+ STATE_1422: "布劳恩费尔斯"#Braunfels
+ STATE_1423: "伦克尔"#Runkel
+ STATE_1424: "黑森内陆"#Hessisches Hinterland
+ STATE_1425: "威拉-迈斯讷"#Werra-Meißner
+ STATE_1426: "埃森"
+ STATE_1427: "马克"#Mark
+ STATE_1428: "利珀"#Lippe
+ STATE_1429: "居特斯洛"#Gütersloh
+ STATE_1430: "米尔豪森"#Mühlhausen
+ STATE_1431: "哥廷根"#Göttingen
+ STATE_1432: "艾希斯费尔德"#Eichsfeld
+ STATE_1433: "奥斯纳布吕克"#Osnabrück
+ STATE_1434: "明登"#Minden
+ STATE_1435: "威悉河畔宁堡"#Nienburg
+ STATE_1436: "哈尔堡"#Harburg
+ STATE_1437: "费尔登"#Verden (Aller)
+ STATE_1438: "吉夫霍恩"#Gifhorn
+ STATE_1439: "绍姆堡"#Schaumburg
+ STATE_1440: "希尔德斯海姆"#Hildesheim
+ STATE_1441: "黑尔戈兰"
+ STATE_1442: "克尼普豪森"#Kniphausen
+ STATE_1443: "耶佛尔"
+ STATE_1444: "奥滕多夫"#Otterndorf
+ STATE_1445: "布尔格多夫"#Burgdorf
+ STATE_1446: "丹嫩贝格"#Dannenberg
+ STATE_1447: "沙尔内贝克"#Scharnebeck
+ STATE_1448: "戈斯拉尔"#Goslar
+ STATE_1449: "格鲁本哈根"#Grubenhagen
+ STATE_1450: "哈尔伯施塔特"#Halberstadt
+ STATE_1451: "不伦瑞克"#Braunschweig
+ STATE_1452: "诺德豪森"#Nordhausen
+ STATE_1453: "布兰肯堡"#Blankenburg
+ STATE_1454: "曼斯费尔德"#Mansfeld
+ STATE_1455: "哈雷"#Halle
+ STATE_1456: "南哈茨"#Südharz
+ STATE_1457: "梅泽堡"#Merseburg
+ STATE_1458: "萨勒河畔瑙姆堡"#Naumburg (Saale)
+ STATE_1459: "维斯马"
+ STATE_1460: "汉萨城罗斯托克"#Hansestadt Rostock
+ STATE_1461: "瓦尔泰利纳"#Veltlin
+ STATE_1462: "奥得河畔克罗森"#Crossen an der Oder
+ STATE_1463: "施奈德米尔"#Schneidemühl
+ STATE_1464: "弗劳施塔特"#Fraustadt
+ STATE_1465: "瓦尔特河畔施韦林"#Schwerin an der Warthe
+ STATE_1466: "梅瑟里茨"#Meseritz
+ STATE_1467: "拜滕"#Beuthen
+ STATE_1468: "拉蒂博尔"#Ratibor
+ STATE_1469: "勒奥布许茨"#Leobschütz
+ STATE_1470: "格拉茨"#Glatz

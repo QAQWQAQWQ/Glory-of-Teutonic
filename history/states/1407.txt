@@ -1,0 +1,31 @@
+
+state={
+	id=1407
+	name="STATE_1407"
+	manpower = 270340
+	resources={
+	}
+	
+	state_category = rural
+
+	history={
+		owner = MAI
+		add_core_of = MAI
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			13486 2
+		}
+	}
+
+	provinces={
+       13486
+	}
+	
+	
+
+	local_supplies=0.0 
+}

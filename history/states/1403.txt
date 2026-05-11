@@ -1,0 +1,33 @@
+
+state={
+	id=1403
+	name="STATE_1403"
+	manpower = 234613
+	resources={
+		steel=5
+		aluminium=1
+	}
+	
+	state_category = large_town
+
+	history={
+		owner = PFA
+		add_core_of = PFA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			563 10
+		}
+	}
+
+	provinces={
+        563 
+	}
+	
+	
+
+	local_supplies=0.0 
+}

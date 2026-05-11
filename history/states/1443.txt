@@ -1,0 +1,32 @@
+state={
+	id=1443
+	name="STATE_1443"
+	manpower = 7055
+	resources={
+	}
+	
+	state_category = tiny_island
+
+	history={
+		owner = OLD
+		add_core_of = OLD
+		buildings = {
+			infrastructure = 4
+			241 = {
+				naval_base = 8
+
+			}
+		}
+		victory_points = {
+			241 2
+		}
+	}
+
+	provinces={
+        241
+	}
+	
+	
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,28 @@
+state={
+	id=1455
+	name="STATE_1455"
+	manpower = 441923
+	resources={
+	}
+	
+	state_category = town
+	history={
+		owner = MAG
+		add_core_of = MAG
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			13527 10
+		}
+	}
+
+	provinces={
+        13527
+	}
+	
+	
+
+	local_supplies=0.0 
+}

@@ -2,20 +2,23 @@
 state={
 	id=847
 	name="STATE_847"
-	manpower = 78429
-	state_category = pastoral
+	manpower = 148429
+	state_category = rural
 	resources={
 	}
 	history={
 		owner = HAB
 		add_core_of = HAB
+		victory_points = {
+			11604 2
+		}
 		buildings = {
-			infrastructure = 1 
+			infrastructure = 2 
 			industrial_complex = 1
 		}
 	}
 	provinces={
-		11604 636 9618  
+		11604
 	}
 	local_supplies=0.0 
 }

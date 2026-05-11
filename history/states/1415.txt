@@ -1,0 +1,30 @@
+
+state={
+	id=1415
+	name="STATE_1415"
+	manpower = 115059
+	resources={
+	}
+	
+	state_category =pastoral
+
+	history={
+		owner = HED
+		add_core_of = HED
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			13507 1
+		}
+	}
+
+	provinces={
+       13507
+	}
+	
+	
+
+	local_supplies=0.0 
+}

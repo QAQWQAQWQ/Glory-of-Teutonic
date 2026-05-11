@@ -1,7 +1,7 @@
 state={
 	id=1025
 	name="STATE_1025"
-	manpower = 2258467
+	manpower = 858467
 	
 	state_category = large_city
 
@@ -10,6 +10,9 @@ state={
 		add_core_of = MUN
 		victory_points = {
 			11346 15
+		}
+		victory_points = {
+			6622 2
 		}
 		buildings = {
 			infrastructure = 3

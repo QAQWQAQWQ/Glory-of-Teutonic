@@ -1,7 +1,7 @@
 state={
 	id=1072
 	name="STATE_1072"
-	manpower = 158467
+	manpower = 458467
 	
 	state_category = town
 
@@ -9,7 +9,7 @@ state={
 		owner = JUL
 		add_core_of = JUL
 		victory_points = {
-			6469 1 
+			6469 5
 		}
 		buildings = {
 			infrastructure = 3

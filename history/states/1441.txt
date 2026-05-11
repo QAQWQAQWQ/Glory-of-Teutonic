@@ -1,0 +1,32 @@
+state={
+	id=1441
+	name="STATE_1441"
+	manpower = 19920
+	resources={
+	}
+	
+	state_category = wasteland
+
+	history={
+		owner = HAS
+		add_core_of = HAS
+		buildings = {
+			infrastructure = 4
+			13525 = {
+				naval_base = 6
+
+			}
+		}
+		victory_points = {
+			13525 1
+		}
+	}
+
+	provinces={
+        13525 
+	}
+	
+	
+
+	local_supplies=0.0 
+}

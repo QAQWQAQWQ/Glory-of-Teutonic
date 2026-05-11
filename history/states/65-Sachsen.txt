@@ -18,7 +18,7 @@ state={
 			industrial_complex = 4
 		}
 		victory_points = {
-			3535 5 
+			3535 18
 		}
 		add_core_of = SAX
 	}

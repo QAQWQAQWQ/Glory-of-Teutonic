@@ -1,0 +1,31 @@
+
+state={
+	id=1404
+	name="STATE_1404"
+	manpower = 302960
+	resources={
+	}
+	
+	state_category = city
+
+	history={
+		owner = PFA
+		add_core_of = PFA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			3574 14
+		}
+	}
+
+	provinces={
+       3574
+	}
+	
+	
+
+	local_supplies=0.0 
+}

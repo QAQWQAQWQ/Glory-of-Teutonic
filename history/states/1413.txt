@@ -1,0 +1,30 @@
+
+state={
+	id=1413
+	name="STATE_1413"
+	manpower = 10000
+	resources={
+	}
+	
+	state_category =wastland
+
+	history={
+		owner = HEK
+		add_core_of = HEK
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			 13505 1
+		}
+	}
+
+	provinces={
+        13505 
+	}
+	
+	
+
+	local_supplies=0.0 
+}

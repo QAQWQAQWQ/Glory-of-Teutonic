@@ -1,0 +1,28 @@
+
+state={
+	id=1462
+	name="STATE_1462"
+	manpower = 99840
+	resources={
+		aluminium=1
+	}
+
+	state_category =  pastoral
+
+	history={
+		victory_points = {
+			13539 1
+		}
+		owner = BRN
+		add_core_of = BRN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		13539
+	}
+
+	local_supplies=0.0 
+}

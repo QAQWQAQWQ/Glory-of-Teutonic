@@ -1,0 +1,30 @@
+
+state={
+	id=1408
+	name="STATE_1408"
+	manpower = 	128446
+	resources={
+	}
+	
+	state_category = pastoral
+
+	history={
+		owner = MAI
+		add_core_of = MAI
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			13485 1
+		}
+	}
+
+	provinces={
+       13485
+	}
+	
+	
+
+	local_supplies=0.0 
+}

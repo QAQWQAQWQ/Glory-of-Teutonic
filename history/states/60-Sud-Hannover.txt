@@ -2,18 +2,19 @@
 state={
 	id=60
 	name="STATE_60"
-	manpower = 3005214
+	manpower = 801214
 	resources={
 		steel=9 # was 5 was: 13 was: 20
 		chromium = 3 # was: 4
 		tungsten = 3 # was: 4
 	}
 	
-	state_category = large_city
+	state_category = large_town
 
 	history={
 		owner = SAX
-		victory_points = { 3561 3 }
+		victory_points = { 3561 12 }
+		victory_points = { 425 2 }
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -22,7 +23,8 @@ state={
 	}
 
 	provinces={
-		425 3561 6582 11468 6487
+		425 3561  
+		
 	}
 
 	local_supplies=0.0 

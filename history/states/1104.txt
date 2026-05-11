@@ -2,7 +2,7 @@
 state={
 	id=1104
 	name="STATE_1104"
-	manpower = 66854
+	manpower = 86854
 	resources={
 	}
 	
@@ -12,7 +12,7 @@ state={
 		owner = TEU
 		add_core_of = TEU
 		victory_points = {
-			11260 1
+			11260 2
 		}
 		buildings = {
 			infrastructure = 4
@@ -20,7 +20,7 @@ state={
 	}
 
 	provinces={
-        11260 
+        11260
 	}
 
 	local_supplies=0.0 

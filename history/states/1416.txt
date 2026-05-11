@@ -1,0 +1,30 @@
+
+state={
+	id=1416
+	name="STATE_1416"
+	manpower = 223145
+	resources={
+	}
+	
+	state_category = rural
+
+	history={
+		owner = HEK
+		add_core_of = HEK
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			11445 2
+		}
+	}
+
+	provinces={
+       11445
+	}
+	
+	
+
+	local_supplies=0.0 
+}

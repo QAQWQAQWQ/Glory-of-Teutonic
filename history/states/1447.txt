@@ -1,0 +1,29 @@
+state={
+	id=1447
+	name="STATE_1447"
+	manpower = 4103
+	resources={
+	}
+	
+	state_category = wasteland
+
+	history={
+		owner = LUN
+		add_core_of = LUN
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			9264 1
+		}
+	}
+
+	provinces={
+        9264
+	}
+	
+	
+
+	local_supplies=0.0 
+}

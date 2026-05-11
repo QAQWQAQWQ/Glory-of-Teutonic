@@ -1,9 +1,9 @@
 state={
 	id=1075
 	name="STATE_1075"
-	manpower = 68467
+	manpower = 98467
 	
-	state_category = rural
+	state_category = pastoral
 
 	history={
 		owner = MUN

@@ -1,0 +1,29 @@
+
+state={
+	id=1468
+	name="STATE_1468"
+	manpower = 209213
+	resources={
+		steel=2
+		aluminium=2
+	}
+	
+	state_category = rural
+
+	history={
+		owner = HAB
+		add_core_of = HAB
+		victory_points = {
+			9457 3
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+        9457 
+	}
+
+	local_supplies=0.0 
+}

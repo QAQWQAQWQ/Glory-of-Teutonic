@@ -1,0 +1,31 @@
+
+state={
+	id=1427
+	name="STATE_1427"
+	manpower = 965029
+
+	state_category = large_city
+
+
+	history={
+		owner = BRN
+		add_core_of = BRN
+		victory_points = {
+			13515 12
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 3
+			anti_air_building = 2
+			air_base = 4
+
+		}
+	}
+
+	provinces={
+		13515
+	}
+
+	local_supplies=0.0 
+}

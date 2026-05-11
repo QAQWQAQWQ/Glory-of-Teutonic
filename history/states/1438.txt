@@ -1,0 +1,29 @@
+state={
+	id=1438
+	name="STATE_1438"
+	manpower = 214012
+	resources={
+	}
+	
+	state_category = rural
+
+	history={
+		owner = HAN
+		add_core_of = HAN
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			 3271 5
+		}
+	}
+
+	provinces={
+        3271
+	}
+	
+	
+
+	local_supplies=0.0 
+}

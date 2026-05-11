@@ -1,9 +1,9 @@
 state={
 	id=988
 	name="STATE_988"
-	manpower = 158467
+	manpower = 458467
 	
-	state_category = rural
+	state_category = town
 
 	history={
 		owner = BRG
@@ -12,6 +12,9 @@ state={
 			infrastructure = 3
 			industrial_complex = 1
 
+		}
+		victory_points = {
+			11360 8
 		}
 	}
 

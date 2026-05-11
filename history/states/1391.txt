@@ -1,0 +1,25 @@
+state={
+	id=1391
+	name="STATE_1391"
+	manpower = 451175
+	
+	state_category = town
+
+	history={
+		owner = HAB
+		add_core_of = HAB
+		victory_points = {
+			13500 5
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	provinces={
+        13500
+	}
+
+	local_supplies=0.0 
+}

@@ -1,12 +1,12 @@
 state = {
 	id = 981
 	name = "STATE_981"
-	manpower = 295630 
-	state_category = town
+	manpower = 215630 
+	state_category = rural
 	
 	history = {
 		victory_points = {
-			9320 3 
+			9320 5
 		}
 		owner = HAS
 		add_core_of = HAS

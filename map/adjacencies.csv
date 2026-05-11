@@ -192,8 +192,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 6635;9587;impassable;-1;-1;-1;-1;-1;;western alps
 3641;11601;impassable;-1;-1;-1;-1;-1;;central alps
 3641;658;impassable;-1;-1;-1;-1;-1;;central alps
-6661;3662;impassable;-1;-1;-1;-1;-1;;eastern alps
-3662;11587;impassable;-1;-1;-1;-1;-1;;eastern alps
+6661;658;impassable;-1;-1;-1;-1;-1;;eastern alps
+658;11587;impassable;-1;-1;-1;-1;-1;;eastern alps
 11587;3660;impassable;-1;-1;-1;-1;-1;;eastern alps
 3660;6675;impassable;-1;-1;-1;-1;-1;;eastern alps
 6675;9633;impassable;-1;-1;-1;-1;-1;;eastern alps
@@ -204,8 +204,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 3675;668;impassable;-1;-1;-1;-1;-1;;austrian alps
 3674;3675;impassable;-1;-1;-1;-1;-1;;austrian alps
 3674;6691;impassable;-1;-1;-1;-1;-1;;austrian alps
-6691;6687;impassable;-1;-1;-1;-1;-1;;austrian alps
-6691;9650;impassable;-1;-1;-1;-1;-1;;austrian alps
+6691;3675;impassable;-1;-1;-1;-1;-1;;austrian alps
+6691;688;impassable;-1;-1;-1;-1;-1;;austrian alps
 9650;3684;impassable;-1;-1;-1;-1;-1;;austrian alps
 3314;6336;sea;2752;2885;1578;2890;1581;;Afsluitdijk
 13058;10245;impassable;-1;-1;-1;-1;-1;;Greenland Glacier

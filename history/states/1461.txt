@@ -1,0 +1,28 @@
+
+state = {
+	id = 1461
+	name = "STATE_1461"
+	manpower = 179201
+	state_category = rural
+
+	history = {
+		owner = HAB
+		add_core_of = HAB
+		victory_points = {
+			6661 2
+		}
+		victory_points = { 
+			11587 1
+		}
+		buildings = {
+			infrastructure = 4
+
+		}
+	}
+
+	provinces = {
+		6661 11587
+	}
+
+	local_supplies = 0.0 
+}

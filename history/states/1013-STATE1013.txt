@@ -2,7 +2,7 @@
 state={
 	id=1013
 	name="STATE_1013"
-	manpower = 138286
+	manpower = 208286
 	resources={
 		oil=1
 	}
@@ -14,13 +14,15 @@ state={
 		add_core_of = BSC
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
 
+		}
+		victory_points = {
+			11493 5
 		}
 	}
 
 	provinces={
-        9375 11493 
+        11493 
 	}
 
 	local_supplies=0.0 

@@ -6,14 +6,15 @@ state = {
 	
 	history = {
 		victory_points = {
-			11331 20.0 
+			11331 30.0 
 		}
 		owner = HAS
 		add_core_of = HAS
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
-			dockyard = 4
+			dockyard = 2
+			industrial_complex = 4
 			air_base = 5
 			11331  = {
 				naval_base = 8

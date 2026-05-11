@@ -1,12 +1,24 @@
 state = {
 	id = 909
 	name = "STATE_909"
-	manpower = 152520
-	state_category = rural
+	manpower = 402520
+	state_category = town
 	
 	history = {
 		victory_points = {
-			317 3 
+			317 10
+		}
+		victory_points = {
+			13533 8
+		}
+		victory_points = {
+			3231 2
+		}
+		victory_points = {
+			13528 2
+		}
+		victory_points = {
+			11366 1 
 		}
 		owner = SHL
 		add_core_of = SHL
@@ -17,7 +29,7 @@ state = {
 	}
 
 	provinces = {
-		317 3231 11366
+		317 3231 11366 13528 13533
  	}
 
 	local_supplies = 0.0 

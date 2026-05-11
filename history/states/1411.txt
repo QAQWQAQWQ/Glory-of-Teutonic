@@ -1,0 +1,30 @@
+
+state={
+	id=1411
+	name="STATE_1411"
+	manpower = 	420552
+	resources={
+	}
+	
+	state_category =town
+
+	history={
+		owner = HEK
+		add_core_of = HEK
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			3397 5
+		}
+	}
+
+	provinces={
+       3397
+	}
+	
+	
+
+	local_supplies=0.0 
+}

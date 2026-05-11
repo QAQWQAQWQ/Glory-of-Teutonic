@@ -1,0 +1,29 @@
+state={
+	id=1424
+	name="STATE_1424"
+	manpower = 180977
+	resources={
+	}
+	
+	state_category = rural
+
+	history={
+		owner = HED
+		add_core_of = HED
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			13512 2
+		}
+	}
+
+	provinces={
+       13512
+	}
+	
+	
+
+	local_supplies=0.0 
+}

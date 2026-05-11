@@ -1,0 +1,30 @@
+
+state={
+	id=1418
+	name="STATE_1418"
+	manpower = 109187
+	resources={
+	}
+	
+	state_category = pastoral
+
+	history={
+		owner = TRE
+		add_core_of = TRE
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			6444 1
+		}
+	}
+
+	provinces={
+       6444
+	}
+	
+	
+
+	local_supplies=0.0 
+}

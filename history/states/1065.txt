@@ -2,7 +2,7 @@
 state={
 	id=1065
 	name="STATE_1065"
-	manpower = 127739
+	manpower = 171912
 	resources={
 		steel=1
 	}
@@ -12,7 +12,7 @@ state={
 	history={
 		owner = TRE
 		add_core_of = TRE
-		victory_points = { 13364 1 }
+		victory_points = { 13364 2 }
 		buildings = {
 			infrastructure = 4
 

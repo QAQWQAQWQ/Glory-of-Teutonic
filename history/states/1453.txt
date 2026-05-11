@@ -1,0 +1,29 @@
+state={
+	id=1453
+	name="STATE_1453"
+	manpower = 279843
+	resources={
+	}
+	
+	state_category = rural
+
+	history={
+		owner = BSC
+		add_core_of = BSC
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			11402 4
+		}
+	}
+
+	provinces={
+        11402
+	}
+	
+	
+
+	local_supplies=0.0 
+}

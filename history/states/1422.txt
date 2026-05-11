@@ -1,0 +1,30 @@
+
+state={
+	id=1422
+	name="STATE_1422"
+	manpower = 12123
+	resources={
+	}
+	
+	state_category = wasteland
+
+	history={
+		owner = NAS
+		add_core_of = NAS
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			9547 1
+		}
+	}
+
+	provinces={
+       9547 
+	}
+	
+	
+
+	local_supplies=0.0 
+}

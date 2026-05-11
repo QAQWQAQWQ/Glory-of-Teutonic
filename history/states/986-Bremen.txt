@@ -13,7 +13,7 @@ state={
 		owner = HAS
 		add_core_of = HAS
 		victory_points = {
-			3326 5 
+			3326 10
 		}
 		buildings = {
 			infrastructure = 4

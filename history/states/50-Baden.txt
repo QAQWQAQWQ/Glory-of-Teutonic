@@ -10,7 +10,7 @@ state={
 		owner = LWW
 		add_core_of = LWW
 		victory_points = {
-			9517 10
+			9517 14
 		}
 		victory_points = {
 			13455 2

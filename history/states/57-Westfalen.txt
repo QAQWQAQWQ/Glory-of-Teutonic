@@ -2,14 +2,14 @@
 state={
 	id=57
 	name="STATE_57"
-	manpower = 1809333
+	manpower = 609333
 	state_category = city
 	
 	history={
 		owner = KOL
 		add_core_of = KOL
 		victory_points = {
-			3398 3
+			9443 12
 		}
 		buildings = {
 			infrastructure = 4
@@ -21,7 +21,7 @@ state={
 	}
 
 	provinces={
-		3398 9443
+		9443
 	}
 
 	local_supplies=0.0 

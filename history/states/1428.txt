@@ -1,0 +1,29 @@
+state={
+	id=1428
+	name="STATE_1428"
+	manpower = 160977
+	resources={
+	}
+	
+	state_category = rural
+
+	history={
+		owner = KOL
+		add_core_of = KOL
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			3398 2
+		}
+	}
+
+	provinces={
+       3398 
+	}
+	
+	
+
+	local_supplies=0.0 
+}

@@ -2,13 +2,16 @@
 state={
 	id=1089
 	name="STATE_1089"
-	manpower = 607296
+	manpower = 217296
 	resources={
 	}
 	state_category = rural
 	history={
 		victory_points = {
-			13371 1
+			13371 2
+		}
+		victory_points = {
+			13529 2
 		}
 		owner = HAS
 		add_core_of = HAS
@@ -17,7 +20,7 @@ state={
 		}
 	}
 	provinces={
-		13371
+		13371 13529
 	}
 	local_supplies=0.0 
 }

@@ -2,9 +2,9 @@
 state={
 	id=1034
 	name="STATE_1034"
-	manpower = 208159
+	manpower = 246786
 
-	state_category = town
+	state_category = rural
 
 	history={
 		owner = MAI
@@ -13,10 +13,13 @@ state={
 			infrastructure = 4
 			industrial_complex = 1
 		}
+		victory_points = {
+			6594 3
+		}
 	}
 
 	provinces={
-		6594 13484 13485 13486
+		6594 
 	}
 
 	local_supplies=0.0 

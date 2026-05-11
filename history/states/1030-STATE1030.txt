@@ -2,10 +2,10 @@
 state={
 	id=1030
 	name="STATE_1030"
-	manpower = 727739
+	manpower = 481128
 	resources={
-		steel=10
-		aluminium=2
+		steel=6
+		aluminium=1
 	}
 	
 	state_category = city
@@ -13,16 +13,18 @@ state={
 	history={
 		owner = PFA
 		add_core_of = PFA
-		victory_points = { 13494 12 }
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 
 		}
+		victory_points = {
+			11547 15
+		}
 	}
 
 	provinces={
-        563 3558 11547 13494
+        11547
 	}
 	
 	

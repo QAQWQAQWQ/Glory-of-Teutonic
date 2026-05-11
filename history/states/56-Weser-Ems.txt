@@ -1,15 +1,15 @@
 state={
 	id=56
 	name="STATE_56"
-	manpower = 1058467
+	manpower = 558467
 	
-	state_category = large_town
+	state_category = town
 
 	history={
 		owner = HAN
 		add_core_of = HAN
 		victory_points = {
-			11360 1
+			3234 10
 		}
 		buildings = {
 			infrastructure = 3
@@ -19,6 +19,6 @@ state={
 	}
 
 	provinces={
-		405 247 3234 11233
+		 3234
 	}
 }

@@ -1,0 +1,29 @@
+state={
+	id=1448
+	name="STATE_1448"
+	manpower = 48103
+	resources={
+	}
+	
+	state_category = pastoral
+
+	history={
+		owner = BSC
+		add_core_of = BSC
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			13526 2
+		}
+	}
+
+	provinces={
+        13526
+	}
+	
+	
+
+	local_supplies=0.0 
+}

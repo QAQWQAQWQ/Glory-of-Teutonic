@@ -2,20 +2,23 @@
 state={
 	id=845
 	name="STATE_845"
-	manpower = 807296
+	manpower = 69100
 	resources={
-		aluminium=3
+		aluminium=1
 	}
-	state_category = rural
+	state_category = pastoral
 	history={
 		owner = BRG
 		add_core_of = BRG
+		victory_points = {
+			6683 1
+		}
 		buildings = {
 			infrastructure = 3
 		}
 	}
 	provinces={
-		6683 9622
+		6683
 	}
 	local_supplies=0.0 
 }

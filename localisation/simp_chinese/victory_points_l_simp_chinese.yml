@@ -2,11 +2,11 @@
  VICTORY_POINTS_TOOLTIP: "§G$NAME$§!的胜利点值为§Y$POINTS$§!"
  VICTORY_POINTS_6521: "柏林"
  VICTORY_POINTS_692: "慕尼黑"
- VICTORY_POINTS_6570: "埃森"
+ VICTORY_POINTS_3512: "埃森"
  VICTORY_POINTS_9347: "汉堡"
  VICTORY_POINTS_9570: "布雷斯劳"
- VICTORY_POINTS_241: "耶佛尔"
- VICTORY_POINTS_321: "罗斯托克"
+ VICTORY_POINTS_241: "耶佛尔"#Jever
+ VICTORY_POINTS_321: "罗斯托克"#Rostock
  VICTORY_POINTS_514: "德累斯顿"
  VICTORY_POINTS_587: "科隆"
  VICTORY_POINTS_3326: "不来梅"
@@ -89,7 +89,7 @@
  VICTORY_POINTS_6666: "日内瓦"
  VICTORY_POINTS_9638: "巴塞尔"
  VICTORY_POINTS_658: "库尔"
- VICTORY_POINTS_9600: "卢加诺"
+ VICTORY_POINTS_3641: "贝林佐纳"#Bellinzona
  VICTORY_POINTS_636: "圣哥达山口"
  VICTORY_POINTS_11586: "贝尔格莱德"
  VICTORY_POINTS_3868: "杜布罗夫尼克"
@@ -716,9 +716,9 @@
  VICTORY_POINTS_153: "威廉斯塔德"
  VICTORY_POINTS_7376: "金边"
  VICTORY_POINTS_1464: "万象"
- VICTORY_POINTS_6464: "卡托维兹"
+ VICTORY_POINTS_6464:  "普莱斯"#Pleß
  VICTORY_POINTS_11467: "格莱维茨"
- VICTORY_POINTS_9511: "奥珀伦"
+ VICTORY_POINTS_9511: "奥珀恩"#Oppeln
  VICTORY_POINTS_552: "利格尼茨"
  VICTORY_POINTS_3545: "瓦尔登堡"
  VICTORY_POINTS_11430: "凯尔采"
@@ -762,7 +762,7 @@
  VICTORY_POINTS_577: "切尔诺夫策"
  VICTORY_POINTS_3548: "瑙久瑟勒什"#Nagyszőllős
  VICTORY_POINTS_11539: "日利纳"
- VICTORY_POINTS_3583: "俄斯特拉发"
+ VICTORY_POINTS_3583: "奥斯特劳"#Ostrau
  VICTORY_POINTS_6562: "奥尔米茨"
  VICTORY_POINTS_9569: "塔博尔"
  VICTORY_POINTS_9541: "布德韦斯"
@@ -770,7 +770,7 @@
  VICTORY_POINTS_11432: "奥西格"
  VICTORY_POINTS_11401: "利贝雷茨"
  VICTORY_POINTS_3473: "屈斯特林"
- VICTORY_POINTS_9388: "施特拉尔松德"
+ VICTORY_POINTS_9388: "施特拉尔松德"#Stralsund
  VICTORY_POINTS_11305: "拉策堡"
  VICTORY_POINTS_11331: "吕贝克"
  VICTORY_POINTS_11372: "克斯林"
@@ -781,7 +781,7 @@
  VICTORY_POINTS_538: "魏玛"
  VICTORY_POINTS_11360: "埃姆登"
  VICTORY_POINTS_11346: "明斯特"
- VICTORY_POINTS_6535: "哈姆"
+ VICTORY_POINTS_6535: "瓦伦多夫"#Warendorf
  VICTORY_POINTS_3423: "锡门"
  VICTORY_POINTS_9575: "特里尔"
  VICTORY_POINTS_11531: "萨尔布吕肯"
@@ -1289,31 +1289,32 @@
  VICTORY_POINTS_12468: "萨尔托"
  VICTORY_POINTS_10502: "派桑杜"
  VICTORY_POINTS_5165: "巴勃罗・拉海伦萨少校镇"
- VICTORY_POINTS_9320: "萨克森-劳恩堡"
+ VICTORY_POINTS_9320: "劳恩堡"
  VICTORY_POINTS_11560: "美因茨"
- VICTORY_POINTS_13363: "维德河畔施泰讷巴赫"
- VICTORY_POINTS_529: "塞恩-维特根施泰因"
- VICTORY_POINTS_13364: "卡岑埃尔恩博根"
+ VICTORY_POINTS_13363: "蒙塔鲍尔"#Montabaur
+ VICTORY_POINTS_529: "阿尔滕基兴"#Altenkirchen
+ VICTORY_POINTS_13364: "兰河畔林堡"#Limburg an der Lahn
  VICTORY_POINTS_11494: "科布伦茨"
  VICTORY_POINTS_11470: "科赫姆"
- VICTORY_POINTS_9482: "贝吉施格拉德巴赫"
+ VICTORY_POINTS_9482: "维特根施泰因"#Wittgenstein
  VICTORY_POINTS_9522: "于利希"
  VICTORY_POINTS_6469: "比勒费尔德"
  VICTORY_POINTS_11388: "林根"
- VICTORY_POINTS_13365: "巴特本特海姆"
+ VICTORY_POINTS_13365: "本特海姆"
  VICTORY_POINTS_11264: "克洛彭堡"
  VICTORY_POINTS_9281: "梅彭"
  VICTORY_POINTS_13366: "哈布斯堡"
  VICTORY_POINTS_13367: "森帕赫"
- VICTORY_POINTS_11601: "卢塞恩"
- VICTORY_POINTS_661: "艾因西德伦"
+ VICTORY_POINTS_11601: "阿尔特多夫"#Altdorf
+ VICTORY_POINTS_661: "圣加伦"#St. Gallen
  VICTORY_POINTS_13369: "洛桑"
  VICTORY_POINTS_11590: "弗里堡"
- VICTORY_POINTS_3612: "锡永"
- VICTORY_POINTS_13371: "迪特马尔申"
+ VICTORY_POINTS_3612: "马蒂尼"#Martigny
+ VICTORY_POINTS_13529: "海德"#Heide
+ VICTORY_POINTS_13371: "梅尔多夫"#Meldorf
  VICTORY_POINTS_13372: "帕绍"
  VICTORY_POINTS_3688: "因河畔瓦瑟堡"
- VICTORY_POINTS_707: "巴特赖兴哈尔"
+ VICTORY_POINTS_707: "赖兴哈尔"
  VICTORY_POINTS_13373: "特劳恩施泰因"
  VICTORY_POINTS_13374: "弗赖辛"
  VICTORY_POINTS_9652: "埃伯斯贝格"
@@ -1329,10 +1330,10 @@
  VICTORY_POINTS_561: "艾希施泰特"
  VICTORY_POINTS_3703: "谢尔丁"#Schärding
  VICTORY_POINTS_13379: "多瑙河畔诺伊堡"#Neuburg an der Dona
- VICTORY_POINTS_11260: "坦普尔堡"
+ VICTORY_POINTS_11260: "坦普尔堡"#Tempelburg
  VICTORY_POINTS_334: "科尼茨"
- VICTORY_POINTS_13380: "劳恩堡"
- VICTORY_POINTS_13381: "比托" #Bütow
+ VICTORY_POINTS_13380: "波美拉尼亚劳恩堡"#Lauenburg in Pommern
+ VICTORY_POINTS_13381: "比托"#Bütow
  VICTORY_POINTS_13383: "横须贺" 
  VICTORY_POINTS_4198: "种子岛" 
  VICTORY_POINTS_13384: "平户" 
@@ -1357,7 +1358,7 @@
  VICTORY_POINTS_13417: "奥拉河畔诺伊施塔特"#Neustadt an der Orla
  VICTORY_POINTS_13418: "伦山前奥斯特海姆"#Ostheim
  VICTORY_POINTS_9497: "鲁多尔斯塔特"#Rudolstadt
- VICTORY_POINTS_13419: "巴特弗兰肯豪森"#Bad Frankenhausen
+ VICTORY_POINTS_13419: "弗兰肯豪森"#Frankenhausen
  VICTORY_POINTS_13420: "伊门罗德"#Immenrode
  VICTORY_POINTS_13421: "施洛泰姆"#Schlotheim
  VICTORY_POINTS_13422: "洛伊滕贝格"#Leutenberg
@@ -1370,7 +1371,7 @@
  VICTORY_POINTS_13428: "萨尔费尔德萨勒"#Saalfeld
  VICTORY_POINTS_6501: "阿尔滕堡"#Altenburg
  VICTORY_POINTS_13429: "艾森伯格"#Elsenberg
- VICTORY_POINTS_3474: "桑德斯豪森"#Sondershausen
+ VICTORY_POINTS_3474: "松德斯豪森"#Sondershausen
  VICTORY_POINTS_13430: "阿恩施塔特"#Arnstadt
  VICTORY_POINTS_13431: "格伦-格罗斯布雷滕巴赫-马瑟贝格"#Gehren-Großbreitenbach-Masserberg
  VICTORY_POINTS_9441: "格拉"#Gera
@@ -1391,7 +1392,7 @@
  VICTORY_POINTS_6568: "施派尔"#Speyer
  VICTORY_POINTS_6542: "巴登"#Baden
  VICTORY_POINTS_13437: "克莱韦"#Kleve
- VICTORY_POINTS_3398: "安斯伯格"#Arnsburg
+ VICTORY_POINTS_9443: "安斯伯格"#Arnsburg
  VICTORY_POINTS_336: "奥尔登堡"
  VICTORY_POINTS_9444: "布容"#Bouillon
  VICTORY_POINTS_6500: "格德司"#Guelders
@@ -1537,7 +1538,7 @@
  VICTORY_POINTS_9545: "罗伊特林根"#Reutlingen
  VICTORY_POINTS_694: "锡格马林根"#Sigmaringen
  VICTORY_POINTS_6693: "莱希河畔兰茨贝格"#Landsberg am Lech
- VICTORY_POINTS_11620: "巴特特尔茨"#Bad Tölz
+ VICTORY_POINTS_11620: "特尔茨"#Tölz
  VICTORY_POINTS_9666: "沃尔夫拉茨豪森"#Wolfratshausen
  VICTORY_POINTS_6540: "因戈尔施塔特"#Ingolstadt
  VICTORY_POINTS_3705: "艾夏赫"#Aichach
@@ -1584,3 +1585,123 @@
  VICTORY_POINTS_9572: "沙因费尔德"#Scheinfeld
  VICTORY_POINTS_11417: "施韦因富特"#Schweinfurt
  VICTORY_POINTS_13494: "沃尔姆斯"#Worms
+ VICTORY_POINTS_6683: "德莱蒙"#Delémont
+ VICTORY_POINTS_9622: "纳沙泰尔"#Neuenburg
+ VICTORY_POINTS_13498: "索洛图恩"#Solothurn
+ VICTORY_POINTS_9618: "图恩"#Thun
+ VICTORY_POINTS_636: "因特拉肯"#Interlaken
+ VICTORY_POINTS_13370: "锡永"#Sion
+ VICTORY_POINTS_9587: "布里格"#Brig
+ VICTORY_POINTS_11604: "卢塞恩"#Luzern
+ VICTORY_POINTS_13499: "施坦斯"#Stans
+ VICTORY_POINTS_13500: "巴登-韦廷根"#Baden-Wettingen
+ VICTORY_POINTS_11623: "弗劳恩费尔德"#Frauenfeld
+ VICTORY_POINTS_13368: "楚格"#Zug
+ VICTORY_POINTS_13495: "施维茨"#Schwyz
+ VICTORY_POINTS_13496: "格拉鲁斯"#Glaru
+ VICTORY_POINTS_13497: "阿彭策尔"#Appenzell
+ VICTORY_POINTS_9600: "罗韦雷多"#Roveredo
+ VICTORY_POINTS_13501: "卡斯塔塞尼亚"#Castasegna
+ VICTORY_POINTS_3662: "波斯基亚沃"#Poschiavo
+ VICTORY_POINTS_11547: "弗兰肯塔尔"#Frankenthal
+ VICTORY_POINTS_563: "茨韦布吕肯"#Zweibrücken
+ VICTORY_POINTS_3574: "海德堡"#Heidelberg
+ VICTORY_POINTS_13502: "大乌姆施塔特"#Groß-Umstadt
+ VICTORY_POINTS_589: "达姆施塔特"
+ VICTORY_POINTS_13484: "埃尔巴赫"#Erbach
+ VICTORY_POINTS_13486: "黑彭海姆"#Heppenheim
+ VICTORY_POINTS_6594: "阿莎芬堡"
+ VICTORY_POINTS_13485: "米尔滕贝格"#Miltenberg
+ VICTORY_POINTS_3524: "吉森"#Gießen
+ VICTORY_POINTS_13503: "劳巴赫"#Laubach
+ VICTORY_POINTS_3397: "哈瑙"#Hanau
+ VICTORY_POINTS_13506: "弗里德贝格"#Reichsstadt Friedberg
+ VICTORY_POINTS_13504: "比尔施泰因"#Birstein
+ VICTORY_POINTS_13505: "埃尔森巴赫"#Eisenbach die rund drei Kilometer südlich von Lauterbach im Vogelsbergkreis am Nordostrand des Vogelsberges liegt
+ VICTORY_POINTS_13507: "阿尔斯费尔德"#Alsfeld
+ VICTORY_POINTS_11445: "富尔达"#Fulda
+ VICTORY_POINTS_9524: "黑斯费尔德"#Hersfeld
+ VICTORY_POINTS_6444: "下卡岑埃尔恩博根"#Nieder Katzenelnbogen
+ VICTORY_POINTS_13510: "乌辛根"#Usingen
+ VICTORY_POINTS_13511: "魏尔堡"#Weilburg
+ VICTORY_POINTS_13509: "韦茨拉尔"#Wetzlar
+ VICTORY_POINTS_9547: "布劳恩费尔斯"#Braunfels
+ VICTORY_POINTS_13508: "伦克尔"#Runkel
+ VICTORY_POINTS_9486: "迪伦堡"#Dillenburg
+ VICTORY_POINTS_13512: "比登科普夫"#Biedenkopf
+ VICTORY_POINTS_6549: "马尔堡"#Marburg
+ VICTORY_POINTS_13513: "埃施韦格"#Eschwege
+ VICTORY_POINTS_13515: "哈姆"#Hamm
+ VICTORY_POINTS_3398: "代特莫尔德"#Detmold
+ VICTORY_POINTS_13516: "居特斯洛"#Gütersloh
+ VICTORY_POINTS_11431: "阿罗尔森"#Arolsen
+ VICTORY_POINTS_11431: "帕德博恩"
+ VICTORY_POINTS_13517: "米尔豪森"#Mühlhausen
+ VICTORY_POINTS_6513: "哥廷根"#Göttingen
+ VICTORY_POINTS_11468: "杜德施塔特"#Duderstadt
+ VICTORY_POINTS_6622: "吕丁豪森"#Lüdinghausen
+ VICTORY_POINTS_11233: "奥斯纳布吕克"#Osnabrück
+ VICTORY_POINTS_9509: "明登"#Minden
+ VICTORY_POINTS_405: "威悉河畔宁堡"#Nienburg
+ VICTORY_POINTS_6263: "哈尔堡"#Harburg
+ VICTORY_POINTS_247: "阿勒尔河畔费尔登"#Verden (Aller)
+ VICTORY_POINTS_3234: "策勒"#Celle
+ VICTORY_POINTS_3271: "吉夫霍恩"#Gifhorn
+ VICTORY_POINTS_3395: "比克堡"#Bückeburg
+ VICTORY_POINTS_526: "希尔德斯海姆"#Hildesheim
+ VICTORY_POINTS_13519: "莱讷河畔阿尔费尔德"#Alfeld (Leine)
+ VICTORY_POINTS_13525: "黑尔戈兰"
+ VICTORY_POINTS_309: "代尔门霍斯特"#Delmenhorst
+ VICTORY_POINTS_13524: "克尼普豪森"#Kniphausen
+ VICTORY_POINTS_374: "奥滕多夫"#Otterndorf
+ VICTORY_POINTS_6218: "布尔格多夫"#Burgdorf
+ VICTORY_POINTS_9238: "丹嫩贝格"#Dannenberg
+ VICTORY_POINTS_6325: "吕讷堡"
+ VICTORY_POINTS_6298: "于尔岑"#Uelzen
+ VICTORY_POINTS_9264: "沙尔内贝克"#Scharnebeck
+ VICTORY_POINTS_6349: "施塔德"#Stade
+ VICTORY_POINTS_13526: "戈斯拉尔"#Goslar
+ VICTORY_POINTS_13518: "哈茨山麓奥斯特罗德"#Osterode am Harz
+ VICTORY_POINTS_9375: "哈尔伯施塔特"#Halberstadt
+ VICTORY_POINTS_13520: "不伦瑞克"#Braunschweig
+ VICTORY_POINTS_11493: "霍尔茨明登"#Holzminden
+ VICTORY_POINTS_13521: "诺德豪森"#Nordhausen
+ VICTORY_POINTS_11402: "布兰肯堡"#Blankenburg
+ VICTORY_POINTS_9456: "布尔格"#Burg
+ VICTORY_POINTS_3499: "德绍"#Dessau
+ VICTORY_POINTS_13522: "曼斯费尔德"#Mansfeld
+ VICTORY_POINTS_13527: "哈雷"#Halle
+ VICTORY_POINTS_13523: "桑格豪森"#Sangerhausen
+ VICTORY_POINTS_425: "阿尔施泰特"#Allstedt
+ VICTORY_POINTS_6487: "梅泽堡"#Merseburg
+ VICTORY_POINTS_6582: "萨勒河畔瑙姆堡"#Naumburg (Saale)
+ VICTORY_POINTS_13530: "维斯马"
+ VICTORY_POINTS_3368: "埃尔姆斯霍恩"#Elmshorn
+ VICTORY_POINTS_6257: "新明斯特"#Neumünster
+ VICTORY_POINTS_13533: "石勒苏益格"#Schleswig
+ VICTORY_POINTS_3231: "胡苏姆"#Husum
+ VICTORY_POINTS_13528: "埃肯弗德"#Eckernförde
+ VICTORY_POINTS_11366: "尼比尔"#Niebüll
+ VICTORY_POINTS_332: "岑讷"#Tondern
+ VICTORY_POINTS_11251: "哈泽斯莱乌"#Hadersleben
+ VICTORY_POINTS_13532: "格赖夫斯瓦尔德"#Greifswald
+ VICTORY_POINTS_13535: "代明"#Demmin
+ VICTORY_POINTS_13531: "格雷沃斯米伦"#Grevesmühlen
+ VICTORY_POINTS_9294: "什未林"#Schwerin
+ VICTORY_POINTS_11276: "帕尔希姆"#Parchim
+ VICTORY_POINTS_293: "居斯特罗"#Güstrow
+ VICTORY_POINTS_268: "瓦伦"#Waren
+ VICTORY_POINTS_3258: "新勃兰登堡"#Neubrandenburg
+ VICTORY_POINTS_6661: "松德里奥"#Sondrio
+ VICTORY_POINTS_11587: "博尔米奥"#Bormio
+ VICTORY_POINTS_13539: "奥得河畔克罗森"#Crossen an der Oder
+ VICTORY_POINTS_13540: "施奈德米尔"#Schneidemühl
+ VICTORY_POINTS_13544: "弗劳施塔特"#Fraustadt
+ VICTORY_POINTS_13542: "瓦尔特河畔施韦林"#Schwerin an der Warthe
+ VICTORY_POINTS_13543: "梅瑟里茨"#Meseritz
+ VICTORY_POINTS_506: "拜滕"#Beuthen
+ VICTORY_POINTS_9457: "拉蒂博尔"#Ratibor
+ VICTORY_POINTS_13548: "勒奥布许茨"#Leobschütz
+ VICTORY_POINTS_13549: "卢布利尼茨"#Lublinitz
+ VICTORY_POINTS_479: "上施莱辛诺伊施塔特"#Neustadt in Oberschlesien
+ VICTORY_POINTS_3485: "格拉茨"#Glatz

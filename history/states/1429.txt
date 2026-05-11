@@ -1,0 +1,29 @@
+state={
+	id=1429
+	name="STATE_1429"
+	manpower = 104057
+	resources={
+	}
+	
+	state_category = pastoral
+
+	history={
+		owner = KOL
+		add_core_of = KOL
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			13516 2
+		}
+	}
+
+	provinces={
+       13516 
+	}
+	
+	
+
+	local_supplies=0.0 
+}

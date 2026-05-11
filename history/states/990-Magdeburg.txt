@@ -2,20 +2,20 @@
 state={
 	id=990
 	name="STATE_990"
-	manpower = 665029
+	manpower = 235029
 
 	state_category = rural
 
 
 	history={
 		owner = MAG
+		add_core_of = MAG
 		victory_points = {
-			3522 5 
+			3522 6
 		}
 		buildings = {
 			infrastructure = 4
 		}
-		add_core_of = MAG
 	}
 
 	provinces={

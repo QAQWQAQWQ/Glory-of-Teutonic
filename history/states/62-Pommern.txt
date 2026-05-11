@@ -11,7 +11,7 @@ state={
 		owner = POM
 		add_core_of = POM
 		victory_points = {
-			6282 5
+			6282 12
 		}
 		buildings = {
 			infrastructure = 3

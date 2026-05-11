@@ -1,0 +1,29 @@
+state={
+	id=1434
+	name="STATE_1434"
+	manpower = 101057
+	resources={
+	}
+	
+	state_category = pastoral
+
+	history={
+		owner = HAN
+		add_core_of = HAN
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			9509 4
+		}
+	}
+
+	provinces={
+       9509
+	}
+	
+	
+
+	local_supplies=0.0 
+}

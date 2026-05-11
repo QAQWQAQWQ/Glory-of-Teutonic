@@ -4,7 +4,7 @@ state={
 	name="STATE_55"
 	manpower = 598235
 
-	state_category = city
+	state_category = large_town
 
 	history={
 		owner = HEK
@@ -15,12 +15,12 @@ state={
 			industrial_complex = 2
 		}
 		victory_points = {
-			564 3
+			564 8
 		}
 	}
 
 	provinces={
-		564 3397 9524 11445
+		564
 	}
 
 	local_supplies=15.0 

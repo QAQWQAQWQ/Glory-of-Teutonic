@@ -1,7 +1,7 @@
 state={
 	id=980
 	name="STATE_980"
-	manpower = 236353
+	manpower = 336353
 
 
 	state_category = town
@@ -10,11 +10,13 @@ state={
 		owner = HAS
 		add_core_of = HAS
 		victory_points = {
-			11305 5
+			11305 8
 		}
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
+			dockyard = 1
+			industrial_complex = 1
 			11305 = {
 				naval_base = 6
 

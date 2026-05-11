@@ -1,0 +1,30 @@
+
+state={
+	id=1419
+	name="STATE_1419"
+	manpower = 217214
+	resources={
+	}
+	
+	state_category = rural
+
+	history={
+		owner = NAS
+		add_core_of = NAS
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			13510 2
+		}
+	}
+
+	provinces={
+       13510
+	}
+	
+	
+
+	local_supplies=0.0 
+}

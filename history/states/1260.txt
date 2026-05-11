@@ -1,13 +1,13 @@
 state={
 	id=1260
 	name="STATE_1260"
-	manpower = 188467
+	manpower = 418467
 	
-	state_category = pastoral
+	state_category = town
 
 	history={
 		victory_points = {
-			13437 3
+			13437 5
 		}
 		owner = CLE
 		add_core_of = CLE
@@ -19,6 +19,6 @@ state={
 	}
 
 	provinces={
-        13437
+        13437 13514
 	}
 }

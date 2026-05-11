@@ -3,7 +3,7 @@ state={
 	id=848
 	name="STATE_848"
 	manpower = 154354
-	state_category = rural
+	state_category = town
 	history={
 		owner = HAB
 		add_core_of = HAB
@@ -12,7 +12,7 @@ state={
 			industrial_complex = 1
 		}
 		victory_points = {
-			6678 1
+			6678 4
 		}
 	}
 	provinces={

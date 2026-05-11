@@ -2,20 +2,23 @@
 state={
 	id=1036
 	name="STATE_1036"
-	manpower = 198235
+	manpower = 319235
 
-	state_category = rural
+	state_category = town
 
 	history={
-		owner = HED
-		add_core_of = HED
+		owner = HEK
+		add_core_of = HEK
 		buildings = {
 			infrastructure = 4
+		}
+		victory_points = {
+			6549 5
 		}
 	}
 
 	provinces={
-		6549 3524
+		6549 
 	}
 
 	local_supplies=0.0 

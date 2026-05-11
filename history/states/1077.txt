@@ -1,7 +1,7 @@
 state={
 	id=1077
 	name="STATE_1077"
-	manpower = 145467
+	manpower = 545467
 	
 	state_category = town
 
@@ -9,7 +9,7 @@ state={
 		owner = MUN
 		add_core_of = MUN
 		victory_points = {
-			 9281 1
+			 9281 5
 		}
 		buildings = {
 			infrastructure = 3

@@ -1,0 +1,24 @@
+
+state={
+	id=1398
+	name="STATE_1398"
+	manpower = 8770
+	resources={
+	}
+	state_category = wasteland
+
+	history={
+		owner = HAB
+		add_core_of = HAB
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 9600 1 }
+	}
+
+	provinces={
+       9600
+	}
+
+	local_supplies=0.0 
+}
