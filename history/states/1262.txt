@@ -19,7 +19,7 @@ state={
 	}
 
 	provinces={
-         9574 11519 
+         9574 11519 13592
 	}
 	manpower=2981300
 	state_category=city

@@ -13,8 +13,8 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		owner = MAG
-		add_core_of = MAG
+		owner = SAX
+		add_core_of = SAX
 	}
 
 	provinces={

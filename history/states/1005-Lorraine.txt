@@ -12,6 +12,9 @@ state={
 	history={
 		owner = LOR
 		victory_points = { 9559 10 }
+		victory_points = {
+			3560 1
+		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
@@ -21,7 +24,7 @@ state={
 	}
 
 	provinces={
-        3629 9559 11502 
+        13582 3560 13581 13583 3629 9559 11502 
 	}
 
 	local_supplies=14.0 

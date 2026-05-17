@@ -7,12 +7,18 @@ state={
 		owner = TEU
 		add_core_of = TEU
 		victory_points = {
-			3152 5 
+			3152 14
+		}
+		victory_points = {
+			496 1
+		}
+		victory_points = {
+			11426 2
 		}
 		buildings = {
 			infrastructure = 3 #was: 5
 			arms_factory = 1
-			industrial_complex = 3
+			industrial_complex = 2
 			3152 = {
 				naval_base = 3
 				coastal_bunker = 1
@@ -24,9 +30,9 @@ state={
 	}
 
 	provinces={
-		496 567 3152 11426 
+		496 3152 11426
 	}
-	manpower=275220
+	manpower=875220
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=city
 }

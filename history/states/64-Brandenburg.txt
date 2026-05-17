@@ -2,7 +2,7 @@
 state={
 	id=64
 	name="STATE_64"
-	manpower = 1765029
+	manpower = 1065029
 
 	state_category = city
 
@@ -14,10 +14,22 @@ state={
 			infrastructure = 4
 
 		}
+		victory_points = {
+			9496 8
+		}
+		victory_points = {
+			13553 5
+		}
+		victory_points = {
+			3312 1
+		}
+		victory_points = {
+			3207 2
+		}
 	}
 
 	provinces={
-		375 3312 3207 3367 9496 11219 11444 11505 
+		13553 375 3312 3207 3367 9496 11219 11444 11505 
 	}
 
 	local_supplies=0.0 

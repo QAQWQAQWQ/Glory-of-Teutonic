@@ -1,0 +1,27 @@
+
+state={
+	id=1519
+	name="STATE_1519"
+	manpower = 40721
+	resources={
+	}
+	
+	state_category = wasteland
+
+	history={
+		owner = TEU
+		add_core_of = TEU
+		victory_points = {
+			13575 1
+		}
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		13575
+	}
+
+	local_supplies=0.0 
+}

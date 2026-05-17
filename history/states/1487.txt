@@ -1,0 +1,29 @@
+
+state={
+	id=1487
+	name="STATE_1487"
+	manpower = 213213
+	resources={
+	}
+	
+	state_category = rural
+
+	
+	history={
+		owner = CRB
+		add_core_of = CRB
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			9535 5
+		}
+	}
+
+	provinces={
+         9535 13557
+	}
+
+	local_supplies=0.0 
+}

@@ -2,22 +2,24 @@
 state={
 	id=807
 	name="STATE_807"
-	manpower = 713370
+	manpower = 413370
 	
-	state_category = city
+	state_category = town
 	history={
 		owner = TEU
 		add_core_of = TEU
 		victory_points = {
-			9263 5
+			9263 1
 		}
 		victory_points = {
-			3295 5
+			3324 8
+		}
+		victory_points = {
+			389 1
 		}
 		buildings = {
 			infrastructure = 3 #was: 6
-			arms_factory = 2
-			industrial_complex = 1
+			arms_factory = 1
 			air_base = 2
 			9263 = {
 				naval_base = 1
@@ -26,7 +28,7 @@ state={
 	}
 
 	provinces={
-		389 3295 3324 6347 9263 13545
+		389 3324 9263 13545
 	}
 
 	local_supplies=0.0 

@@ -1,0 +1,29 @@
+
+state={
+	id=1490
+	name="STATE_1490"
+	manpower = 403370
+	
+	state_category = town
+	history={
+		owner = TEU
+		add_core_of = TEU
+		victory_points = {
+			3295 8
+		}
+		victory_points = {
+			6347 1
+		}
+		buildings = {
+			infrastructure = 3 #was: 6
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+		6347 3295
+	}
+
+	local_supplies=0.0 
+}

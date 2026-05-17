@@ -16,8 +16,8 @@ state=
 		victory_points = {
 			3583 5
 		}
-		owner = HAB
-		add_core_of = HAB
+		owner = CRB
+		add_core_of = CRB
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1

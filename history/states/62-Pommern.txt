@@ -8,7 +8,8 @@ state={
 	state_category = large_town
 
 	history={
-		owner = POM
+		owner = BRN
+		add_core_of = BRN
 		add_core_of = POM
 		victory_points = {
 			6282 12

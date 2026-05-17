@@ -2,10 +2,19 @@
 state={
 	id=984
 	name="STATE_984"
-	manpower = 48108
-	state_category = town
+	manpower = 208108
+	state_category = rural
 
 	history={
+		victory_points = {
+			11386 1
+		}
+		victory_points = {
+			266 1
+		}
+		victory_points = {
+			9327 1
+		}
 		owner = TEU
 		add_core_of = TEU
 		

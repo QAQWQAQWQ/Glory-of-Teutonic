@@ -4,7 +4,7 @@
  VICTORY_POINTS_692: "慕尼黑"
  VICTORY_POINTS_3512: "埃森"
  VICTORY_POINTS_9347: "汉堡"
- VICTORY_POINTS_9570: "布雷斯劳"
+ VICTORY_POINTS_552: "布雷斯劳"
  VICTORY_POINTS_241: "耶佛尔"#Jever
  VICTORY_POINTS_321: "罗斯托克"#Rostock
  VICTORY_POINTS_514: "德累斯顿"
@@ -193,10 +193,9 @@
  VICTORY_POINTS_3137_SWE: "塔默福什"
  VICTORY_POINTS_9206: "维普里"
  VICTORY_POINTS_9206_SWE: "维堡"
- VICTORY_POINTS_3152: "塔林"
- VICTORY_POINTS_9221: "塔尔图"
+ VICTORY_POINTS_3152: "雷瓦尔"#Reval
+ VICTORY_POINTS_6408: "多尔帕特"#Dorpat
  VICTORY_POINTS_9340: "里加"
- VICTORY_POINTS_310: "陶格夫匹尔斯"
  VICTORY_POINTS_6296: "考纳斯"
  VICTORY_POINTS_9483: "希奥利艾"
  VICTORY_POINTS_6103: "伦敦"
@@ -224,7 +223,7 @@
  VICTORY_POINTS_306: "斯摩棱斯克"
  VICTORY_POINTS_413: "沃罗涅日"
  VICTORY_POINTS_418: "哈尔科夫"
- VICTORY_POINTS_957: "迪奥斯特塔特" #Die östlichste Stadt
+ VICTORY_POINTS_957: "迪奥斯特塔特"#Die östlichste Stadt
  VICTORY_POINTS_1278: "乌法"
  VICTORY_POINTS_1459: "塔什干"
  VICTORY_POINTS_1591: "阿拉木图"
@@ -719,8 +718,7 @@
  VICTORY_POINTS_6464:  "普莱斯"#Pleß
  VICTORY_POINTS_11467: "格莱维茨"
  VICTORY_POINTS_9511: "奥珀恩"#Oppeln
- VICTORY_POINTS_552: "利格尼茨"
- VICTORY_POINTS_3545: "瓦尔登堡"
+ VICTORY_POINTS_6595: "莱格尼茨"#Liegnitz
  VICTORY_POINTS_11430: "凯尔采"
  VICTORY_POINTS_3458: "拉多姆"
  VICTORY_POINTS_562: "奥斯特罗维茨"
@@ -741,9 +739,9 @@
  VICTORY_POINTS_402: "谢德尔采"
  VICTORY_POINTS_442: "塔尔努夫"
  VICTORY_POINTS_3295: "托伦"
- VICTORY_POINTS_279: "比得哥什"
+ VICTORY_POINTS_279: "布伦贝格"#Bromberg
  VICTORY_POINTS_6314: "帕兰加"
- VICTORY_POINTS_9262: "利耶帕亚"
+ VICTORY_POINTS_9262: "格罗宾"#Grobin
  VICTORY_POINTS_9289: "莫吉廖夫"
  VICTORY_POINTS_3350: "博布鲁伊斯克"
  VICTORY_POINTS_11313: "萨利霍尔斯克"
@@ -770,10 +768,12 @@
  VICTORY_POINTS_11432: "奥西格"
  VICTORY_POINTS_11401: "利贝雷茨"
  VICTORY_POINTS_3473: "屈斯特林"
+ VICTORY_POINTS_444: "施维布斯"#Schwiebus
  VICTORY_POINTS_9388: "施特拉尔松德"#Stralsund
  VICTORY_POINTS_11305: "拉策堡"
  VICTORY_POINTS_11331: "吕贝克"
- VICTORY_POINTS_11372: "克斯林"
+ VICTORY_POINTS_11372: "科尔贝格"#Kolberg
+ VICTORY_POINTS_11343: "施托尔普"#Stolp
  VICTORY_POINTS_9606: "泰梅什瓦尔"#Temesvár
  VICTORY_POINTS_619: "诺维萨德"
  VICTORY_POINTS_6983: "巴尼亚卢卡"
@@ -1014,19 +1014,17 @@
  VICTORY_POINTS_7597: "克孜勒奥尔达"
  VICTORY_POINTS_7341: "阿克托别"
  VICTORY_POINTS_1517: "曼吉斯套"
- VICTORY_POINTS_185: "库雷萨雷"
- VICTORY_POINTS_6222: "叶尔加瓦"
- VICTORY_POINTS_3255: "叶卡布皮尔斯"
- VICTORY_POINTS_222: "雷泽克内"
- VICTORY_POINTS_10493: "瓦尔米耶拉"
- VICTORY_POINTS_3296: "文茨皮尔斯"
+ VICTORY_POINTS_185: "索内堡"#Soneburg
+ VICTORY_POINTS_6222: "米陶"#Mitau
+ VICTORY_POINTS_10493: "泽格沃尔德"#Segewold
+ VICTORY_POINTS_3296: "温道"#Windau
  VICTORY_POINTS_11312: "马里扬泊列"
  VICTORY_POINTS_9357: "乌克梅尔盖"
  VICTORY_POINTS_6229: "帕内韦日斯"
- VICTORY_POINTS_592: "沃鲁"
- VICTORY_POINTS_4640: "纳尔瓦"
- VICTORY_POINTS_11127: "拉克韦雷"
- VICTORY_POINTS_3174: "佩尔努"
+ VICTORY_POINTS_592: "诺伊豪森"#Neuhausen
+ VICTORY_POINTS_4640: "纳尔瓦"#Narva
+ VICTORY_POINTS_11443: "韦森贝格"#Wesenberg
+ VICTORY_POINTS_3174: "阿尔特-佩尔瑙"#Alt-Pernau
  VICTORY_POINTS_422: "科韦利"
  VICTORY_POINTS_9494: "扎莫希奇"
  VICTORY_POINTS_7588: "查尔斯顿"
@@ -1394,7 +1392,7 @@
  VICTORY_POINTS_13437: "克莱韦"#Kleve
  VICTORY_POINTS_9443: "安斯伯格"#Arnsburg
  VICTORY_POINTS_336: "奥尔登堡"
- VICTORY_POINTS_9444: "布容"#Bouillon
+ VICTORY_POINTS_9444: "布永"#Bouillon
  VICTORY_POINTS_6500: "格德司"#Guelders
  VICTORY_POINTS_13438: "亚琛"
  VICTORY_POINTS_11949: "岩剑"
@@ -1705,3 +1703,116 @@
  VICTORY_POINTS_13549: "卢布利尼茨"#Lublinitz
  VICTORY_POINTS_479: "上施莱辛诺伊施塔特"#Neustadt in Oberschlesien
  VICTORY_POINTS_3485: "格拉茨"#Glatz
+ VICTORY_POINTS_3572: "萨根"#Sagan
+ VICTORY_POINTS_3438: "格洛高"#Glogau
+ VICTORY_POINTS_13552: "贝乌腾"#Beuthen
+ VICTORY_POINTS_11517: "亚乌尔"#Jawor
+ VICTORY_POINTS_9470: "沃劳"#Wohlau
+ VICTORY_POINTS_13550: "厄尔斯"#Oels
+ VICTORY_POINTS_6534: "施韦德尼茨"#Schweidnitz
+ VICTORY_POINTS_6462: "纳姆斯劳"#Namslau
+ VICTORY_POINTS_9570: "布里格"#Brieg
+ VICTORY_POINTS_6512: "尼萨"#Neisse
+ VICTORY_POINTS_3545: "明斯特贝格"#Münsterberg
+ VICTORY_POINTS_3283: "瓦尔滕贝格"#Wartenberg
+ VICTORY_POINTS_13551: "米利茨"#Militsch
+ VICTORY_POINTS_3510: "特拉亨贝格"#Trachenberg
+ VICTORY_POINTS_11545: "托尔高"#Torgau
+ VICTORY_POINTS_6441: "维滕贝格"#Wittenberg
+ VICTORY_POINTS_9471: "普劳恩"#Plauen
+ VICTORY_POINTS_11481: "迈森"#Meißen
+ VICTORY_POINTS_13558: "开姆尼茨"#Chemnitz
+ VICTORY_POINTS_6559: "弗赖贝格"#Freiberg
+ VICTORY_POINTS_13554: "尤特尔博格"#Jüterbog
+ VICTORY_POINTS_3514: "包岑"#Bautzen
+ VICTORY_POINTS_9535: "格尔利茨"#Görlitz
+ VICTORY_POINTS_11415: "科特布斯"#Cottbus
+ VICTORY_POINTS_9496: "奥得河畔法兰克福"#Frankfurt an der Oder
+ VICTORY_POINTS_537: "巴瓦尔德"#Bärwalde
+ VICTORY_POINTS_6236: "兰茨贝格"#Landsberg
+ VICTORY_POINTS_6334: "沃林"#Wolin
+ VICTORY_POINTS_13553: "勃兰登堡"#Brandenburg
+ VICTORY_POINTS_3312: "普伦茨劳"#Prenzlau
+ VICTORY_POINTS_3207: "埃贝尔斯瓦尔德"#Eberswalde
+ VICTORY_POINTS_13559: "奥舍斯莱本"#Oschersleben
+ VICTORY_POINTS_3380: "埃尔宾"#Elbing
+ VICTORY_POINTS_13537: "玛丽安堡"#Marienburg
+ VICTORY_POINTS_6402: "布劳恩斯堡"#Braunsber
+ VICTORY_POINTS_11245: "赫尔斯贝格"#Hellsberg
+ VICTORY_POINTS_9263: "克尔特豪斯"#Kerthaus
+ VICTORY_POINTS_389: "迪尔绍"#Dirschau
+ VICTORY_POINTS_3324: "格劳登茨"#Graudenz
+ VICTORY_POINTS_6347: "施特拉斯堡"#Strasburg
+ VICTORY_POINTS_9346: "奥斯特rode"#Osterode
+ VICTORY_POINTS_9398: "奥尔特尔斯堡"#Ortelsburg
+ VICTORY_POINTS_3351: "普鲁士荷兰"#Preußisch Holland
+ VICTORY_POINTS_13536: "罗森堡"#Rosenburg
+ VICTORY_POINTS_9372: "约翰尼斯堡"#Johannisburg
+ VICTORY_POINTS_266: "拉斯滕堡"#Rastenburg
+ VICTORY_POINTS_13538: "海利根拜尔"#Heiligenbeil
+ VICTORY_POINTS_11265: "皮劳"#Pilau
+ VICTORY_POINTS_395: "因斯特堡"#Insterburg
+ VICTORY_POINTS_348: "提尔西特"#Tilsit
+ VICTORY_POINTS_9327: "戈尔达普"#Goldap
+ VICTORY_POINTS_281: "皮尔卡伦"#Pillkallen
+ VICTORY_POINTS_3384: "古坦嫩"#Guttinnen
+ VICTORY_POINTS_243: "伊诺夫罗茨瓦夫"#Inowrocław
+ VICTORY_POINTS_3381: "格涅森"#Gnesen
+ VICTORY_POINTS_17: "波森"
+ VICTORY_POINTS_11515: "科宁"#Konin
+ VICTORY_POINTS_6322: "皮尔滕"#Pilten
+ VICTORY_POINTS_567: "哈普萨尔"#Hapsal
+ VICTORY_POINTS_13561: "阿伦斯堡"#Arensburg
+ VICTORY_POINTS_9317: "伦姆萨尔"#Lemsal
+ VICTORY_POINTS_11302: "罗讷堡"#Ronneburg
+ VICTORY_POINTS_10323: "科肯胡森"#Kokenhusen
+ VICTORY_POINTS_83: "莱阿尔"#Leal
+ VICTORY_POINTS_13568: "诺伊施洛斯"#Neuschloss
+ VICTORY_POINTS_13570: "托尔斯堡"#Tolsburg
+ VICTORY_POINTS_3074: "菲克尔"#Fickel
+ VICTORY_POINTS_13560: "洛德堡"#Schloß Lode
+ VICTORY_POINTS_496: "安根"#Angern
+ VICTORY_POINTS_11426: "费格费尔"#Fegefeuer 炼狱之火
+ VICTORY_POINTS_13562: "齐劳堡"#Schloß Zierau
+ VICTORY_POINTS_11246: "施伦登"#Schrunden
+ VICTORY_POINTS_9240: "大罗普"#Groß-Roop
+ VICTORY_POINTS_7482: "克罗伊茨堡"#Kreutzburg
+ VICTORY_POINTS_319: "马林豪森"#Marienhausen
+ VICTORY_POINTS_11222: "卢班"#Lubahn
+ VICTORY_POINTS_9221: "瓦尔贝克"#Warbecke
+ VICTORY_POINTS_9485: "安岑"#Anzen
+ VICTORY_POINTS_13566: "达伦堡"#Schloß Dahlen
+ VICTORY_POINTS_13565: "杜纳明德"#Dünamünde
+ VICTORY_POINTS_11057: "博尔霍尔姆"#Borchholm
+ VICTORY_POINTS_9079: "魏森施泰因"#Weissenstein
+ VICTORY_POINTS_13573: "塔尔克霍夫"#Talkhof
+ VICTORY_POINTS_3194: "戈尔丁根"#Goldingen
+ VICTORY_POINTS_3319: "阿尔斯万根"#Alswangen
+ VICTORY_POINTS_11291: "佩尔瑙"#Pernau
+ VICTORY_POINTS_6381: "费林"#Fellin
+ VICTORY_POINTS_6178: "上帕伦"#Oberpahlen
+ VICTORY_POINTS_308: "塔尔瓦斯特"#Tarwast
+ VICTORY_POINTS_6099: "莱乌泽骑士团堡"#Ordensburg Lais
+ VICTORY_POINTS_13574: "文登"#Wenden
+ VICTORY_POINTS_9501: "沃尔马尔"#Wolmar
+ VICTORY_POINTS_3388: "瓦尔克"#Walk
+ VICTORY_POINTS_13571: "卡尔库斯"#Karkus
+ VICTORY_POINTS_3298: "马林堡"#Marienburg(Alūksne)
+ VICTORY_POINTS_341: "罗西滕"#Rositten
+ VICTORY_POINTS_9275: "卢岑"#Ludsen
+ VICTORY_POINTS_310: "杜纳堡"#Dünaburg
+ VICTORY_POINTS_6459: "克拉斯劳"#Kreslau
+ VICTORY_POINTS_11358: "杜贝纳"#Dubbena
+ VICTORY_POINTS_3525: "坎道"#Kandau
+ VICTORY_POINTS_13578: "泽尔堡"#Selburg
+ VICTORY_POINTS_13567: "帕尔道加瓦"#Pardaugava
+ VICTORY_POINTS_13579: "巴巴特堡"#Schloß Babath
+ VICTORY_POINTS_6342: "多伯伦"#Dobeln
+ VICTORY_POINTS_13576: "图库姆"#Tuckum
+ VICTORY_POINTS_265: "鲍斯克"#Bauske
+ VICTORY_POINTS_13577: "于克斯屈尔"#Uexküll
+ VICTORY_POINTS_13575: "诺伊尔米伦"#Neuermühlen
+ VICTORY_POINTS_13590: "色当"#Sedan
+ VICTORY_POINTS_9418: "阿尔隆"#Arel
+ VICTORY_POINTS_3488: "奥伊彭"#Eupen
+ VICTORY_POINTS_6537: "巴施特内赫"#Baaschtnech

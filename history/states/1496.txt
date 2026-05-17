@@ -1,0 +1,32 @@
+
+state={
+	id=1496
+	name="STATE_1496"
+
+	history={
+		owner = TEU
+		add_core_of = TEU
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+		}
+		victory_points = {
+			6408 15
+		}
+		victory_points = {
+			592 5
+		}
+		victory_points = {
+			9485 1
+		}
+		victory_points = {
+			9221 1
+		}
+	}
+
+	provinces={
+		6408 9221 9485 592  
+	}
+	manpower=631204
+	state_category=large_town
+}

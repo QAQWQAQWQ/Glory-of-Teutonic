@@ -1,0 +1,29 @@
+state={
+	id=1488
+	name="STATE_1488"
+	manpower = 91011
+	resources={
+	}
+	
+	state_category = pastoral
+
+	history={
+		owner = MAG
+		add_core_of = MAG
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			13559 2
+		}
+	}
+
+	provinces={
+        13559
+	}
+	
+	
+
+	local_supplies=0.0 
+}

@@ -10,10 +10,11 @@ state={
 	state_category = rural
 
 	history={
-		owner = POM
+		owner = HAS
+		add_core_of = HAS
 		add_core_of = POM
 		victory_points = {
-			11372 3
+			11372 4
 		}
 		buildings = {
 			infrastructure = 3

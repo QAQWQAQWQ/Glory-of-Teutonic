@@ -2,18 +2,24 @@
 state={
 	id=970
 	name="STATE_970"
-	manpower = 750840
+	manpower = 550840
 	resources={
 		aluminium=8 # was: 24
 	}
 
-	state_category = city
+	state_category = town
 
 	history={
 		owner = TEU
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
+		}
+		victory_points = {
+			537 1
+		}
+		victory_points = {
+			6236 8
 		}
 		add_core_of = TEU
 	}

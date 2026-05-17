@@ -9,13 +9,22 @@ state={
 		owner = TEU
 		add_core_of = TEU
 		
+		victory_points = {
+			6375 7
+		}
+		victory_points = {
+			6402 1
+		}
+		victory_points = {
+			11245 1
+		}
 		buildings = {
 			infrastructure = 3
 		}
 	}
 
 	provinces={
-        6402 6375 11245 13537 3380
+        6402 6375 11245
 	}
 
 	local_supplies=12.0 

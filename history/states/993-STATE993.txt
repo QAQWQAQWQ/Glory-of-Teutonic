@@ -2,7 +2,7 @@
 state={
 	id=993
 	name="STATE_993"
-	manpower = 492576
+	manpower = 232576
 	resources={
 		steel=10
 	}
@@ -11,10 +11,13 @@ state={
 
 
 	history={
-		owner = HAB
-		add_core_of = HAB
+		owner = CRB
+		add_core_of = CRB
 		buildings = {
 			infrastructure = 4
+		}
+		victory_points = {
+			3514 5
 		}
 	}
 

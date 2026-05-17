@@ -1,0 +1,26 @@
+
+state={
+	id=1482
+	name="STATE_1482"
+	manpower = 53212
+	resources={
+	}
+	
+	state_category = wasteland
+	history={
+		owner = CRB
+		add_core_of = CRB
+		victory_points = {
+			3283 1
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+        3283 
+	}
+
+	local_supplies=0.0 
+}

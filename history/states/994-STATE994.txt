@@ -2,7 +2,7 @@
 state={
 	id=994
 	name="STATE_994"
-	manpower = 592576
+	manpower = 492576
 	resources={
 		steel=5
 	}
@@ -15,11 +15,14 @@ state={
 			infrastructure = 4
 			industrial_complex = 1
 		}
+		victory_points = {
+			6441 10
+		}
 		add_core_of = SAX
 	}
 
 	provinces={
-        6441 11545
+        6441 13555 13556
 	}
 
 	local_supplies=0.0 

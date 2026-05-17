@@ -45,10 +45,6 @@ set_autonomy = {
     autonomous_state = autonomy_hanse
 }
 set_autonomy = {
-    target = POM
-    autonomous_state = autonomy_hanse
-}
-set_autonomy = {
     target = HDK
     autonomous_state = autonomy_hanse
 }

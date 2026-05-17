@@ -1,0 +1,27 @@
+
+state={
+	id=1515
+	name="STATE_1515"
+	manpower = 150964
+	resources={
+	}
+	
+	state_category = pastoral
+
+	history={
+		owner = TEU
+		add_core_of = TEU
+		victory_points = {
+			 6342 5
+		}
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+         6342  
+	}
+
+	local_supplies=0.0 
+}

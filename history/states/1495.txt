@@ -1,0 +1,23 @@
+
+state={
+	id=1495
+	name="STATE_1495"
+
+	history={
+		owner = TEU
+		add_core_of = TEU
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			13561 2
+		}
+	}
+
+	provinces={
+		13561
+	}
+	manpower=40912
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

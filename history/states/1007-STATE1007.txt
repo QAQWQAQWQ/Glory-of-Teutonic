@@ -4,12 +4,14 @@ state={
 	name="STATE_1007"
 	manpower = 181300
 	
-	state_category = town
+	state_category = rural
 
 	history={
-		owner = LUX
-		add_core_of = LUX
-		victory_points = { 9444 1 }
+		owner = BRG
+		add_core_of = BRG
+		victory_points = {
+			9418 5
+		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -18,7 +20,7 @@ state={
 	}
 
 	provinces={
-       6537 9444 11407 9418
+       11407 9418
 	}
 
 	local_supplies=14.0 

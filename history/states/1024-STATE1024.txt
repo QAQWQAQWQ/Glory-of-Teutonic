@@ -10,7 +10,7 @@ state={
 		owner = NUR
 		add_core_of = NUR
 		victory_points = {
-			11544 10 
+			11544 15
 		}
 		buildings = {
 			infrastructure = 4

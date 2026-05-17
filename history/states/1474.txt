@@ -1,0 +1,28 @@
+
+state={
+	id=1474
+	name="STATE_1474"
+	manpower = 81112
+	resources={
+		steel=3
+		aluminium=3
+	}
+	
+	state_category =  pastoral
+	history={
+		owner = CRB
+		add_core_of = CRB
+		victory_points = {
+			13552 2
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+        13552 
+	}
+
+	local_supplies=0.0 
+}

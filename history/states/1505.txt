@@ -1,0 +1,27 @@
+
+state={
+	id=1505
+	name="STATE_1505"
+	manpower = 211120
+	resources={
+	}
+	
+	state_category = rural
+
+	history={
+		owner = TEU
+		add_core_of = TEU
+		victory_points = {
+			11291 5
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+        11291 13572 
+	}
+
+	local_supplies=0.0 
+}

@@ -11,12 +11,19 @@ state={
 	state_category = town
 
 	history={
-		owner = POM
+		owner = BRN
+		add_core_of = BRN
 		add_core_of = POM
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 			air_base = 3
+			6334 ={
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			6334 8
 		}
 	}
 

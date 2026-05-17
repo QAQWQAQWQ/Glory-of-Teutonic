@@ -20,11 +20,23 @@ state={
 		victory_points = {
 			3535 18
 		}
+		victory_points = {
+			9471 5
+		}
+		victory_points = {
+			13558 10
+		}
+		victory_points = {
+			11481 1
+		}
+		victory_points = {
+			6559 1
+		}
 		add_core_of = SAX
 	}
 
 	provinces={
-		3535 6559 9471 11481
+		3535 6559 9471 11481 13558
 	}
 
 	local_supplies=0.0 

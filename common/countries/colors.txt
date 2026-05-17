@@ -24,8 +24,8 @@ KOK = {
 	color_ui = rgb { 0 102 51 }
 }
 DCR = {
-	color = rgb { 204 204 0 }
-	color_ui = rgb { 204 204 0 }
+	color = rgb { 210 210 0 }
+	color_ui = rgb { 210 210 0 }
 }
 POD = {
 	color = rgb { 255 152 109 }
@@ -152,8 +152,8 @@ PRO = {
 	color_ui = rgb { 0 120 160 }
 }
 HAB = {
-	color = rgb { 194 198 215 }
-	color_ui = rgb { 255 255 255 }
+	color = rgb { 180 255 255 }
+	color_ui = rgb { 180 255 255 }
 }
 NAS = {
 	color = rgb { 20 20 255 }
@@ -1254,8 +1254,8 @@ PRE = {
 	color_ui = rgb { 160  160  160 }
 }
 SAX = {
-	color = rgb { 102 102 0 }
-	color_ui = rgb { 102 102 0 }
+	color = rgb { 0 102 0 }
+	color_ui = rgb { 0 102 0 }
 }
 HAN = {
 	color = rgb { 204 204 0 }
@@ -1479,7 +1479,7 @@ CHR = {
 	color_ui = rgb { 77 46 0 }
 }
 ITZ = {
-	color = rgb { 204 204 0 }
+	color = rgb { 102 102 0 }
 	color_ui = rgb { 102 102 0 }
 }
 NAH = {
@@ -1573,4 +1573,9 @@ ULM = {
 NOD = {
 	color = rgb { 254 204 204 }
 	color_ui = rgb { 254 204 204 }	
+}
+
+CRB = {
+	color = rgb { 190 190 0 }
+	color_ui = rgb { 190 190 0 }
 }

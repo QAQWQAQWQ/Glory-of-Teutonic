@@ -1,0 +1,30 @@
+
+state={
+	id=1504
+	name="STATE_1504"
+	manpower = 801120
+	resources={
+	}
+	
+	state_category = city
+
+	history={
+		owner = TEU
+		add_core_of = TEU
+		victory_points = {
+			3194 14
+		}
+		victory_points = {
+			3319 2
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+        3194 3319
+	}
+
+	local_supplies=0.0 
+}

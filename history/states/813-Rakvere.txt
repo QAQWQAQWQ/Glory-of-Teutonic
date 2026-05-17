@@ -7,15 +7,15 @@ state={
 		owner = TEU
 		add_core_of = TEU
 		victory_points = {
-			4640 1 #Narva
+			4640 10
 		}
 		victory_points = {
-			11127 1 #Rakvere
+			13568 1
 		}
 		buildings = {
 			infrastructure = 3 #was: 5
 			4640 = {
-				naval_base = 1
+				naval_base = 2
 
 			}
 
@@ -24,9 +24,8 @@ state={
 	}
 
 	provinces={
-		4640 6099 9079 11057 11127 11443 13127 
+		4640 13568
 	}
-	manpower=150560
-	buildings_max_level_factor=1.000
+	manpower=420560
 	state_category=town
 }

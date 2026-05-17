@@ -2,12 +2,31 @@
 state={
 	id=763
 	name="STATE_763"
-	manpower = 2140234
+	manpower = 1240234
 	state_category = city
 
 	history={
 		owner = TEU
 		add_core_of = TEU
+		victory_points = {
+			13538 1
+		}
+		victory_points = {
+			11265 1
+		}
+		victory_points = {
+			395 6
+		}
+		victory_points = {
+			348 8
+		}
+
+		victory_points = {
+			 3384 1
+		}
+		victory_points = {
+			281 1
+		}
 
 		buildings = {
 			infrastructure = 3 #was: 6
