@@ -6,12 +6,12 @@ state={
 		owner = BRG
 		add_core_of = BRG
 		victory_points = {
-			11519 10
+			9574 10
 		}
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
-			industrial_complex = 2
+			industrial_complex = 1
 			air_base = 1
 
 		}
@@ -19,10 +19,10 @@ state={
 	}
 
 	provinces={
-         9574 11519 13592
+         9574
 	}
-	manpower=2981300
-	state_category=city
+	manpower=481300
+	state_category=town
 
 	local_supplies=0.0 
 }

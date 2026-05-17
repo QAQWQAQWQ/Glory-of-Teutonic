@@ -1,0 +1,27 @@
+
+state={
+	id=1531
+	name="STATE_1531"
+	manpower = 91021
+	
+	state_category = pastoral
+	resources={
+		steel=1
+	}
+
+	history={
+		owner = LOR
+		add_core_of = LOR
+		victory_points = { 9559 2 }
+		buildings = {
+			infrastructure = 4
+
+		}
+	}
+
+	provinces={
+		9559 
+	}
+
+	local_supplies=14.0 
+}

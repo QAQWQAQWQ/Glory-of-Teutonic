@@ -1,0 +1,27 @@
+
+state={
+	id=1524
+	name="STATE_1524" #
+	manpower = 114300
+	
+	state_category = rural
+	resources={
+		steel=6
+	}
+
+	history={
+		owner = ALC
+		add_core_of = ALC
+		victory_points = { 6529 8 }
+		buildings = {
+			infrastructure = 4
+
+		}
+	}
+
+	provinces={
+		6529
+	}
+
+	local_supplies=14.0 
+}

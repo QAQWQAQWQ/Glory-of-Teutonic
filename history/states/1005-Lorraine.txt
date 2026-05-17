@@ -2,19 +2,16 @@
 state={
 	id=1005
 	name="STATE_1005" # ALorraine
-	manpower = 615600
+	manpower = 564600
 	
-	state_category = city
+	state_category = large_town
 	resources={
-		steel=10 #was 100 # was: 236
+		steel=6
 	}
 
 	history={
 		owner = LOR
-		victory_points = { 9559 10 }
-		victory_points = {
-			3560 1
-		}
+		victory_points = { 13583 12 }
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
@@ -24,7 +21,7 @@ state={
 	}
 
 	provinces={
-        13582 3560 13581 13583 3629 9559 11502 
+        13583 
 	}
 
 	local_supplies=14.0 

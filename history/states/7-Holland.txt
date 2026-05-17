@@ -9,13 +9,19 @@ state={
 		owner = BRG
 		add_core_of = BRG
 		victory_points = {
-			391 35
+			391 32
 		}
 		victory_points = {
 			3211 10 
 		}
 		victory_points = {
 			9498 20 
+		}
+		victory_points = {
+			68 8 
+		}
+		victory_points = {
+			3314 5
 		}
 		buildings = {
 			infrastructure = 3
@@ -34,6 +40,7 @@ state={
 
 		}
 
+		add_extra_state_shared_building_slots = 2
 	}
 
 	provinces={

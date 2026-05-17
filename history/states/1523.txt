@@ -1,0 +1,31 @@
+
+state={
+	id=1523
+	name="STATE_1523" # Alsace-Lorraine
+	manpower = 415600
+	
+	state_category = town
+	resources={
+		steel=10
+	}
+
+	history={
+		owner = HAB
+		add_core_of = HAB
+		add_core_of = ALC
+		victory_points = { 678 10 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			anti_air_building = 5
+			air_base = 5
+
+		}
+	}
+
+	provinces={
+		678
+	}
+
+	local_supplies=14.0 
+}

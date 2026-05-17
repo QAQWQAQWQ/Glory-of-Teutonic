@@ -1,0 +1,27 @@
+
+state={
+	id=1530
+	name="STATE_1530"
+	manpower = 61021
+	
+	state_category = wasteland
+	resources={
+		steel=1
+	}
+
+	history={
+		owner = LOR
+		add_core_of = LOR
+		victory_points = { 13582 1 }
+		buildings = {
+			infrastructure = 4
+
+		}
+	}
+
+	provinces={
+		13582 
+	}
+
+	local_supplies=14.0 
+}

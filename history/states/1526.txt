@@ -1,0 +1,27 @@
+
+state={
+	id=1526
+	name="STATE_1526" #
+	manpower = 389112
+	
+	state_category = town
+	resources={
+		steel=10
+	}
+
+	history={
+		owner = ALC
+		add_core_of = ALC
+		victory_points = { 549 8 }
+		buildings = {
+			infrastructure = 4
+
+		}
+	}
+
+	provinces={
+		549 
+	}
+
+	local_supplies=14.0 
+}

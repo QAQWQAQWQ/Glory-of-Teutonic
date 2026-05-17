@@ -2,9 +2,9 @@
 state={
 	id=1006
 	name="STATE_1006"
-	manpower = 417500
+	manpower = 807500
 	
-	state_category = town
+	state_category = city
 	
 	resources={
 		steel=5
@@ -14,21 +14,20 @@ state={
 		owner = LOR
 		add_core_of = LOR
 		victory_points = {
-			9642 5 
+			11516 15 
 		}
 		victory_points = {
-			11516 5 
+			521 4
 		}
 		buildings = {
+			arms_factory = 2
+			industrial_complex = 3
 			infrastructure = 4
 		}
 	}
 
 	provinces={
-        5291 521 11516 
-		 13584
-		13585 13586 13587 13588 13589
-		 11642
+        521 11516
 	}
 
 	local_supplies=0.0 

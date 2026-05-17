@@ -1,0 +1,27 @@
+
+state={
+	id=1525
+	name="STATE_1525" #
+	manpower = 109112
+	
+	state_category = pastoral
+	resources={
+		steel=4
+	}
+
+	history={
+		owner = ALC
+		add_core_of = ALC
+		victory_points = { 1346 2 }
+		buildings = {
+			infrastructure = 4
+
+		}
+	}
+
+	provinces={
+		1346 
+	}
+
+	local_supplies=14.0 
+}

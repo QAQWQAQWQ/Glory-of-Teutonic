@@ -12,6 +12,7 @@ state={
 	
 	history={
 		owner = KOL
+		add_core_of = KOL
 		victory_points = {
 			587 15 
 		}
@@ -22,11 +23,10 @@ state={
 			air_base = 3
 
 		}
-		add_core_of = KOL
 	}
 
 	provinces={
-		587 13591 
+		587 
 	}
 	local_supplies=0.0 
 }

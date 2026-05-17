@@ -1,0 +1,27 @@
+
+state={
+	id=1543
+	name="STATE_1543"
+	manpower = 130120
+	
+	state_category = pastoral
+	resources={
+	}
+
+	history={
+		owner = BRG
+		add_core_of = BRG
+		victory_points = { 11519 2 }
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+
+		}
+	}
+
+	provinces={
+		11519
+	}
+
+	local_supplies=14.0 
+}

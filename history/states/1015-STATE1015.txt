@@ -23,7 +23,7 @@ state={
 	provinces={
         11640
 	}
-	manpower=286854
+	manpower=386854
 
 	local_supplies=0.0 
 }

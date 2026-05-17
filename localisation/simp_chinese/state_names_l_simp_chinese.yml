@@ -4,7 +4,7 @@
  STATE_3: "伯尔尼"
  STATE_4: "下奥地利"
  STATE_5: "奥斯特罗德"#Osterode
- STATE_6: "佛兰德"
+ STATE_6: "布鲁塞尔"
  STATE_7: "荷兰"
  STATE_8: "卢森堡"
  STATE_9: "中波西米亚"
@@ -26,15 +26,15 @@
  STATE_25: "利穆赞"
  STATE_26: "奥弗涅"
  STATE_27: "勃艮第"
- STATE_28: "阿尔萨斯"
+ STATE_28: "斯特拉斯堡"#Straßburg
  STATE_29: "北部-上加莱"
  STATE_30: "卢瓦尔"
  STATE_31: "比利牛斯"
  STATE_32: "阿尔卑斯"
  STATE_33: "中南大区"
- STATE_34: "沙勒罗瓦"
+ STATE_34: "埃诺"#Henegouwen
  STATE_35: "布拉班特"
- STATE_36: "弗里斯兰"
+ STATE_36: "赫尔德兰"#Gelderland
  STATE_37: "西兰"
  STATE_38: "耶夫勒堡"
  STATE_39: "南蒂罗尔"
@@ -473,7 +473,7 @@
  STATE_461: "卡萨布兰卡"
  STATE_462: "马拉喀什"
  STATE_463: "阿拉斯加"
- STATE_464: "新斯科舍"
+ STATE_464: "新德伦特"
  STATE_465: "新弗里斯兰"
  STATE_466: "北魁北克"
  STATE_467: "曼尼托巴"
@@ -1019,8 +1019,8 @@
  STATE_1002:0 "格拉"
  STATE_1003: "尚贝里"
  STATE_1004: "瓦卢瓦"
- STATE_1005: "洛林"
- STATE_1006: "南希"
+ STATE_1005: "梅茨"#Metz
+ STATE_1006: "南锡"#Nancy
  STATE_1007: "瓦隆卢森堡"
  STATE_1008: "欧本-马尔梅迪"
  STATE_1009: "柏林"
@@ -1538,3 +1538,38 @@
  STATE_1520: "布永"#Bouillon
  STATE_1521: "色当"#Sedan
  STATE_1522: "巴施特内赫"#Baaschtnech
+ STATE_1523: "米尔豪森"#Mühlhausen
+ STATE_1524: "科尔马"#Colmar
+ STATE_1525: "明斯特"#Münster(Elsass)
+ STATE_1526: "哈根"#Hagenau
+ STATE_1527: "施莱茨"#Schlettstadt
+ STATE_1528: "斯特讷"#Stenay
+ STATE_1529: "迪登霍芬"#Diedenhofen
+ STATE_1530: "梅耶尔斯维希"#Mayersvich
+ STATE_1531: "博尔申"#Bolchen
+ STATE_1532: "圣阿沃尔德"#Sankt Avold
+ STATE_1533: "萨尔堡"#Saarburg
+ STATE_1534: "凡尔登"#Verdun
+ STATE_1535: "克莱蒙"#Clermont-en-Argonne
+ STATE_1536: "巴尔勒迪克"#Bar-le-Duc
+ STATE_1537: "图尔"#Toul
+ STATE_1538: "蓬阿穆松"#Pont-à-Mousson
+ STATE_1539: "布尔蒙"#Bourmont
+ STATE_1540: "布拉蒙特"#Blamont
+ STATE_1541: "米雷库尔"#Mirecourt
+ STATE_1542: "玛丽恩堡"#Mariembourg
+ STATE_1543: "斯帕"#Spa
+ STATE_1544: "乌得勒支"#Utrecht
+ STATE_1545: "梅尔斯"#Moers
+ STATE_1546: "泽兰"#Zeeland
+ STATE_1547: "泰尔讷曾"#Terneuzen
+ STATE_1548: "祖特芬"#Zutphen
+ STATE_1549: "格伦洛"#Groenlo
+ STATE_1550: "德伦特"#Drenthe
+ STATE_1551: "上艾瑟尔"#Overijssel
+ STATE_1552: "格罗宁根"#Groningen
+ STATE_1553: "弗里斯兰"#Friesland
+ STATE_1554: "安特卫普"#Antwerpen
+ STATE_1555: "佛兰德"#Flandes
+ STATE_1556: "阿图瓦"#Artois
+ STATE_1557: "康布雷"#Cambrai

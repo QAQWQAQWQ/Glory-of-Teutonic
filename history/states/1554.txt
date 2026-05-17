@@ -1,0 +1,35 @@
+
+state={
+	id=1554
+	name="STATE_1554"
+	manpower = 1207700
+	resources={
+		steel=10 # was: 48
+	}
+	
+	state_category = large_city
+
+	history={
+		owner = BRG
+		add_core_of = BRG
+
+		victory_points = { 13595 30 }
+		victory_points = { 11419 5 }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 1
+			13595 = {
+				naval_base = 8
+			}
+		}
+		
+		
+	}
+
+	provinces={
+		13595 11419 
+	}
+
+	local_supplies=0.0 
+}
