@@ -9,7 +9,8 @@ state={
 	state_category = town
 
 	history={
-		owner = PFA
+		owner = BAU
+		add_core_of = BAU
 		add_core_of = PFA
 		buildings = {
 			infrastructure = 4

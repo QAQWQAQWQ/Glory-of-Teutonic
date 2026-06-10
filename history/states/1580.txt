@@ -1,0 +1,28 @@
+
+state={
+	id=1580
+	name="STATE_1580"
+	manpower = 111090
+	resources={
+		steel=1.000
+		aluminium=1.000
+	}
+	
+	
+	state_category = pastoral
+
+	history={
+		victory_points = {
+			6762 3
+		}
+		owner = ABT
+		add_core_of = ABT
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		 6762 9710 
+	}
+}

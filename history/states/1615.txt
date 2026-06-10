@@ -1,0 +1,30 @@
+state = {
+	id = 1615
+	name = "STATE_1615"
+	resources = {
+		steel=5
+		aluminium=2
+	}
+	
+	state_category = town
+
+	history = {
+		owner = VNI
+		add_core_of = VNI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = { #Padova
+			3604 12
+		}
+	}
+
+	provinces = {
+       3604 
+	}
+	manpower = 503151
+	buildings_max_level_factor = 0.000
+
+	local_supplies = 0.0 
+}

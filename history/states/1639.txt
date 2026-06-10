@@ -1,0 +1,25 @@
+
+state={
+	id=1639
+	name="STATE_1639"
+	manpower = 412311
+	state_category = rural
+	resources={
+		tungsten=2
+	}
+
+	history={
+		owner = NTA
+		add_core_of = NTA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		7820 1262 4877 12578 10693 12673 1832 12124 1690 
+		1857 4838 12676 1854 11712
+	}
+
+	local_supplies=0.0 
+}

@@ -2,29 +2,47 @@
 state={
 	id=17
 	name="STATE_17" # Lorraine
-	manpower = 1517500
+	manpower = 1817500
 	
-	state_category = city
+	state_category = large_city
 	
 	resources={
-		steel=28 # was: 48
+		steel=38 # was: 48
 	}
 
 	history={
 		owner = BRG
 		add_core_of = BRG
 		victory_points = {
-			9642 5 
+			9642 20
+		}
+		victory_points = {
+			6698 5
+		}
+		victory_points = {
+			3666 5
+		}
+		victory_points = {
+			698 1
+		}
+		victory_points = {
+			9658 1
+		}
+		victory_points = {
+			3646 1
+		}
+		victory_points = {
+			6668 1
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
+			industrial_complex = 2
 			air_base = 5
 		}
 	}
 
 	provinces={
-		698 3646 3666 6698 9642 9658 11488 
+		6668 698 3646 3666 6698 9642 9658 
 	}
 
 	local_supplies=0.0 

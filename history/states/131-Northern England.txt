@@ -11,10 +11,10 @@ state={
 	}
 
 	history={
-		owner = SCO
+		owner = EFU
+		add_core_of = EFU
 		add_core_of = SCO
 		add_core_of = NRT
-		set_demilitarized_zone = yes
 		victory_points = {
 			351 8 
 		}

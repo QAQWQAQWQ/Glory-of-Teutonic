@@ -10,7 +10,7 @@ state={
 		victory_points = {
 			5105 1
 		}
-		owner = RAJ
+		owner = BRG
 		buildings = {
 			infrastructure = 2
 			air_base = 4
@@ -19,7 +19,7 @@ state={
 	}
 
 	provinces={
-		1107 4990 5105 7847 7903 7975 8044 8098 10813 
+		4990 5105 7847 7975 8044 10813 5075 
 	}
 
 	local_supplies=0.0 

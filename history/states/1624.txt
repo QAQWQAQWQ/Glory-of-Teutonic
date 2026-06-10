@@ -1,0 +1,25 @@
+
+state = {
+	id = 1624
+	name = "STATE_1624"
+	manpower = 301224
+	
+	state_category = rural
+
+	history = {
+		owner = PAP
+		add_core_of = PAP
+		victory_points = {
+			6985 7
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		6985 
+	}
+
+	local_supplies = 0.0 
+}

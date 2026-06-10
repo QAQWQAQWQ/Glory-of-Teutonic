@@ -1,0 +1,28 @@
+
+state={
+	id=1582
+	name="STATE_1582"
+	manpower = 91090
+	resources={
+		steel=1.000
+		aluminium=1.000
+	}
+	
+	
+	state_category = pastoral
+
+	history={
+		victory_points = {
+			11565 2
+		}
+		owner = EFU
+		add_core_of = EFU
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		11565 
+	}
+}

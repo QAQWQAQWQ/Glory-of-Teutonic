@@ -2,7 +2,7 @@
 state = {
 	id = 1046
 	name = "STATE_1046"
-	manpower = 1765476
+	manpower = 2365476
 	
 	state_category = metropolis
 	resources = {
@@ -16,7 +16,10 @@ state = {
 		owner = GEN
 		add_core_of = GEN
 		victory_points = {
-			6788 10 
+			3772 25
+		}
+		victory_points = {
+			13607 5
 		}
 		buildings = {
 			infrastructure = 4 #was: 7
@@ -24,14 +27,14 @@ state = {
 			industrial_complex = 4
 			dockyard = 2
 			air_base = 8
-			6788 = {
+			3772 = {
 				naval_base = 8
 			}
 		}
 	}
 
 	provinces = {
-        6788 3772 11891
+        6788 3772 11891 13607
 	}
 
 	local_supplies = 0.0 

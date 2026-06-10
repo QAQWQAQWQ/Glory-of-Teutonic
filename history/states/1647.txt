@@ -1,0 +1,28 @@
+
+state={
+	id=1647
+	name="STATE_1647"
+	manpower = 333952
+
+	state_category = enclave
+
+	history={
+		owner = IBF
+		add_core_of = RAJ
+		victory_points = {
+			4104 1 
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+			4104 ={
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		4104 
+	}
+
+	local_supplies=0.0 
+}

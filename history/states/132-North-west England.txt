@@ -11,7 +11,8 @@ state= {
 	}
 
 	history= {
-		owner = MER
+		owner = EFU
+		add_core_of = EFU
 		add_core_of = MER
 		victory_points = {
 			6384 30 

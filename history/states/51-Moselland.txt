@@ -14,7 +14,7 @@ state={
 		owner = KOL
 		add_core_of = KOL
 		victory_points = {
-			587 15 
+			587 25
 		}
 		buildings = {
 			infrastructure = 4

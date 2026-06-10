@@ -2,17 +2,14 @@
 state = {
 	id = 159
 	name = "STATE_159"
-	manpower = 5097704
+	manpower = 4097704
 	state_category = metropolis
 
 	history = {
-		owner = HAB
-		add_core_of = HAB
+		owner = MIL
+		add_core_of = MIL
 		victory_points = { #Milano
-			3780 15 
-		}
-		victory_points = { #Brescia
-			773 3
+			3780 25
 		}
 		buildings = {
 			infrastructure = 4 #was: 8
@@ -24,7 +21,7 @@ state = {
 	}
 
 	provinces = {
-		607 773 969 3780 9584
+		607 3780 9584
 	}
 
 	local_supplies = 0.0 

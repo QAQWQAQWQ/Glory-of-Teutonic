@@ -5,8 +5,7 @@ state={
 	impassable = yes
 
 	history={
-		owner = HAB
-		add_core_of = HAB
+		owner = NON
 		buildings = {
 			infrastructure = 1
 

@@ -1,0 +1,35 @@
+
+state={
+	id=1587
+	name="STATE_1587"
+	manpower = 571090
+	resources={
+	}
+	
+	
+	state_category = town
+	history={
+		owner = AVG
+		add_core_of = AVG
+		victory_points = {
+			590 12
+		}
+		victory_points = {
+			6773 5
+		}
+		victory_points = {
+			 9748 2
+		}
+		victory_points = {
+			 769 2
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+		 590 769 11576 3754 6773 6789 9593 9748 
+	}
+}

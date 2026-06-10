@@ -12,7 +12,8 @@ state= {
 
 	history=
 	{
-		owner = WSS
+		owner = EFU
+		add_core_of = EFU
 		add_core_of = WSS
 		victory_points = {
 			407 3 #Swansea

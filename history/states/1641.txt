@@ -1,0 +1,26 @@
+
+state={
+	id=1641
+	name="STATE_1641"
+	manpower = 400410
+
+	state_category = pastoral
+
+	history={
+		owner = EFU
+		add_core_of = RAJ
+		victory_points = {
+			13627 1
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+			13627 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={ 13627}
+
+	local_supplies=0.0 
+}

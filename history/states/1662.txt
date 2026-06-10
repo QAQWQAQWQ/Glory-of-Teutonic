@@ -1,0 +1,22 @@
+
+state={
+	id=1662
+	name="STATE_1662"
+	manpower = 846410
+
+	state_category = enclave
+
+	history={
+		owner = DNU
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		7106 
+	}
+
+	local_supplies=0.0 
+}

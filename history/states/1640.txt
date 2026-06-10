@@ -1,0 +1,36 @@
+
+state={
+	id=1640
+	name="STATE_1640"
+	manpower = 215572
+	
+	state_category = rural
+	
+	resources={
+		steel=10
+		oil=3
+		aluminium=4
+	}
+
+	history={
+		owner = VNS
+		add_core_of = VNS
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 2
+		}
+		victory_points = {
+			853 3 
+		}
+
+	}
+
+	provinces={
+		853 1793 11814 
+		 4796 8115 12765 
+		 7747 10914 
+	}
+
+	local_supplies=8.0 
+}

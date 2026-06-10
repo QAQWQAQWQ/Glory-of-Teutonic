@@ -1,0 +1,29 @@
+state = {
+	id = 1597
+	name = "STATE_1597"
+
+	state_category = rural
+
+	
+	resources={
+		steel=3
+		aluminium=7
+	}
+	history = {
+		owner = AVG
+		add_core_of = AVG
+		victory_points = {
+			11877 6
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		11877 
+	}
+	manpower = 251100
+
+	local_supplies = 0.0 
+}

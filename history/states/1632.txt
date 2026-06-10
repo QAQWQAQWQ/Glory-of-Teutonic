@@ -1,0 +1,25 @@
+
+state = {
+	id = 1632
+	name = "STATE_1632"
+	manpower = 310999
+	
+	state_category = rural
+
+	history = {
+		owner = URB
+		add_core_of = URB
+		victory_points = {
+			11882 6
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		11861 13616 
+	}
+
+	local_supplies = 0.0 
+}

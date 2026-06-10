@@ -1,0 +1,32 @@
+
+state = {
+	id = 1611
+	name = "STATE_1611"
+	manpower = 601903
+	
+	state_category = city
+	resources = {
+		steel=2
+		aluminium=2
+	}
+	history = {
+		owner = HAB
+		add_core_of = HAB
+		buildings = {
+			infrastructure = 4 
+			dockyard = 2
+			9613 = {
+				naval_base = 5
+			}
+		}
+		victory_points = { 
+			 9613 12
+		}
+	}
+
+	provinces = {
+         13620 9613 
+	}
+
+	local_supplies = 0.0 
+}

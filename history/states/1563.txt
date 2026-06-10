@@ -1,0 +1,26 @@
+
+state={
+	id=1563
+	name="STATE_1563"
+	manpower = 181400
+	
+	state_category = rural
+	
+
+	history={
+		victory_points = {
+			6585 5
+		}
+		owner = EFU
+		add_core_of = EFU
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		6585
+	}
+
+	local_supplies=0.0 
+}

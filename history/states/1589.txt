@@ -1,0 +1,29 @@
+
+state={
+	id=1589
+	name="STATE_1589"
+	manpower = 102341
+	resources={
+		steel=10
+		aluminium=10
+	}
+
+	state_category = pastoral
+
+	history={
+		owner = CLY
+		add_core_of = CLY
+		victory_points = {
+			6786 4
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		6786 
+	}
+
+	local_supplies=7.0 
+}

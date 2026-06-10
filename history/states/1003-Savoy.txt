@@ -2,28 +2,28 @@
 state={
 	id=1003
 	name="STATE_1003" 
-	manpower = 1973200
+	manpower = 273200
 	resources={
-		steel=5
-		aluminium=10
+		steel=3
+		aluminium=2
 	}
 
-	state_category = town
+	state_category = rural
 
 	history={
 		owner = BRG
+		add_core_of = BRG
 		victory_points = {
-			6613 10
+			641 5
 		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 		}
-		add_core_of = BRG
 	}
 
 	provinces={
-        778 9603 641 6639 6668 3650 9590 11573 
+        641 6639 9590 
 	}
 
 	local_supplies=7.0 

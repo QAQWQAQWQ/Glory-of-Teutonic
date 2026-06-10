@@ -2,16 +2,22 @@
 state={
 	id=33
 	name="STATE_33"
-	manpower = 636400
+	manpower = 436400
 	
 	state_category = town
 
 	history={
 		victory_points = {
-			651 1
+			651 5
 		}
-		owner = KOF
-		add_core_of = KOF
+		victory_points = {
+			6688 1
+		}
+		victory_points = {
+			3655 10
+		}
+		owner = EFU
+		add_core_of = EFU
 		
 		buildings = {
 			infrastructure = 3
@@ -19,7 +25,7 @@ state={
 	}
 
 	provinces={
-		651 669 3621 3626 3655 6648 6651 9629 11869 
+		6688 11611 651 3655 6651 9629 
 	}
 
 	local_supplies=0.0 

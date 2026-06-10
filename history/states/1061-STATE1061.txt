@@ -3,26 +3,28 @@ state = {
 	name = "STATE_1061"
 	resources = {
 		steel=5
-		aluminium=5
+		aluminium=2
 	}
 	
-	state_category = large_town
+	state_category = town
 
 	history = {
-		owner = HAB
-		add_core_of = HAB
+		owner = VNI
+		add_core_of = VNI
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
-			dockyard = 1
+		}
+		victory_points = { #Verona
+			603 10
 		}
 
 	}
 
 	provinces = {
-        3657 9613 6656 628 
+       603
 	}
-	manpower = 1563151
+	manpower = 423151
 	buildings_max_level_factor = 0.000
 
 	local_supplies = 0.0 

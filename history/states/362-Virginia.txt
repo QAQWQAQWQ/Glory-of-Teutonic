@@ -4,8 +4,8 @@ state={
 	name="STATE_362"
 
 	history={
-		owner = AKN
-		add_core_of = AKN
+		owner = NBG
+		add_core_of = NBG
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 2
@@ -27,7 +27,8 @@ state={
 	}
 
 	provinces={
-		788 865 873 951 1506 3823 3925 6846 7558 9779 9931 10343 10412 10439 11738 11841 11873 
+		788 865 873 951 1506 3823 3925 6846 7558 9931 10343 10412 10439 11738 11841 11873 
+		3941 6958 7466 7646 11888 
 	}
 
 	local_supplies=11.0

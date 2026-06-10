@@ -19,7 +19,8 @@ state= {
 			}
 
 		}
-		owner = WSS
+		owner = EFU
+		add_core_of = EFU
 		add_core_of = WSS
 	}
 

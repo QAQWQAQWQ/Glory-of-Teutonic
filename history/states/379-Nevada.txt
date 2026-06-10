@@ -13,15 +13,18 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = NEV
+		add_core_of = NEV
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = USA
 	}
 
 	provinces={
 		1862 4521 4607 4736 4799 4816 7756 7827 7879 10422 10591 12134 12399 12425 
+		12607 10625  
+		10651 12573 1663 
+		9695 850 12699 
 	}
 
 	local_supplies=0.0 

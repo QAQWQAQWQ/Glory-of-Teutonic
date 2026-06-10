@@ -1,0 +1,28 @@
+
+state = {
+	id = 1623
+	name = "STATE_1623"
+	manpower = 409335
+	
+	state_category = town
+
+	history = {
+		owner = VNI
+		add_core_of = VNI
+		victory_points = {
+			782 10
+		}
+		buildings = {
+			infrastructure = 4
+			782 = {
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces = {
+		782 
+	}
+
+	local_supplies = 0.0 
+}

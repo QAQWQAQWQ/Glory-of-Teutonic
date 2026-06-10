@@ -1,0 +1,28 @@
+
+state = {
+	id = 1625
+	name = "STATE_1625"
+	manpower = 369335
+	
+	state_category = town
+
+	history = {
+		owner = RIM
+		add_core_of = RIM
+		victory_points = {
+			9924 10
+		}
+		buildings = {
+			infrastructure = 4
+			9924 = {
+				naval_base = 3
+			}
+		}
+	}
+
+	provinces = {
+		9924
+	}
+
+	local_supplies = 0.0 
+}

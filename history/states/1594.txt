@@ -1,0 +1,29 @@
+state = {
+	id = 1594
+	name = "STATE_1594"
+
+	state_category = wasteland
+
+	
+	resources={
+		steel=3
+		aluminium=7
+	}
+	history = {
+		owner = RDZ
+		add_core_of = RDZ
+		victory_points = {
+			6960 2
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		6960 
+	}
+	manpower = 41100
+
+	local_supplies = 0.0 
+}

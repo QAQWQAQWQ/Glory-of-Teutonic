@@ -6,7 +6,7 @@ state={
 	}
 
 	history={
-		owner = DNU
+		owner = EFU
 		add_core_of = VIN
 		victory_points = {
 			4401 3 

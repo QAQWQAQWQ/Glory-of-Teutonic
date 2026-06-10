@@ -1,0 +1,24 @@
+state = {
+	id = 1590
+	name = "STATE_1590"
+
+	state_category = pastoral
+
+	history = {
+		owner = AVG
+		add_core_of = AVG
+		victory_points = {
+			 9732 3
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		 9732 11716 
+	}
+	manpower = 101100
+
+	local_supplies = 0.0 
+}

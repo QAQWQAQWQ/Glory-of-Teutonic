@@ -2,27 +2,30 @@
 state={
 	id=20
 	name="STATE_20" # Rhone
-	manpower = 2073200
+	manpower = 263200
 	resources={
-		steel=32 # was 60 was: 128
-		aluminium=35 # was: 72
+		steel=10
+		aluminium=10
 	}
 
-	state_category = town
+	state_category = rural
 
 	history={
-		owner = KOF
-		add_core_of = KOF
+		victory_points = {
+			3770 5
+		}
+		victory_points = {
+			11593 1
+		}
+		owner = CFZ
+		add_core_of = CFZ
 		buildings = {
 			infrastructure = 4
-			arms_factory = 1
-			industrial_complex = 1
-			air_base = 4
 		}
 	}
 
 	provinces={
-		3770 6786 9728 9732 11716 
+		11593 3770
 	}
 
 	local_supplies=7.0 

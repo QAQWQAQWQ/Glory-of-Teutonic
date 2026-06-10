@@ -1,0 +1,26 @@
+
+state={
+	id=1586
+	name="STATE_1586"
+	manpower = 101090
+	resources={
+	}
+	
+	
+	state_category = pastoral
+
+	history={
+		victory_points = {
+			11699 2
+		}
+		owner = AMN
+		add_core_of = AMN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		12169 11699 
+	}
+}

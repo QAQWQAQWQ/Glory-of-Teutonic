@@ -4,8 +4,17 @@ state={
 	name="STATE_1060"
 
 	history={
-		owner = AQT
-		add_core_of = AQT
+		victory_points = {
+			6766 16
+		}
+		victory_points = {
+			11702 8
+		}
+		victory_points = {
+			755 5
+		}
+		owner = AMN
+		add_core_of = AMN
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
@@ -16,10 +25,10 @@ state={
 	}
 
 	provinces={
-		929 3749 3948 6766 11699 11702 12169 
+		943 3749 6766 11702 755 11718  
 	}
 	manpower=925000
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=city
 	local_supplies=0.000
 }

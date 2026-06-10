@@ -1,0 +1,32 @@
+state = {
+	id = 1567
+	name = "STATE_1567"
+
+	state_category = rural
+	resources={
+		steel=3
+		aluminium=2
+	}
+
+	history = {
+		owner = SAP
+		add_core_of = SAP
+		victory_points = {
+			11573 8
+		}
+		victory_points = {
+			9603 1
+		}
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		9603 11573 778 
+	}
+	manpower = 217500
+	buildings_max_level_factor = 1.000
+
+	local_supplies = 0.0 
+}

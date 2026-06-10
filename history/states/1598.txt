@@ -1,0 +1,29 @@
+
+state = {
+	id = 1598
+	name = "STATE_1598"
+	manpower = 125476
+	
+	state_category = pastoral
+	resources = {
+		steel = 3
+		aluminium = 2
+	}
+
+	history = {
+		owner = SAP
+		add_core_of = SAP
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			611 2
+		}
+	}
+
+	provinces = {
+		611 3782 
+	}
+
+	local_supplies = 0.0 
+}

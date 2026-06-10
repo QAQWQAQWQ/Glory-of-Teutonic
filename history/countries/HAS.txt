@@ -25,23 +25,7 @@ set_popularities = {
 }
 set_stability = 0.67
 set_autonomy = {
-    target = MAG
-    autonomous_state = autonomy_hanse
-}
-set_autonomy = {
-    target = LUN
-    autonomous_state = autonomy_hanse
-}
-set_autonomy = {
     target = HLS
-    autonomous_state = autonomy_hanse
-}
-set_autonomy = {
-    target = OLD
-    autonomous_state = autonomy_hanse
-}
-set_autonomy = {
-    target = MEK
     autonomous_state = autonomy_hanse
 }
 set_autonomy = {

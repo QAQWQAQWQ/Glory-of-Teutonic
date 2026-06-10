@@ -10,18 +10,19 @@ state= {
 	}
 
 	history={
-		owner = USA
+		owner = NZI
+		add_core_of = NZI
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = USA
 		victory_points = {
 			4865 1 
 		}
 	}
 	provinces={
-		1663 1740 1756 4668 4742 4865 7764 7818 10582 10651 10662 12573 12699 13153
+		1740 4668 4742 4865 10582 10662 13153
+		7888 12535
 	}
 
 	local_supplies=0.0 

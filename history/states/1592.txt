@@ -1,0 +1,32 @@
+state = {
+	id = 1592
+	name = "STATE_1592"
+
+	state_category = pastoral
+
+	
+	resources={
+		steel=3
+		aluminium=7
+	}
+	history = {
+		owner = RDZ
+		add_core_of = RDZ
+		victory_points = {
+			752 3
+		}
+		victory_points = {
+			6962 3
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		752 6962 3751 11709 
+	}
+	manpower = 141100
+
+	local_supplies = 0.0 
+}

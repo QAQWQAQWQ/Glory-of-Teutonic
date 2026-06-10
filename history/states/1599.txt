@@ -1,0 +1,29 @@
+
+state = {
+	id = 1599
+	name = "STATE_1599"
+	manpower = 405476
+	
+	state_category = town
+	resources = {
+		steel = 3
+		aluminium = 2
+	}
+
+	history = {
+		owner = MFR
+		add_core_of = MFR
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			9741 10
+		}
+	}
+
+	provinces = {
+		11723 13606 9741 
+	}
+
+	local_supplies = 0.0 
+}

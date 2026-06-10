@@ -10,9 +10,9 @@ state={
 	state_category = large_town
 
 	history={
-		owner = TRE
-		add_core_of = TRE
-		victory_points = { 11470 1 }
+		owner = BRG
+		add_core_of = BRG
+		victory_points = { 11470 12 }
 		buildings = {
 			infrastructure = 4
 

@@ -1,0 +1,24 @@
+state = {
+	id = 1621
+	name = "STATE_1621"
+	state_category = wasteland
+	
+	history = {
+		owner = PAM
+		add_core_of = PAM
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			13608 1
+		}
+
+	}
+
+	provinces = {
+        13608
+	}
+	manpower = 38151
+
+	local_supplies = 0.0 
+}

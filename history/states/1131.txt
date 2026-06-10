@@ -12,7 +12,8 @@ state= {
 
 	history=
 	{
-		owner = POW
+		owner = EFU
+		add_core_of = EFU
 		add_core_of = POW
 		buildings = {
 			infrastructure = 3

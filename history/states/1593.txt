@@ -1,0 +1,32 @@
+state = {
+	id = 1593
+	name = "STATE_1593"
+
+	state_category = rural
+
+	
+	resources={
+		steel=3
+		aluminium=7
+	}
+	history = {
+		owner = RDZ
+		add_core_of = RDZ
+		victory_points = {
+			3948 5
+		}
+		victory_points = {
+			9723 4
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		3948 9723 
+	}
+	manpower = 221100
+
+	local_supplies = 0.0 
+}

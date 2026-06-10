@@ -1,0 +1,24 @@
+state = {
+	id = 1622
+	name = "STATE_1622"
+	state_category = rural
+	
+	history = {
+		owner = MOD
+		add_core_of = MOD
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			6793 8
+		}
+
+	}
+
+	provinces = {
+        6793 
+	}
+	manpower = 207151
+
+	local_supplies = 0.0 
+}

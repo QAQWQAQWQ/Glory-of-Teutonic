@@ -21,7 +21,3 @@ set_popularities = {
 	conservatism = 100
 }
 set_stability = 0.80
-set_autonomy = {
-    target = CRB
-    autonomous_state = autonomy_personal_union
-}

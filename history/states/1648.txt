@@ -1,0 +1,24 @@
+
+state={
+	id=1648
+	name="STATE_1648"
+	manpower = 3010044
+
+	state_category = pastoral
+	resources={
+	}
+
+	history={
+		owner = IBF
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 3 
+		}
+	}
+
+	provinces={  
+		7395 12295 4278 4353 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,28 @@
+
+state = {
+	id = 1606
+	name = "STATE_1606"
+	manpower = 104421
+	
+	state_category = pastoral
+	resources = {
+		aluminium = 1
+	}
+
+	history = {
+		owner = GEN
+		add_core_of = GEN
+		buildings = {
+			infrastructure = 4 
+		}
+		victory_points = { 
+			13612 7
+		}
+	}
+
+	provinces = {
+        13612 
+	}
+
+	local_supplies = 0.0 
+}

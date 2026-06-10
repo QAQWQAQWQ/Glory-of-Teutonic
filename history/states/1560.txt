@@ -1,0 +1,38 @@
+
+state={
+	id=1560
+	name="STATE_1560"
+
+	history={
+		owner = BRI
+		add_core_of = BRI
+		victory_points = {
+			11465 15
+		}
+		victory_points = {
+			527 12
+		}
+		victory_points = {
+			11616 1
+		}
+		buildings = {
+			11465 = {
+				naval_base = 4
+
+			}
+			infrastructure = 3
+			dockyard = 1
+			industrial_complex = 2
+			arms_factory = 1
+
+		}
+
+	}
+
+	provinces={
+		9867 527 11465 11616 
+	}
+	manpower=1896600
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,26 @@
+
+state = {
+	id = 1619
+	name = "STATE_1619"
+	manpower = 20812
+	
+	state_category = wasteland
+	resources = {
+	}
+	history = {
+		owner = MIL
+		add_core_of = MIL
+		buildings = {
+			infrastructure = 4 
+		}
+		victory_points = { 
+			 13618 1
+		}
+	}
+
+	provinces = {
+         13618 
+	}
+
+	local_supplies = 0.0 
+}

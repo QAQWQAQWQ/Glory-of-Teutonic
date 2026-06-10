@@ -1,9 +1,9 @@
 state={
 	id=785
 	name="STATE_785"
-	manpower = 1580000
+	manpower = 880000
 	
-	state_category = town
+	state_category = large_town
 	resources={
 		steel=12 #was:20 was: 112
 		aluminium=4 # was: 22
@@ -11,10 +11,16 @@ state={
 	
 	history={
 		victory_points = {
-			11420 5
+			11420 12
 		}
-		owner = KOF
-		add_core_of = KOF
+		victory_points = {
+			6504 5
+		}
+		victory_points = {
+			454 1
+		}
+		owner = BRG
+		add_core_of = BRG
 		buildings = {
 			infrastructure = 4 #was: 8
 			industrial_complex = 1
@@ -22,7 +28,7 @@ state={
 	}
 
 	provinces={
-		454 6585 9561 11420
+		6504 454 11420 13596 13597
 	}
 
 	local_supplies=0.0 

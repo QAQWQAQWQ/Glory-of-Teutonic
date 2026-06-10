@@ -1,0 +1,29 @@
+
+state = {
+	id = 1603
+	name = "STATE_1603"
+	manpower = 215476
+	
+	state_category = rural
+	resources = {
+		steel = 1
+		aluminium = 1
+	}
+
+	history = {
+		owner = GEN
+		add_core_of = GEN
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			13605 5
+		}
+	}
+
+	provinces = {
+		13605 
+	}
+
+	local_supplies = 0.0 
+}

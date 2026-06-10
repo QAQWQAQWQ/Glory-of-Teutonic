@@ -1,0 +1,23 @@
+state={
+	id=1570
+	name="STATE_1570"
+	manpower = 88832
+	
+	state_category = pastoral
+	history={
+		owner = EFU
+		add_core_of = EFU
+		victory_points = { 13600 2 }
+		victory_points = { 13602 1 }
+		buildings = {
+			infrastructure = 4
+
+		}
+	}
+
+	provinces={
+       13600 13602
+	}
+
+	local_supplies=10.0 
+}

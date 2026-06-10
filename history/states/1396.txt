@@ -5,8 +5,8 @@ state={
 	
 	state_category = pastoral
 	history={
-		owner = HAB
-		add_core_of = HAB
+		owner = SWI
+		add_core_of = SWI
 		victory_points = { 11601 1 }
 		buildings = {
 			infrastructure = 4

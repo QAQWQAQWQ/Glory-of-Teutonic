@@ -1,0 +1,25 @@
+
+state={
+	id=1585
+	name="STATE_1585"
+
+	history={
+		victory_points = {
+			929 5
+		}
+		owner = AMN
+		add_core_of = AMN
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		929
+	}
+	manpower=225000
+	state_category=rural
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=1657
+	name="STATE_1657"
+	manpower = 3641989
+
+	state_category = rural
+
+	history={
+		owner = DNU
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		10843 10898 12792 
+	}
+
+	local_supplies=0.0 
+}

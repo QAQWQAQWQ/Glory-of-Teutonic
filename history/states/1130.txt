@@ -12,7 +12,8 @@ state= {
 
 	history=
 	{
-		owner = GWY
+		owner = EFU
+		add_core_of = EFU
 		add_core_of = GWY
 		victory_points = {
 			311 1 #Wrexham

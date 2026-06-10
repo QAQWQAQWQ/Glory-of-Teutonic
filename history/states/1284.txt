@@ -6,10 +6,10 @@ state = {
 
 	history = {
 		victory_points = {
-			11595 2
+			11595 12
 		}
-		owner = HAB
-		add_core_of = HAB
+		owner = BAU
+		add_core_of = BAU
 		buildings = {
 			infrastructure = 1
 			dockyard = 1

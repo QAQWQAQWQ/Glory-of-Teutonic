@@ -8,8 +8,7 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
-		owner = HAB
-		add_core_of = AST
+		owner = EFU
 	}
 	state_category = wasteland
 	manpower=1000

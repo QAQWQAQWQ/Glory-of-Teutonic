@@ -1,0 +1,28 @@
+
+state = {
+	id = 1637
+	name = "STATE_1637"
+	manpower = 289335
+	
+	state_category = rural
+
+	history = {
+		owner = CMR
+		add_core_of = CMR
+		victory_points = {
+			11790 5
+		}
+		buildings = {
+			infrastructure = 4
+			925 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces = {
+		925 11790
+	}
+
+	local_supplies = 0.0 
+}

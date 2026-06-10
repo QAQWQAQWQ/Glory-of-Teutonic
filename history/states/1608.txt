@@ -1,0 +1,25 @@
+
+state = {
+	id = 1608
+	name = "STATE_1608"
+	manpower = 132010
+	
+	state_category = pastoral
+
+	history = {
+		owner = MIL
+		add_core_of = MIL
+		buildings = {
+			infrastructure = 4 
+		}
+		victory_points = { 
+			11726 2
+		}
+	}
+
+	provinces = {
+        11726 
+	}
+
+	local_supplies = 0.0 
+}

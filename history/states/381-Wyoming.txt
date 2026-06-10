@@ -5,16 +5,21 @@ state={
 	manpower = 225564
 	state_category = rural
 	
+	resources={
+		oil=30
+	}
 	history={
-		owner = USA
+		owner = STO
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = USA
+		add_core_of = STO
 	}
 
 	provinces={
-		1815 4610 4723 4794 4820 7688 7814 7888 10640 10711 12561 12633 12651 
+		1815 7688 10711 12561 12633 12651 
+		10535 6887 1756 
+		868 7684 1658 
 	}
 	
 

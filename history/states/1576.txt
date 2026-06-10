@@ -1,0 +1,29 @@
+
+state={
+	id=1576
+	name="STATE_1576"
+	manpower = 206300
+	
+	
+	state_category = rural
+
+	history={
+		owner = LMG
+		add_core_of = LMG
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			3626 5 
+		}
+		victory_points = {
+			3621 1 
+		}
+	}
+
+	provinces={
+		620 3621 3626 
+	}
+
+	local_supplies=15.0 
+}

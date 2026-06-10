@@ -6,10 +6,10 @@ state={
 	state_category = city
 
 	history={
-		owner = KOL
-		add_core_of = KOL
+		owner = BRG
+		add_core_of = BRG
 		victory_points = {
-			13438 10
+			13438 16
 		}
 		buildings = {
 			infrastructure = 3

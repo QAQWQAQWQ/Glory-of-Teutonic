@@ -1,0 +1,34 @@
+
+state={
+	id=1584
+	name="STATE_1584"
+	manpower = 241090
+	resources={
+		steel=5
+		aluminium=5
+	}
+	
+	
+	state_category = rural
+
+	history={
+		victory_points = {
+			6775 5
+		}
+		victory_points = {
+			11720 3
+		}
+		victory_points = {
+			9717 1
+		}
+		owner = PRG
+		add_core_of = PRG
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		 9734 6775 9717 11720
+	}
+}

@@ -4,23 +4,26 @@ state={
 	name="STATE_25"
 
 	history={
-		owner = AQT
-		add_core_of = AQT
+		owner = LMG
+		add_core_of = LMG
 		buildings = {
 			infrastructure = 3
 
 		}
 		victory_points = {
-			620 5 
+			6618 10
+		}
+		victory_points = {
+			3771 1
 		}
 
 	}
 
 	provinces={
-		620 625 755 3598 3771 6618 9734 9751 11718 
+		3771 6618
 	}
-	manpower=1343700
+	manpower=443700
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=town
 	local_supplies=0.000
 }

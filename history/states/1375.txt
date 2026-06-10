@@ -7,7 +7,8 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = ANS
+		owner = BRN
+		add_core_of = BRN
 		add_core_of = ANS
 		buildings = {
 			infrastructure = 4

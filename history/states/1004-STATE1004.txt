@@ -10,15 +10,18 @@ state={
 	}
 	
 	history={
-		owner = BRG
-		add_core_of = BRG
+		owner = EFU
+		add_core_of = EFU
+		victory_points = {
+			9561 12
+		}
 		buildings = {
 			infrastructure = 4
 		}
 	}
 
 	provinces={
-        3402 3447 11549
+        6949 9561
 	}
 
 	local_supplies=0.0 

@@ -13,6 +13,12 @@ state={
 	history={
 		owner = BRG
 		add_core_of = BRG
+		victory_points = {
+			9500 5
+		}
+		victory_points = {
+			3476 1
+		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
@@ -21,7 +27,7 @@ state={
 	}
 
 	provinces={
-		3476 6504 9500 
+		3476 9500 
 	}
 
 	local_supplies=15.0 

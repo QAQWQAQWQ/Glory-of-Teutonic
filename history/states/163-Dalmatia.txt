@@ -6,8 +6,8 @@ state = {
 	state_category = town
 	
 	history = {
-		owner = HAB
-		add_core_of = HAB
+		owner = PHU
+		add_core_of = PHU
 		victory_points = { #Zara/Zadar
 			3943 5 
 		}

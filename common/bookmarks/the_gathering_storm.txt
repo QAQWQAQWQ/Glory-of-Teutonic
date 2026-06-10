@@ -37,8 +37,8 @@ bookmarks = {
 
 			}
 		}	
-		"HAB"={
-			history = "HAB_GATHERING_STORM_DESC"
+		"BAU"={
+			history = "BAU_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
 
@@ -57,8 +57,8 @@ bookmarks = {
 
 			}
 		}		
-		"BYZ"={
-			history = "BYZ_GATHERING_STORM_DESC"
+		"EFU"={
+			history = "EFU_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
 
@@ -67,8 +67,8 @@ bookmarks = {
 
 			}
 		}	
-		"KOJ"={
-			history = "KOJ_GATHERING_STORM_DESC"
+		"NNV"={
+			history = "NNV_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
 

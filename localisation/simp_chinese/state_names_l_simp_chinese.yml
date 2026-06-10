@@ -12,26 +12,26 @@
  STATE_11: "考纳斯"
  STATE_12: "泽格沃尔德"#Segewold
  STATE_13: "莱阿尔"#Leal
- STATE_14: "布列塔尼"
- STATE_15: "诺曼底"
- STATE_16: "法兰西岛"
- STATE_17: "弗朗什-孔泰"
- STATE_18: "香槟"
- STATE_19: "阿基坦"
- STATE_20: "罗讷"
- STATE_21: "罗讷河口"
- STATE_22: "朗格多克"
- STATE_23: "普瓦图"
- STATE_24: "中央大区"
- STATE_25: "利穆赞"
- STATE_26: "奥弗涅"
- STATE_27: "勃艮第"
+ STATE_14: "下布列塔尼"
+ STATE_15: "上诺曼底"
+ STATE_16: "巴黎"
+ STATE_17: "内勃艮第"
+ STATE_18: "下香槟"
+ STATE_19: "波尔多"
+ STATE_20: "福雷-博若"#Forez-Beaujolais
+ STATE_21: "普罗旺斯"
+ STATE_22: "蒙彼利埃"
+ STATE_23: "普瓦图"#Poitou
+ STATE_24: "奥尔良"
+ STATE_25: "利摩日"#Limoges
+ STATE_26: "波旁"#Bourbon
+ STATE_27: "外勃艮第"
  STATE_28: "斯特拉斯堡"#Straßburg
- STATE_29: "北部-上加莱"
- STATE_30: "卢瓦尔"
+ STATE_29: "滨海布洛涅"#Boulogne-sur-Mer
+ STATE_30: "曼恩"#Maine
  STATE_31: "比利牛斯"
- STATE_32: "阿尔卑斯"
- STATE_33: "中南大区"
+ STATE_32: "多菲内"#Dauphiné
+ STATE_33: "贝里"#Berry
  STATE_34: "埃诺"#Henegouwen
  STATE_35: "布拉班特"
  STATE_36: "赫尔德兰"#Gelderland
@@ -165,8 +165,8 @@
  STATE_157: "阿布鲁佐"
  STATE_158: "皮埃蒙特"
  STATE_159: "米兰"
- STATE_160: "威尼托"
- STATE_161: "博洛尼亚"
+ STATE_160: "威尼斯"
+ STATE_161: "博洛尼亚"#Bologna
  STATE_162: "托斯卡纳"
  STATE_163: "扎达尔"
  STATE_163_ITA: "扎拉"
@@ -329,7 +329,7 @@
  STATE_317: "尼加拉瓜"
  STATE_318: "海地"
  STATE_319: "多米尼加"
- STATE_320: "法属印度"
+ STATE_320: "加里加尔"
  STATE_321: "果阿"
  STATE_322: "那曲"
  STATE_323: "尼泊尔"
@@ -396,7 +396,7 @@
  STATE_384: "内布拉斯加"
  STATE_385: "俄勒冈"
  STATE_386: "华盛顿"
- STATE_387: "爱达荷"
+ STATE_387: "霍亚西埃拉"#Joya sierra 
  STATE_388: "蒙大拿"
  STATE_389: "北达科他"
  STATE_390: "南达科他"
@@ -437,24 +437,24 @@
  STATE_425: "迈索尔"
  STATE_426: "奥里萨"
  STATE_427: "海德拉巴"
- STATE_428: "古吉拉特"
+ STATE_428: "古吉拉特诸邦"
  STATE_429: "孟买"
  STATE_430: "东孟加拉"
  STATE_431: "西孟加拉"
  STATE_432: "阿萨姆"
- STATE_433: "拉贾斯坦"
- STATE_434: "阿鲁纳恰尔"
+ STATE_433: "拉杰普塔纳"
+ STATE_434: "东北边境特区"
  STATE_435: "比哈尔"
- STATE_436: "贾巴尔普尔"
- STATE_437: "印多尔"
- STATE_438: "勒克瑙"
+ STATE_436: "中央诸省及贝拉尔"
+ STATE_437: "瓜廖尔"
+ STATE_438: "阿格拉与奥德"
  STATE_439: "德里"
  STATE_440: "旁遮普"
- STATE_441: "克什米尔"
- STATE_442: "白沙瓦"
+ STATE_441: "查谟—克什米尔"
+ STATE_442: "西北边境代理处诸邦"
  STATE_443: "信德"
  STATE_444: "俾路支斯坦"
- STATE_445: "奎达"
+ STATE_445: "俾路支省"
  STATE_446: "苏伊士"
  STATE_447: "亚历山大"
  STATE_448: "的黎波里"
@@ -795,7 +795,7 @@
  STATE_784: "维尔诺"
  STATE_785: "皮卡第"
  STATE_786: "毛里塔尼亚沙漠"
- STATE_787: "北克什米尔"
+ STATE_787: "洪扎-纳加尔"
  STATE_788: "萨拉曼卡"
  STATE_789: "科尔多瓦"
  STATE_790: "阿斯图里亚斯"
@@ -859,7 +859,7 @@
  STATE_848: "福拉尔贝格"
  STATE_849: "普利亚"
  STATE_850: "特伦蒂诺"
- STATE_851: "瓦尔"
+ STATE_851: "瓦朗蒂努瓦"#Valentinois
  STATE_852: "滨海区"
  STATE_853: "卢布尔雅那"
  STATE_854: "焦夫"
@@ -987,7 +987,7 @@
  STATE_970: "诺伊马尔克"
  STATE_971: "乌切卡"
  STATE_972: "波森"
- STATE_973: "梅瑟拉诺"
+ STATE_973: "诺瓦拉"#Novara
  STATE_974: "锡拉吉"#Szilágy
  STATE_975: "施特雷利茨"
  STATE_976: "施特拉尔松德"
@@ -1017,7 +1017,7 @@
  STATE_1000:0 "鲁多尔斯塔特"
  STATE_1001:0 "阿尔滕堡"
  STATE_1002:0 "格拉"
- STATE_1003: "尚贝里"
+ STATE_1003: "外萨伏依"
  STATE_1004: "瓦卢瓦"
  STATE_1005: "梅茨"#Metz
  STATE_1006: "南锡"#Nancy
@@ -1058,31 +1058,31 @@
  STATE_1041: "克拉根福"
  STATE_1042: "萨尔茨堡"
  STATE_1043: "南苏台德"
- STATE_1044: "埃斯卡顿"
+ STATE_1044: "加普"#Gap
  STATE_1045: "尼斯"
  STATE_1046: "热那亚"
- STATE_1047: "博比奥"
- STATE_1048: "布雷西亚"
- STATE_1049: "曼托瓦"
- STATE_1050: "帕尔马"
- STATE_1051: "摩德纳"
+ STATE_1047: "马萨和卡拉拉"#Massa e Carrara
+ STATE_1048: "布雷西亚"#Brescia
+ STATE_1049: "曼托瓦"#Mantua
+ STATE_1050: "帕尔马"#Parma
+ STATE_1051: "摩德纳"#Modena
  STATE_1052: "锡耶纳"
- STATE_1053: "安科纳"
+ STATE_1053: "佩鲁贾"#Perugia
  STATE_1054: "巴尼亚卢卡"
  STATE_1055: "第戎"
  STATE_1056: "克拉科夫"
  STATE_1057: "加莱海峡"
  STATE_1058: "北多布罗加"
  STATE_1059: "圣殿山"
- STATE_1060: "南部"
- STATE_1061: "乌迪内"
+ STATE_1060: "凯尔西"#Quercy
+ STATE_1061: "维罗纳"#Verona
  STATE_1062: "洪斯吕克"
  STATE_1063: "韦斯特林山"#Westerwald
  STATE_1064: "塞恩"#Sayn
  STATE_1065: "兰河畔林堡"#Limburg an der Lahn
  STATE_1066: "科布伦茨"
  STATE_1067: "科赫姆"
- STATE_1068: "比特堡-普吕姆-艾费尔山"
+ STATE_1068: "比特堡"
  STATE_1069: "维特根施泰因"#Wittgenstein
  STATE_1070: "波恩"
  STATE_1071: "于利希"
@@ -1573,3 +1573,115 @@
  STATE_1555: "佛兰德"#Flandes
  STATE_1556: "阿图瓦"#Artois
  STATE_1557: "康布雷"#Cambrai
+ STATE_1558: "中诺曼底"
+ STATE_1559: "下诺曼底"
+ STATE_1560: "上布列塔尼"
+ STATE_1561: "上香槟"
+ STATE_1562: "维尔图斯"#Vertus
+ STATE_1563: "博韦"#Beauvais
+ STATE_1564: "约讷"#Yonne
+ STATE_1565: "讷韦尔"#Nevers
+ STATE_1566: "门佩尔加德"#Mömpelgard
+ STATE_1567: "上萨伏依"
+ STATE_1568: "阿维尼翁"#Avignon
+ STATE_1569: "赫费"#Höfe
+ STATE_1570: "蒙莱里"#Montlhéry
+ STATE_1571: "圣莫尔"#Saint-Maur-des-Fossés
+ STATE_1572: "阿朗松"#Alençon
+ STATE_1573: "沙特尔"#Chartres
+ STATE_1574: "安茹"#Anjou
+ STATE_1575: "图赖讷"#Touraine
+ STATE_1576: "拉马什"#La Marche
+ STATE_1577: "昂古莱姆"#Angoulême
+ STATE_1578: "佩里戈尔"#Périgord
+ STATE_1579: "圣通日"#Saintonge
+ STATE_1580: "阿尔布雷"#Albret
+ STATE_1581: "拉泰斯特德比克"#La Teste-de-Buch
+ STATE_1582: "布拉耶"#Blaye
+ STATE_1583: "蒙德马桑"#Mont-de-Marsan
+ STATE_1584: "巴扎代-阿日奈"#Bazadais-Agenais
+ STATE_1585: "阿马尼亚克"#Armagnac
+ STATE_1586: "阿斯塔拉克"#Astarac
+ STATE_1587: "奥弗涅"#Auvergne
+ STATE_1588: "里昂"#Lyon
+ STATE_1589: "阿诺奈"#Annonay
+ STATE_1590: "沃莱"#Velay
+ STATE_1591: "蒙洛尔"#Montlaur
+ STATE_1592: "罗德兹"#Rodez
+ STATE_1593: "阿尔比"#Albi
+ STATE_1594: "洛代夫"#Lodève
+ STATE_1595: "热沃当"#Gévaudan
+ STATE_1596: "于泽斯"#Uzès
+ STATE_1597: "尼姆"#Nîmes
+ STATE_1598: "奥斯塔"#Aosta
+ STATE_1599: "蒙费拉托"#Monferrato
+ STATE_1600: "萨卢佐"#Saluzzo	
+ STATE_1601: "阿斯蒂"#Asti
+ STATE_1602: "蒙多维"#Mondovì
+ STATE_1603: "阿奎拉"#Aquila d'Arroscia
+ STATE_1604: "孔皮亚诺"#Compiano
+ STATE_1605: "维切利"#Vercelli
+ STATE_1606: "奥索拉"#Ossola
+ STATE_1607: "亚历山德里亚"#Alessandria
+ STATE_1608: "托尔托纳"#Tortona
+ STATE_1609: "皮亚琴察"#Piacenza
+ STATE_1610: "蒙法尔科内"#Monfalcone
+ STATE_1611: "阿奎莱亚"#Aquileia
+ STATE_1612: "贝卢诺"#Belluno
+ STATE_1613: "特雷维索"#Treviso
+ STATE_1614: "罗维戈"#Rovigo
+ STATE_1615: "帕多瓦"#Padova
+ STATE_1616: "维琴察"#Vicenza
+ STATE_1617: "贝加莫"#Bergamo
+ STATE_1618: "克雷莫纳"#Cremona
+ STATE_1619: "卡莫尼卡"#Val Camonica
+ STATE_1620: "雷焦"#Reggio
+ STATE_1621: "蓬特雷莫利"#Pontremoli
+ STATE_1622: "费拉拉"#Ferrara
+ STATE_1623: "拉文纳"#Ravenna
+ STATE_1624: "弗利"#Forlì
+ STATE_1625: "里米尼"#Rimini
+ STATE_1626: "佩萨罗"#Pesaro
+ STATE_1627: "法诺"#Fano
+ STATE_1628: "切塞纳"#Cesena
+ STATE_1629: "安科纳"#Ancona
+ STATE_1630: "斯波莱托"#Spoleto
+ STATE_1631: "阿西西"#Assisi
+ STATE_1632: "乌尔比诺"#Urbino
+ STATE_1633: "卢卡"#Lucca
+ STATE_1634: "比萨"#Pisa
+ STATE_1635: "皮翁比诺"#Piombino
+ STATE_1636: "圣马力诺"#San Marino
+ STATE_1637: "卡梅里诺"#Camerino
+ STATE_1638: "维特利希"#Wittlich
+ STATE_1639: "东华盛顿"
+ STATE_1640: "凤凰城"
+ STATE_1641: "本地治里"
+ STATE_1642: "马埃"
+ STATE_1643: "科钦"
+ STATE_1644: "特拉凡科"
+ STATE_1645: "普杜科塔"
+ STATE_1646: "库格"
+ STATE_1647: "达曼"
+ STATE_1648: "孟买诸邦"
+ STATE_1649: "班加纳帕莱"
+ STATE_1650: "奥里萨诸邦"
+ STATE_1651: "中央省诸邦"
+ STATE_1652: "贝拿勒斯"
+ STATE_1653: "兰普尔"
+ STATE_1654: "中央印度诸邦"
+ STATE_1655: "阿杰梅尔-梅尔瓦拉"
+ STATE_1656: "旁遮普诸邦"
+ STATE_1657: "巴哈瓦尔布尔"
+ STATE_1658: "西北边境省"
+ STATE_1659: "瓜廖尔代理处诸邦"
+ STATE_1660: "吉尔吉特"
+ STATE_1661: "凯尔普尔"
+ STATE_1662: "科希斯坦-哈扎拉"
+ STATE_1663: "开伯尔-库拉姆-瓦济里斯坦"
+ STATE_1664: "锡金"
+ STATE_1665: "古吉贝哈尔"
+ STATE_1666: "特里普拉"
+ STATE_1667: "卡西诸邦"
+ STATE_1668: "曼尼普尔"
+ STATE_1669: "巴罗达"

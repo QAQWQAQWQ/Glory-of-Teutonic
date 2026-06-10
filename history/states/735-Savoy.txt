@@ -3,12 +3,22 @@ state = {
 	name = "STATE_735"
 
 	state_category = town
+	resources={
+		steel=5
+		aluminium=10
+	}
 
 	history = {
-		owner = SPM
-		add_core_of = SPM
+		owner = SAP
+		add_core_of = SAP
 		victory_points = {
-			778 1 
+			11573 12
+		}
+		victory_points = {
+			9603 1
+		}
+		victory_points = {
+			6609 12
 		}
 		buildings = {
 			infrastructure = 2
@@ -16,7 +26,7 @@ state = {
 	}
 
 	provinces = {
-		764 3764 6609 9745
+		6609 9745
 	}
 	manpower = 407500
 	buildings_max_level_factor = 1.000

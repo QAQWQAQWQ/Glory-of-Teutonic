@@ -2,19 +2,22 @@
 state={
 	id=441
 	name="STATE_441"
-	manpower = 2123700
+	manpower = 4123700
 	
-	state_category = rural
+	state_category = town
 
 	history={
 		owner = RAJ
+		victory_points = {
+			1910 1
+		}
 		buildings = {
 			infrastructure = 1
 		}
 	}
 
 	provinces={
-		5042 7273 7316 8005 10905 12754 12884 
+		5042 7273 7316 8005 10905 12884 1910 2041 
 	}
 
 	local_supplies=0.0 

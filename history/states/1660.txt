@@ -1,0 +1,22 @@
+
+state={
+	id=1660
+	name="STATE_1660"
+	manpower = 1510044
+
+	state_category = pastoral
+
+	history={
+		owner = DNU
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 2 
+		}
+	}
+
+	provinces={
+		10139 
+	}
+
+	local_supplies=0.0 
+}

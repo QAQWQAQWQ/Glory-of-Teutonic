@@ -6,7 +6,7 @@ state={
 	}
 
 	history={
-		owner = HAB
+		owner = DNU
 		add_core_of = HAB
 		buildings = {
 			infrastructure = 3

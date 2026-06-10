@@ -2,7 +2,7 @@
 state={
 	id=433
 	name="STATE_433" # Rajasthan
-	manpower = 11786000
+	manpower = 10786000
 	
 	state_category = town
 	
@@ -15,7 +15,7 @@ state={
 		victory_points = {
 			2054 1
 		}
-		owner = RAJ
+		owner = DNU
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -24,7 +24,9 @@ state={
 	}
 
 	provinces={
-		1199 1908 2054 4149 4915 4971 4984 7905 7998 10847 10866 12041 12718 12743 12829 12844 12876 12886 
+		1199 1908 2054 4971 4984 7905 7998 10847 10866 12041 12718 12829 12844 12876 12886 
+		2092 7080 
+		2002 12868 
 	}
 
 	local_supplies=9.0 

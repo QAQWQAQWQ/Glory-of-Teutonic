@@ -1,0 +1,26 @@
+
+state={
+	id=1643
+	name="STATE_1643"
+	manpower = 1060410
+
+	state_category = enclave
+
+	history={
+		owner = EFU
+		add_core_of = RAJ
+		victory_points = {
+			1238 1
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+			1238 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={ 1238 }
+
+	local_supplies=0.0 
+}

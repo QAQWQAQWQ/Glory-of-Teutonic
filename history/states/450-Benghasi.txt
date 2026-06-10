@@ -7,7 +7,7 @@ state={
 	state_category = wasteland
 
 	history={
-		owner = HAB
+		owner = BAU
 		
 		victory_points = {
 			11954 3 

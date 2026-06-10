@@ -1,0 +1,29 @@
+
+state = {
+	id = 1607
+	name = "STATE_1607"
+	manpower = 284421
+	
+	state_category = rural
+	resources = {
+		steel = 2
+		aluminium = 1
+	}
+
+	history = {
+		owner = MIL
+		add_core_of = MIL
+		buildings = {
+			infrastructure = 4 
+		}
+		victory_points = { 
+			6635 2
+		}
+	}
+
+	provinces = {
+        6635 
+	}
+
+	local_supplies = 0.0 
+}

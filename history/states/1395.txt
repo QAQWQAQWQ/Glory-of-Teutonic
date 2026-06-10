@@ -7,7 +7,7 @@ state={
 	history={
 		owner = HAB
 		add_core_of = HAB
-		victory_points = { 13496 3 }
+		victory_points = { 13496 5 }
 		buildings = {
 			infrastructure = 4
 

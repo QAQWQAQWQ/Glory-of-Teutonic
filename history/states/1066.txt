@@ -2,17 +2,17 @@
 state={
 	id=1066
 	name="STATE_1066"
-	manpower = 227739
+	manpower = 627739
 	resources={
 		steel=2
 	}
 	
-	state_category = large_town
+	state_category = city
 
 	history={
 		owner = TRE
 		add_core_of = TRE
-		victory_points = { 11494 3 }
+		victory_points = { 11494 18 }
 		buildings = {
 			infrastructure = 4
 
@@ -20,7 +20,7 @@ state={
 	}
 
 	provinces={
-		 11494
+		 11494 13626
 	}
 	
 	

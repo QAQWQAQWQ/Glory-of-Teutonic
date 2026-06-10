@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-		owner = SCO
+		owner = DNU
+		add_core_of = DNU
 		add_core_of = SCO
 
 		buildings = {

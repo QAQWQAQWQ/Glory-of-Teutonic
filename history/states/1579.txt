@@ -1,0 +1,31 @@
+
+state={
+	id=1579
+	name="STATE_1579"
+	manpower = 191090
+	resources={
+		steel=1.000
+		aluminium=1.000
+	}
+	
+	
+	state_category = rural
+
+	history={
+		victory_points = {
+			11582 5
+		}
+		victory_points = {
+			9597 2
+		}
+		owner = AGL
+		add_core_of = AGL
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		9597 11582
+	}
+}

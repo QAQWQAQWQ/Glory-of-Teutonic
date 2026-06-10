@@ -1,0 +1,34 @@
+
+state={
+	id=1564
+	name="STATE_1564"
+	manpower = 480800
+	
+	state_category = large_town
+	
+	resources={
+		aluminium=4
+	}
+
+	history={
+		owner = EFU
+		add_core_of = EFU
+		victory_points = {
+			9490 16
+		}
+		victory_points = {
+			3506 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+		}
+	}
+
+	provinces={
+		9490 3506 13598
+	}
+
+	local_supplies=0.0 
+}

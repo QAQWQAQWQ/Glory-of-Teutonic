@@ -30,6 +30,14 @@ set_autonomy = {
     autonomous_state = autonomy_personal_union
 }
 set_autonomy = {
-    target = MDA
+    target = HUN
+    autonomous_state = autonomy_personal_union
+}
+set_autonomy = {
+    target = KIE
+    autonomous_state = autonomy_personal_union
+}
+set_autonomy = {
+    target = SER
     autonomous_state = autonomy_personal_union
 }

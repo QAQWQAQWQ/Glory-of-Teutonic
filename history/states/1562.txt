@@ -1,0 +1,29 @@
+
+state={
+	id=1562
+	name="STATE_1562"
+	manpower = 470800
+	
+	state_category = town
+
+	history={
+		owner = BRG
+		add_core_of = BRG
+		victory_points = {
+			11732 10
+		}
+		victory_points = {
+			551 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+		551 11732 
+	}
+
+	local_supplies=0.0 
+}

@@ -5,22 +5,25 @@ state = {
 		aluminium=1
 	}
 	
-	state_category = town
+	state_category = large_town
 	
 	history = {
 		owner = PAM
 		add_core_of = PAM
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+			industrial_complex = 2
+		}
+		victory_points = { #Parma
+			13610 16
 		}
 
 	}
 
 	provinces = {
-        6790 3773
+         13610
 	}
-	manpower = 253151
+	manpower = 423151
 
 	local_supplies = 0.0 
 }

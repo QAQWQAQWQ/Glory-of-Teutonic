@@ -8,8 +8,8 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = HAN
-		add_core_of = HAN
+		owner = FSL
+		add_core_of = FSL
 		buildings = {
 			infrastructure = 4
 

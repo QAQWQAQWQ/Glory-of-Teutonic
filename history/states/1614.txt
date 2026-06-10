@@ -1,0 +1,26 @@
+
+state = {
+	id = 1614
+	name = "STATE_1614"
+	manpower = 190812
+	
+	state_category = rural
+	resources = {
+	}
+	history = {
+		owner = VNI
+		add_core_of = VNI
+		buildings = {
+			infrastructure = 4 
+		}
+		victory_points = { 
+			9582 5
+		}
+	}
+
+	provinces = {
+        9582 
+	}
+
+	local_supplies = 0.0 
+}

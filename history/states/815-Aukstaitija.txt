@@ -4,8 +4,8 @@ state={
 	name="STATE_815"
 
 	history={
-		owner = RER
-		add_core_of = RER
+		owner = TEU
+		add_core_of = TEU
 		buildings = {
 			infrastructure = 2
 
@@ -14,7 +14,7 @@ state={
 	}
 
 	provinces={
-		9246 9438 11226 11498 
+		9246 9438 11226 11498 9374
 	}
 	manpower=161450
 	buildings_max_level_factor=1.000

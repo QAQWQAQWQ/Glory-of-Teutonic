@@ -8,8 +8,8 @@ state={
 	state_category = rural
 
 	history={
-		owner = KOL
-		add_core_of = KOL
+		owner = FSL
+		add_core_of = FSL
 		buildings = {
 			infrastructure = 4
 

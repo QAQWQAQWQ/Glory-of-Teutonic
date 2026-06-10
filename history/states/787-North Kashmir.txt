@@ -1,15 +1,12 @@
 state={
 	id=787
 	name="STATE_787" # Northern Kashmir
-	manpower = 1415800
+	manpower = 415800
 	
-	state_category = rural
+	state_category = enclave
 
 	history={
-		victory_points = {
-			1910 1
-		}
-		owner = RAJ
+		owner = DNU
 		buildings = {
 			infrastructure = 1
 		}
@@ -17,7 +14,7 @@ state={
 	}
 
 	provinces={
-		1910 2041 2084 10821 
+		2084 10821 
 	}
 
 	local_supplies=0.0 

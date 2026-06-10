@@ -2,17 +2,16 @@ state = {
 	id = 1048
 	name = "STATE_1048"
 	resources = {
-		steel=1
+		steel=5
 	}
 	
-	state_category = town
+	state_category = city
 	
 	history = {
-		owner = HAB
-		add_core_of = HAB
-
-		victory_points = { #Verona
-			603 1
+		owner = MIL
+		add_core_of = MIL
+		victory_points = { #Brescia
+			11568 16
 		}
 		buildings = {
 			infrastructure = 3
@@ -22,9 +21,9 @@ state = {
 	}
 
 	provinces = {
-        603 11568
+        11568
 	}
-	manpower = 263151
+	manpower = 723151
 
 	local_supplies = 0.0 
 }

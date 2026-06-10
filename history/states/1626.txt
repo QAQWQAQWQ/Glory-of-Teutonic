@@ -1,0 +1,25 @@
+
+state = {
+	id = 1626
+	name = "STATE_1626"
+	manpower = 201211
+	
+	state_category = rural
+
+	history = {
+		owner = RIM
+		add_core_of = RIM
+		victory_points = {
+			13615 5
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		13615
+	}
+
+	local_supplies = 0.0 
+}

@@ -13,7 +13,7 @@ state={
 	history={
 		owner = TRE
 		add_core_of = TRE
-		victory_points = { 3423 1 }
+		victory_points = { 3423 10 }
 		buildings = {
 			infrastructure = 4
 

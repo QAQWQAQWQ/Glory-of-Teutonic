@@ -12,8 +12,8 @@ state={
 
 
 	history={
-		owner = NBG
-		add_core_of = NBG
+		owner = PTN
+		add_core_of = PTN
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2

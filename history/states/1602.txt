@@ -1,0 +1,29 @@
+
+state = {
+	id = 1602
+	name = "STATE_1602"
+	manpower = 195476
+	
+	state_category = rural
+	resources = {
+		steel = 3
+		aluminium = 2
+	}
+
+	history = {
+		owner = SAL
+		add_core_of = SAL
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			13604 5
+		}
+	}
+
+	provinces = {
+		13604 
+	}
+
+	local_supplies = 0.0 
+}

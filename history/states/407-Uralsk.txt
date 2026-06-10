@@ -7,8 +7,8 @@ state={
 			infrastructure = 2
 
 		}
-		owner = RWO
-		add_core_of = RWO
+		owner = SCH
+		add_core_of = SCH
 		victory_points = {
 			11537 1
 		}

@@ -6,7 +6,8 @@ state={
 	state_category = city
 
 	history={
-		owner = SUS
+		owner = EFU
+		add_core_of = EFU
 		add_core_of = SUS
 		victory_points = { 11446 10 }
 		buildings = {

@@ -1,0 +1,27 @@
+
+state = {
+	id = 1618
+	name = "STATE_1618"
+	manpower = 210812
+	
+	state_category = rural
+	history = {
+		owner = MIL
+		add_core_of = MIL
+		buildings = {
+			infrastructure = 4 
+		}
+		victory_points = { 
+			773 6
+		}
+		victory_points = { 
+			969 4
+		}
+	}
+
+	provinces = {
+         773 969 
+	}
+
+	local_supplies = 0.0 
+}

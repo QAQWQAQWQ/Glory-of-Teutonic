@@ -8,8 +8,8 @@ state=
 	
 	history=
 	{
-		owner = MDA
-		add_core_of = MDA
+		owner = PHU
+		add_core_of = PHU
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

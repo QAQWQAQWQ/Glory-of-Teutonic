@@ -1,0 +1,28 @@
+
+state = {
+	id = 1628
+	name = "STATE_1628"
+	manpower = 121211
+	
+	state_category = pastoral
+
+	history = {
+		owner = RIM
+		add_core_of = RIM
+		victory_points = {
+			13613 4
+		}
+		buildings = {
+			infrastructure = 4
+			13613 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces = {
+		13613
+	}
+
+	local_supplies = 0.0 
+}

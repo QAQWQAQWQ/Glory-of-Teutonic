@@ -11,8 +11,8 @@ state={
 
 
 	history={
-		owner = CRB
-		add_core_of = CRB
+		owner = BAU
+		add_core_of = BAU
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1

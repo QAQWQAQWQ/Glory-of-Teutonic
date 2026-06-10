@@ -1,0 +1,22 @@
+
+state={
+	id=1649
+	name="STATE_1649"
+	manpower = 490112
+
+	state_category = enclave
+
+	history={
+		owner = EFU
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		10756 
+	}
+
+	local_supplies=0.0 
+}

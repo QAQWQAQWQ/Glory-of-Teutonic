@@ -1,0 +1,26 @@
+
+state={
+	id=1573
+	name="STATE_1573"
+
+	history={
+		owner = EFU
+		add_core_of = EFU
+		victory_points = {
+			9507 7
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		9507
+	}
+	manpower=208400
+	state_category=rural
+	local_supplies=0.000
+}

@@ -11,7 +11,8 @@ state={
 	}
 
 	history={
-		owner = SCO
+		owner = DNU
+		add_core_of = DNU
 		add_core_of = SCO
 		victory_points = {
 			3273 25

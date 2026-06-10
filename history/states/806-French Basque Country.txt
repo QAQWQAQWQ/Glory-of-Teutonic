@@ -6,18 +6,18 @@ state={
 	history={
 		owner = IBF
 		add_core_of = IBF
-		victory_points = {
-			9710 3 
-		}
 		buildings = {
 			infrastructure = 3 #was: 6
 
+		}
+		victory_points = {
+			743 3 
 		}
 
 	}
 
 	provinces={
-		743 9710 11697 
+		743 11697
 	}
 	manpower=280723
 	buildings_max_level_factor=1.000

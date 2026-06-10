@@ -1,0 +1,26 @@
+
+state={
+	id=1578
+	name="STATE_1578"
+	manpower = 191090
+	
+	
+	state_category = rural
+
+	history={
+		owner = PRG
+		add_core_of = PRG
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			9751 5 
+		}
+	}
+
+	provinces={
+		6792 9751 
+	}
+
+	local_supplies=15.0 
+}

@@ -1,0 +1,29 @@
+state = {
+	id = 1596
+	name = "STATE_1596"
+
+	state_category = wasteland
+
+	
+	resources={
+		steel=3
+		aluminium=7
+	}
+	history = {
+		owner = AVG
+		add_core_of = AVG
+		victory_points = {
+			11711 1
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		11711
+	}
+	manpower = 31100
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,25 @@
+
+state = {
+	id = 1636
+	name = "STATE_1636"
+	manpower = 180999
+	
+	state_category = rural
+
+	history = {
+		owner = SAN
+		add_core_of = SAN
+		victory_points = {
+			13624 8
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		13624 
+	}
+
+	local_supplies = 0.0 
+}

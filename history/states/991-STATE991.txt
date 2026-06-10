@@ -10,7 +10,8 @@ state={
 	state_category = city
 
 	history={
-		owner = LUN
+		owner = HAN
+		add_core_of = HAN
 		add_core_of = LUN
 		buildings = {
 			infrastructure = 4
