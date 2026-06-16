@@ -364,12 +364,16 @@ RWO = {
 	color_ui = rgb { 86 113 143 }
 }
 RFE = {
-	color = rgb { 51 102 102 }
-	color_ui = rgb { 51 102 102 }
+	color = rgb { 51 102 142 }
+	color_ui = rgb { 51 102 142 }
 }
 RMO = {
-	color = rgb { 51 102 102 }
-	color_ui = rgb { 51 102 102 }
+	color = rgb { 91 102 102 }
+	color_ui = rgb { 91 102 102 }
+}
+RCA = {
+	color = rgb { 51 142 102 }
+	color_ui = rgb { 51 142 102 }
 }
 AKN = {
 	color = rgb { 86 113 143 }

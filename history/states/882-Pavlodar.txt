@@ -9,8 +9,8 @@ state = {
 	}
 
 	history = {
-		owner = RMO
-		add_core_of = RMO
+		owner = RCA
+		add_core_of = RCA
 		buildings = {
 			infrastructure = 2
 
@@ -21,7 +21,7 @@ state = {
 	}
 
 	provinces = {
-		1879 4670 4685 7317 7708 10202 10235 10630 12616
+		4670 4685 7317 7708 10202 10630 12616
 	}
 	manpower = 230210
 	buildings_max_level_factor = 1.000

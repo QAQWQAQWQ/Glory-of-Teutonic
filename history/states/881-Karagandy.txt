@@ -3,8 +3,8 @@ state = {
 	name = "STATE_881" # Karagandy
 
 	history = {
-		owner = RMO
-		add_core_of = RMO
+		owner = RCA
+		add_core_of = RCA
 		buildings = {
 			infrastructure = 1
 
@@ -13,8 +13,8 @@ state = {
 	}
 
 	provinces = {
-		1243 1312 1382 1402 4250 4277 4389 4492 4595 7335 10179 10220 10268 10275 10277 10508 12111 12121 12177 12194 12385 12487
-		7392 10452 
+		1243 1312 1382 4250 4277 4389 4492 10179 10220 10268 10508 12111 12121 12177 12194 12487
+		
 	}
 	manpower = 227016
 	buildings_max_level_factor = 1.000

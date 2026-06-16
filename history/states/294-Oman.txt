@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = OMA
+		owner = IBF
 		buildings = {
 			infrastructure = 1
 			arms_factory = 1

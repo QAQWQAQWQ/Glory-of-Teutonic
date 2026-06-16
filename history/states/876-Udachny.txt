@@ -3,8 +3,8 @@ state = {
 	name = "STATE_876" #Udachny
 
 	history = {
-		owner = RFE
-		add_core_of = RFE
+		owner = SCH
+		add_core_of = SCH
 
 		#victory_points = {
 		#	6085 1  #Udachny was founded in 1955

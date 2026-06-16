@@ -60,6 +60,7 @@ RES="countries/Regierungsbezirk Smolensk.txt"
 RFE="countries/Deutschordensstaat.txt"#Regierungsbezirk Far East
 RWO="countries/Deutschordensstaat.txt"#Regierungsbezirk Wolgadeutsche
 RMO="countries/Deutschordensstaat.txt"#Regierungsbezirk Tartaria
+RCA="countries/Deutschordensstaat.txt"#Regierungsbezirk Central Asia
 SCH="countries/Schwertbrüderorden.txt"
 SEE="countries/Swedish Empire.txt"
 DNU="countries/Denmark Norway United Kingdom.txt"
